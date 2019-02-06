@@ -1,0 +1,649 @@
+Can I buy [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filters for the house
+Can I buy [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filters for the house
+Can I buy [BRAND: e.g., "3M"] air filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Can I buy [BRAND: e.g., "3M"] air filters that [ATTRIBUTE: e.g., "lasts"]
+Can I buy [BRAND: e.g., "3M"] air filters that are [ATTRIBUTE: e.g., "cheap"]
+Can I buy [BRAND: e.g., "3M"] air filters that will [ATTRIBUTE: e.g., "last"] me a long time
+Can I buy [BRAND: e.g., "3M"] air filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Can I buy [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "customer reviews"]
+Can I buy [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "replacement time"]
+Can I buy [BRAND: e.g., "3M"] filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Can I buy [BRAND: e.g., "3M"] filters that [ATTRIBUTE: e.g., "lasts"]
+Can I buy [BRAND: e.g., "3M"] filters that are [ATTRIBUTE: e.g., "cheap"]
+Can I buy [BRAND: e.g., "3M"] filters that will [ATTRIBUTE: e.g., "last"] me a long time
+Can I buy [BRAND: e.g., "3M"] filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Can I buy [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "customer reviews"]
+Can I buy [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "replacement time"]
+Can I buy a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filter for the house
+Can I buy a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filter for the house
+Can I buy a [BRAND: e.g., "3M"] air filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Can I buy a [BRAND: e.g., "3M"] air filter that [ATTRIBUTE: e.g., "lasts"]
+Can I buy a [BRAND: e.g., "3M"] air filter that is [ATTRIBUTE: e.g., "cheap"]
+Can I buy a [BRAND: e.g., "3M"] air filter that will [ATTRIBUTE: e.g., "last"] me a long time
+Can I buy a [BRAND: e.g., "3M"] air filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Can I buy a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "customer reviews"]
+Can I buy a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "replacement time"]
+Can I buy a [BRAND: e.g., "3M"] filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Can I buy a [BRAND: e.g., "3M"] filter that [ATTRIBUTE: e.g., "lasts"]
+Can I buy a [BRAND: e.g., "3M"] filter that is [ATTRIBUTE: e.g., "cheap"]
+Can I buy a [BRAND: e.g., "3M"] filter that will [ATTRIBUTE: e.g., "last"] me a long time
+Can I buy a [BRAND: e.g., "3M"] filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Can I buy a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "customer reviews"]
+Can I buy a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "replacement time"]
+Can I buy a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filter
+Can I buy a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filter
+Can I buy good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filters
+Can I buy good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filters
+Can I buy the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filter you got
+Can I buy the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filters you got
+Can I buy the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filter you got
+Can I buy the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filters you got
+Can I buy the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filter
+Can I buy the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filters
+Can I buy the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filter
+Can I buy the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filters
+Do y'all have [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filters for the house
+Do y'all have [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filters for the house
+Do y'all have [BRAND: e.g., "3M"] air filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Do y'all have [BRAND: e.g., "3M"] air filters that [ATTRIBUTE: e.g., "lasts"]
+Do y'all have [BRAND: e.g., "3M"] air filters that are [ATTRIBUTE: e.g., "cheap"]
+Do y'all have [BRAND: e.g., "3M"] air filters that will [ATTRIBUTE: e.g., "last"] me a long time
+Do y'all have [BRAND: e.g., "3M"] air filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Do y'all have [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "customer reviews"]
+Do y'all have [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "replacement time"]
+Do y'all have [BRAND: e.g., "3M"] filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Do y'all have [BRAND: e.g., "3M"] filters that [ATTRIBUTE: e.g., "lasts"]
+Do y'all have [BRAND: e.g., "3M"] filters that are [ATTRIBUTE: e.g., "cheap"]
+Do y'all have [BRAND: e.g., "3M"] filters that will [ATTRIBUTE: e.g., "last"] me a long time
+Do y'all have [BRAND: e.g., "3M"] filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Do y'all have [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "customer reviews"]
+Do y'all have [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "replacement time"]
+Do y'all have a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filter for the house
+Do y'all have a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filter for the house
+Do y'all have a [BRAND: e.g., "3M"] air filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Do y'all have a [BRAND: e.g., "3M"] air filter that [ATTRIBUTE: e.g., "lasts"]
+Do y'all have a [BRAND: e.g., "3M"] air filter that is [ATTRIBUTE: e.g., "cheap"]
+Do y'all have a [BRAND: e.g., "3M"] air filter that will [ATTRIBUTE: e.g., "last"] me a long time
+Do y'all have a [BRAND: e.g., "3M"] air filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Do y'all have a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "customer reviews"]
+Do y'all have a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "replacement time"]
+Do y'all have a [BRAND: e.g., "3M"] filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Do y'all have a [BRAND: e.g., "3M"] filter that [ATTRIBUTE: e.g., "lasts"]
+Do y'all have a [BRAND: e.g., "3M"] filter that is [ATTRIBUTE: e.g., "cheap"]
+Do y'all have a [BRAND: e.g., "3M"] filter that will [ATTRIBUTE: e.g., "last"] me a long time
+Do y'all have a [BRAND: e.g., "3M"] filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Do y'all have a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "customer reviews"]
+Do y'all have a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "replacement time"]
+Do y'all have a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filter
+Do y'all have a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filter
+Do y'all have good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filters
+Do y'all have good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filters
+Do y'all have the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filter you got
+Do y'all have the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filters you got
+Do y'all have the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filter you got
+Do y'all have the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filters you got
+Do y'all have the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filter
+Do y'all have the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filters
+Do y'all have the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filter
+Do y'all have the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filters
+Do you have [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filters for the house
+Do you have [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filters for the house
+Do you have [BRAND: e.g., "3M"] air filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Do you have [BRAND: e.g., "3M"] air filters that [ATTRIBUTE: e.g., "lasts"]
+Do you have [BRAND: e.g., "3M"] air filters that are [ATTRIBUTE: e.g., "cheap"]
+Do you have [BRAND: e.g., "3M"] air filters that will [ATTRIBUTE: e.g., "last"] me a long time
+Do you have [BRAND: e.g., "3M"] air filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Do you have [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "customer reviews"]
+Do you have [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "replacement time"]
+Do you have [BRAND: e.g., "3M"] filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Do you have [BRAND: e.g., "3M"] filters that [ATTRIBUTE: e.g., "lasts"]
+Do you have [BRAND: e.g., "3M"] filters that are [ATTRIBUTE: e.g., "cheap"]
+Do you have [BRAND: e.g., "3M"] filters that will [ATTRIBUTE: e.g., "last"] me a long time
+Do you have [BRAND: e.g., "3M"] filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Do you have [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "customer reviews"]
+Do you have [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "replacement time"]
+Do you have a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filter for the house
+Do you have a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filter for the house
+Do you have a [BRAND: e.g., "3M"] air filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Do you have a [BRAND: e.g., "3M"] air filter that [ATTRIBUTE: e.g., "lasts"]
+Do you have a [BRAND: e.g., "3M"] air filter that is [ATTRIBUTE: e.g., "cheap"]
+Do you have a [BRAND: e.g., "3M"] air filter that will [ATTRIBUTE: e.g., "last"] me a long time
+Do you have a [BRAND: e.g., "3M"] air filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Do you have a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "customer reviews"]
+Do you have a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "replacement time"]
+Do you have a [BRAND: e.g., "3M"] filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Do you have a [BRAND: e.g., "3M"] filter that [ATTRIBUTE: e.g., "lasts"]
+Do you have a [BRAND: e.g., "3M"] filter that is [ATTRIBUTE: e.g., "cheap"]
+Do you have a [BRAND: e.g., "3M"] filter that will [ATTRIBUTE: e.g., "last"] me a long time
+Do you have a [BRAND: e.g., "3M"] filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Do you have a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "customer reviews"]
+Do you have a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "replacement time"]
+Do you have a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filter
+Do you have a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filter
+Do you have good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filters
+Do you have good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filters
+Do you have the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filter you got
+Do you have the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filters you got
+Do you have the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filter you got
+Do you have the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filters you got
+Do you have the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filter
+Do you have the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filters
+Do you have the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filter
+Do you have the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filters
+Here to pick up [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filters for the house
+Here to pick up [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filters for the house
+Here to pick up [BRAND: e.g., "3M"] air filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Here to pick up [BRAND: e.g., "3M"] air filters that [ATTRIBUTE: e.g., "lasts"]
+Here to pick up [BRAND: e.g., "3M"] air filters that are [ATTRIBUTE: e.g., "cheap"]
+Here to pick up [BRAND: e.g., "3M"] air filters that will [ATTRIBUTE: e.g., "last"] me a long time
+Here to pick up [BRAND: e.g., "3M"] air filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Here to pick up [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "customer reviews"]
+Here to pick up [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "replacement time"]
+Here to pick up [BRAND: e.g., "3M"] filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Here to pick up [BRAND: e.g., "3M"] filters that [ATTRIBUTE: e.g., "lasts"]
+Here to pick up [BRAND: e.g., "3M"] filters that are [ATTRIBUTE: e.g., "cheap"]
+Here to pick up [BRAND: e.g., "3M"] filters that will [ATTRIBUTE: e.g., "last"] me a long time
+Here to pick up [BRAND: e.g., "3M"] filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Here to pick up [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "customer reviews"]
+Here to pick up [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "replacement time"]
+Here to pick up a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filter for the house
+Here to pick up a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filter for the house
+Here to pick up a [BRAND: e.g., "3M"] air filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Here to pick up a [BRAND: e.g., "3M"] air filter that [ATTRIBUTE: e.g., "lasts"]
+Here to pick up a [BRAND: e.g., "3M"] air filter that is [ATTRIBUTE: e.g., "cheap"]
+Here to pick up a [BRAND: e.g., "3M"] air filter that will [ATTRIBUTE: e.g., "last"] me a long time
+Here to pick up a [BRAND: e.g., "3M"] air filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Here to pick up a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "customer reviews"]
+Here to pick up a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "replacement time"]
+Here to pick up a [BRAND: e.g., "3M"] filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Here to pick up a [BRAND: e.g., "3M"] filter that [ATTRIBUTE: e.g., "lasts"]
+Here to pick up a [BRAND: e.g., "3M"] filter that is [ATTRIBUTE: e.g., "cheap"]
+Here to pick up a [BRAND: e.g., "3M"] filter that will [ATTRIBUTE: e.g., "last"] me a long time
+Here to pick up a [BRAND: e.g., "3M"] filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Here to pick up a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "customer reviews"]
+Here to pick up a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "replacement time"]
+Here to pick up a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filter
+Here to pick up a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filter
+Here to pick up good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filters
+Here to pick up good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filters
+Here to pick up the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filter you got
+Here to pick up the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filters you got
+Here to pick up the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filter you got
+Here to pick up the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filters you got
+Here to pick up the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filter
+Here to pick up the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filters
+Here to pick up the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filter
+Here to pick up the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filters
+I like [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filters for the house
+I like [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filters for the house
+I like [BRAND: e.g., "3M"] air filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I like [BRAND: e.g., "3M"] air filters that [ATTRIBUTE: e.g., "lasts"]
+I like [BRAND: e.g., "3M"] air filters that are [ATTRIBUTE: e.g., "cheap"]
+I like [BRAND: e.g., "3M"] air filters that will [ATTRIBUTE: e.g., "last"] me a long time
+I like [BRAND: e.g., "3M"] air filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I like [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "customer reviews"]
+I like [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "replacement time"]
+I like [BRAND: e.g., "3M"] filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I like [BRAND: e.g., "3M"] filters that [ATTRIBUTE: e.g., "lasts"]
+I like [BRAND: e.g., "3M"] filters that are [ATTRIBUTE: e.g., "cheap"]
+I like [BRAND: e.g., "3M"] filters that will [ATTRIBUTE: e.g., "last"] me a long time
+I like [BRAND: e.g., "3M"] filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I like [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "customer reviews"]
+I like [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "replacement time"]
+I like a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filter for the house
+I like a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filter for the house
+I like a [BRAND: e.g., "3M"] air filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I like a [BRAND: e.g., "3M"] air filter that [ATTRIBUTE: e.g., "lasts"]
+I like a [BRAND: e.g., "3M"] air filter that is [ATTRIBUTE: e.g., "cheap"]
+I like a [BRAND: e.g., "3M"] air filter that will [ATTRIBUTE: e.g., "last"] me a long time
+I like a [BRAND: e.g., "3M"] air filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I like a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "customer reviews"]
+I like a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "replacement time"]
+I like a [BRAND: e.g., "3M"] filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I like a [BRAND: e.g., "3M"] filter that [ATTRIBUTE: e.g., "lasts"]
+I like a [BRAND: e.g., "3M"] filter that is [ATTRIBUTE: e.g., "cheap"]
+I like a [BRAND: e.g., "3M"] filter that will [ATTRIBUTE: e.g., "last"] me a long time
+I like a [BRAND: e.g., "3M"] filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I like a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "customer reviews"]
+I like a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "replacement time"]
+I like a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filter
+I like a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filter
+I like good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filters
+I like good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filters
+I like the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filter you got
+I like the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filters you got
+I like the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filter you got
+I like the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filters you got
+I like the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filter
+I like the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filters
+I like the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filter
+I like the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filters
+I need [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filters for the house
+I need [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filters for the house
+I need [BRAND: e.g., "3M"] air filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I need [BRAND: e.g., "3M"] air filters that [ATTRIBUTE: e.g., "lasts"]
+I need [BRAND: e.g., "3M"] air filters that are [ATTRIBUTE: e.g., "cheap"]
+I need [BRAND: e.g., "3M"] air filters that will [ATTRIBUTE: e.g., "last"] me a long time
+I need [BRAND: e.g., "3M"] air filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I need [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "customer reviews"]
+I need [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "replacement time"]
+I need [BRAND: e.g., "3M"] air filters, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I need [BRAND: e.g., "3M"] air filters, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I need [BRAND: e.g., "3M"] air filters, but I don't want to  [ATTRIBUTE: e.g., "replace"] them all the time
+I need [BRAND: e.g., "3M"] filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I need [BRAND: e.g., "3M"] filters that [ATTRIBUTE: e.g., "lasts"]
+I need [BRAND: e.g., "3M"] filters that are [ATTRIBUTE: e.g., "cheap"]
+I need [BRAND: e.g., "3M"] filters that will [ATTRIBUTE: e.g., "last"] me a long time
+I need [BRAND: e.g., "3M"] filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I need [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "customer reviews"]
+I need [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "replacement time"]
+I need [BRAND: e.g., "3M"] filters, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I need [BRAND: e.g., "3M"] filters, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I need [BRAND: e.g., "3M"] filters, but I don't want to  [ATTRIBUTE: e.g., "replace"] them all the time
+I need a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filter for the house
+I need a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filter for the house
+I need a [BRAND: e.g., "3M"] air filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I need a [BRAND: e.g., "3M"] air filter that [ATTRIBUTE: e.g., "lasts"]
+I need a [BRAND: e.g., "3M"] air filter that is [ATTRIBUTE: e.g., "cheap"]
+I need a [BRAND: e.g., "3M"] air filter that will [ATTRIBUTE: e.g., "last"] me a long time
+I need a [BRAND: e.g., "3M"] air filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I need a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "customer reviews"]
+I need a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "replacement time"]
+I need a [BRAND: e.g., "3M"] air filter, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I need a [BRAND: e.g., "3M"] air filter, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I need a [BRAND: e.g., "3M"] air filter, but I don't want to  [ATTRIBUTE: e.g., "replace"] it all the time
+I need a [BRAND: e.g., "3M"] filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I need a [BRAND: e.g., "3M"] filter that [ATTRIBUTE: e.g., "lasts"]
+I need a [BRAND: e.g., "3M"] filter that is [ATTRIBUTE: e.g., "cheap"]
+I need a [BRAND: e.g., "3M"] filter that will [ATTRIBUTE: e.g., "last"] me a long time
+I need a [BRAND: e.g., "3M"] filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I need a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "customer reviews"]
+I need a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "replacement time"]
+I need a [BRAND: e.g., "3M"] filter, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I need a [BRAND: e.g., "3M"] filter, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I need a [BRAND: e.g., "3M"] filter, but I don't want to  [ATTRIBUTE: e.g., "replace"] it all the time
+I need a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filter
+I need a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filter
+I need good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filters
+I need good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filters
+I need the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filter you got
+I need the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filters you got
+I need the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filter you got
+I need the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filters you got
+I need the [BRAND: e.g., "3M"], and  [ATTRIBUTE: e.g., "price"] is the first thing I look at
+I need the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filter
+I need the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filters
+I need the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filter
+I need the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filters
+I need to get [BRAND: e.g., "3M"] air filters, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I need to get [BRAND: e.g., "3M"] air filters, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I need to get [BRAND: e.g., "3M"] air filters, but I don't want to  [ATTRIBUTE: e.g., "replace"] them all the time
+I need to get [BRAND: e.g., "3M"] filters, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I need to get [BRAND: e.g., "3M"] filters, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I need to get [BRAND: e.g., "3M"] filters, but I don't want to  [ATTRIBUTE: e.g., "replace"] them all the time
+I need to get a [BRAND: e.g., "3M"] air filter, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I need to get a [BRAND: e.g., "3M"] air filter, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I need to get a [BRAND: e.g., "3M"] air filter, but I don't want to  [ATTRIBUTE: e.g., "replace"] it all the time
+I need to get a [BRAND: e.g., "3M"] filter, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I need to get a [BRAND: e.g., "3M"] filter, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I need to get a [BRAND: e.g., "3M"] filter, but I don't want to  [ATTRIBUTE: e.g., "replace"] it all the time
+I need to get the [BRAND: e.g., "3M"], and  [ATTRIBUTE: e.g., "price"] is the first thing I look at
+I need to grab [BRAND: e.g., "3M"] air filters while I'm here that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I need to grab [BRAND: e.g., "3M"] air filters while I'm here that [ATTRIBUTE: e.g., "lasts"]
+I need to grab [BRAND: e.g., "3M"] air filters while I'm here that will [ATTRIBUTE: e.g., "last"] me a long time
+I need to grab [BRAND: e.g., "3M"] air filters while I'm here with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I need to grab [BRAND: e.g., "3M"] air filters while I'm here with good [ATTRIBUTE: e.g., "customer reviews"]
+I need to grab [BRAND: e.g., "3M"] air filters while I'm here with good [ATTRIBUTE: e.g., "replacement time"]
+I need to grab [BRAND: e.g., "3M"] air filters, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I need to grab [BRAND: e.g., "3M"] air filters, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I need to grab [BRAND: e.g., "3M"] air filters, but I don't want to  [ATTRIBUTE: e.g., "replace"] them all the time
+I need to grab [BRAND: e.g., "3M"] filters while I'm here that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I need to grab [BRAND: e.g., "3M"] filters while I'm here that [ATTRIBUTE: e.g., "lasts"]
+I need to grab [BRAND: e.g., "3M"] filters while I'm here that will [ATTRIBUTE: e.g., "last"] me a long time
+I need to grab [BRAND: e.g., "3M"] filters while I'm here with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I need to grab [BRAND: e.g., "3M"] filters while I'm here with good [ATTRIBUTE: e.g., "customer reviews"]
+I need to grab [BRAND: e.g., "3M"] filters while I'm here with good [ATTRIBUTE: e.g., "replacement time"]
+I need to grab [BRAND: e.g., "3M"] filters, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I need to grab [BRAND: e.g., "3M"] filters, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I need to grab [BRAND: e.g., "3M"] filters, but I don't want to  [ATTRIBUTE: e.g., "replace"] them all the time
+I need to grab a [BRAND: e.g., "3M"] air filter while I'm here that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I need to grab a [BRAND: e.g., "3M"] air filter while I'm here that [ATTRIBUTE: e.g., "lasts"]
+I need to grab a [BRAND: e.g., "3M"] air filter while I'm here that will [ATTRIBUTE: e.g., "last"] me a long time
+I need to grab a [BRAND: e.g., "3M"] air filter while I'm here with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I need to grab a [BRAND: e.g., "3M"] air filter while I'm here with good [ATTRIBUTE: e.g., "customer reviews"]
+I need to grab a [BRAND: e.g., "3M"] air filter while I'm here with good [ATTRIBUTE: e.g., "replacement time"]
+I need to grab a [BRAND: e.g., "3M"] air filter, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I need to grab a [BRAND: e.g., "3M"] air filter, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I need to grab a [BRAND: e.g., "3M"] air filter, but I don't want to  [ATTRIBUTE: e.g., "replace"] it all the time
+I need to grab a [BRAND: e.g., "3M"] filter while I'm here that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I need to grab a [BRAND: e.g., "3M"] filter while I'm here that [ATTRIBUTE: e.g., "lasts"]
+I need to grab a [BRAND: e.g., "3M"] filter while I'm here that will [ATTRIBUTE: e.g., "last"] me a long time
+I need to grab a [BRAND: e.g., "3M"] filter while I'm here with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I need to grab a [BRAND: e.g., "3M"] filter while I'm here with good [ATTRIBUTE: e.g., "customer reviews"]
+I need to grab a [BRAND: e.g., "3M"] filter while I'm here with good [ATTRIBUTE: e.g., "replacement time"]
+I need to grab a [BRAND: e.g., "3M"] filter, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I need to grab a [BRAND: e.g., "3M"] filter, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I need to grab a [BRAND: e.g., "3M"] filter, but I don't want to  [ATTRIBUTE: e.g., "replace"] it all the time
+I need to grab the [BRAND: e.g., "3M"], and  [ATTRIBUTE: e.g., "price"] is the first thing I look at
+I need to grab the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filter while I'm here
+I need to grab the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filters while I'm here
+I need to grab the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filter while I'm here
+I need to grab the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filters while I'm here
+I think I need [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filters for the house
+I think I need [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filters for the house
+I think I need [BRAND: e.g., "3M"] air filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I think I need [BRAND: e.g., "3M"] air filters that [ATTRIBUTE: e.g., "lasts"]
+I think I need [BRAND: e.g., "3M"] air filters that are [ATTRIBUTE: e.g., "cheap"]
+I think I need [BRAND: e.g., "3M"] air filters that will [ATTRIBUTE: e.g., "last"] me a long time
+I think I need [BRAND: e.g., "3M"] air filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I think I need [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "customer reviews"]
+I think I need [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "replacement time"]
+I think I need [BRAND: e.g., "3M"] filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I think I need [BRAND: e.g., "3M"] filters that [ATTRIBUTE: e.g., "lasts"]
+I think I need [BRAND: e.g., "3M"] filters that are [ATTRIBUTE: e.g., "cheap"]
+I think I need [BRAND: e.g., "3M"] filters that will [ATTRIBUTE: e.g., "last"] me a long time
+I think I need [BRAND: e.g., "3M"] filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I think I need [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "customer reviews"]
+I think I need [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "replacement time"]
+I think I need a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filter for the house
+I think I need a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filter for the house
+I think I need a [BRAND: e.g., "3M"] air filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I think I need a [BRAND: e.g., "3M"] air filter that [ATTRIBUTE: e.g., "lasts"]
+I think I need a [BRAND: e.g., "3M"] air filter that is [ATTRIBUTE: e.g., "cheap"]
+I think I need a [BRAND: e.g., "3M"] air filter that will [ATTRIBUTE: e.g., "last"] me a long time
+I think I need a [BRAND: e.g., "3M"] air filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I think I need a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "customer reviews"]
+I think I need a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "replacement time"]
+I think I need a [BRAND: e.g., "3M"] filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I think I need a [BRAND: e.g., "3M"] filter that [ATTRIBUTE: e.g., "lasts"]
+I think I need a [BRAND: e.g., "3M"] filter that is [ATTRIBUTE: e.g., "cheap"]
+I think I need a [BRAND: e.g., "3M"] filter that will [ATTRIBUTE: e.g., "last"] me a long time
+I think I need a [BRAND: e.g., "3M"] filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I think I need a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "customer reviews"]
+I think I need a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "replacement time"]
+I think I need a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filter
+I think I need a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filter
+I think I need good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filters
+I think I need good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filters
+I think I need the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filter you got
+I think I need the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filters you got
+I think I need the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filter you got
+I think I need the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filters you got
+I think I need the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filter
+I think I need the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filters
+I think I need the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filter
+I think I need the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filters
+I want to invest in [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filters for the house
+I want to invest in [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filters for the house
+I want to invest in [BRAND: e.g., "3M"] air filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I want to invest in [BRAND: e.g., "3M"] air filters that [ATTRIBUTE: e.g., "lasts"]
+I want to invest in [BRAND: e.g., "3M"] air filters that are [ATTRIBUTE: e.g., "cheap"]
+I want to invest in [BRAND: e.g., "3M"] air filters that will [ATTRIBUTE: e.g., "last"] me a long time
+I want to invest in [BRAND: e.g., "3M"] air filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I want to invest in [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "customer reviews"]
+I want to invest in [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "replacement time"]
+I want to invest in [BRAND: e.g., "3M"] air filters, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I want to invest in [BRAND: e.g., "3M"] air filters, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I want to invest in [BRAND: e.g., "3M"] air filters, but I don't want to  [ATTRIBUTE: e.g., "replace"] them all the time
+I want to invest in [BRAND: e.g., "3M"] filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I want to invest in [BRAND: e.g., "3M"] filters that [ATTRIBUTE: e.g., "lasts"]
+I want to invest in [BRAND: e.g., "3M"] filters that are [ATTRIBUTE: e.g., "cheap"]
+I want to invest in [BRAND: e.g., "3M"] filters that will [ATTRIBUTE: e.g., "last"] me a long time
+I want to invest in [BRAND: e.g., "3M"] filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I want to invest in [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "customer reviews"]
+I want to invest in [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "replacement time"]
+I want to invest in [BRAND: e.g., "3M"] filters, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I want to invest in [BRAND: e.g., "3M"] filters, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I want to invest in [BRAND: e.g., "3M"] filters, but I don't want to  [ATTRIBUTE: e.g., "replace"] them all the time
+I want to invest in a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filter for the house
+I want to invest in a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filter for the house
+I want to invest in a [BRAND: e.g., "3M"] air filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I want to invest in a [BRAND: e.g., "3M"] air filter that [ATTRIBUTE: e.g., "lasts"]
+I want to invest in a [BRAND: e.g., "3M"] air filter that is [ATTRIBUTE: e.g., "cheap"]
+I want to invest in a [BRAND: e.g., "3M"] air filter that will [ATTRIBUTE: e.g., "last"] me a long time
+I want to invest in a [BRAND: e.g., "3M"] air filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I want to invest in a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "customer reviews"]
+I want to invest in a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "replacement time"]
+I want to invest in a [BRAND: e.g., "3M"] air filter, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I want to invest in a [BRAND: e.g., "3M"] air filter, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I want to invest in a [BRAND: e.g., "3M"] air filter, but I don't want to  [ATTRIBUTE: e.g., "replace"] it all the time
+I want to invest in a [BRAND: e.g., "3M"] filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I want to invest in a [BRAND: e.g., "3M"] filter that [ATTRIBUTE: e.g., "lasts"]
+I want to invest in a [BRAND: e.g., "3M"] filter that is [ATTRIBUTE: e.g., "cheap"]
+I want to invest in a [BRAND: e.g., "3M"] filter that will [ATTRIBUTE: e.g., "last"] me a long time
+I want to invest in a [BRAND: e.g., "3M"] filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I want to invest in a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "customer reviews"]
+I want to invest in a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "replacement time"]
+I want to invest in a [BRAND: e.g., "3M"] filter, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I want to invest in a [BRAND: e.g., "3M"] filter, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I want to invest in a [BRAND: e.g., "3M"] filter, but I don't want to  [ATTRIBUTE: e.g., "replace"] it all the time
+I want to invest in a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filter
+I want to invest in a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filter
+I want to invest in good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filters
+I want to invest in good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filters
+I want to invest in the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filter you got
+I want to invest in the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filters you got
+I want to invest in the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filter you got
+I want to invest in the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filters you got
+I want to invest in the [BRAND: e.g., "3M"], and  [ATTRIBUTE: e.g., "price"] is the first thing I look at
+I want to invest in the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filter
+I want to invest in the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filters
+I want to invest in the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filter
+I want to invest in the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filters
+I'd like to purchase [BRAND: e.g., "3M"] air filters, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I'd like to purchase [BRAND: e.g., "3M"] air filters, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I'd like to purchase [BRAND: e.g., "3M"] air filters, but I don't want to  [ATTRIBUTE: e.g., "replace"] them all the time
+I'd like to purchase [BRAND: e.g., "3M"] filters, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I'd like to purchase [BRAND: e.g., "3M"] filters, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I'd like to purchase [BRAND: e.g., "3M"] filters, but I don't want to  [ATTRIBUTE: e.g., "replace"] them all the time
+I'd like to purchase a [BRAND: e.g., "3M"] air filter, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I'd like to purchase a [BRAND: e.g., "3M"] air filter, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I'd like to purchase a [BRAND: e.g., "3M"] air filter, but I don't want to  [ATTRIBUTE: e.g., "replace"] it all the time
+I'd like to purchase a [BRAND: e.g., "3M"] filter, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I'd like to purchase a [BRAND: e.g., "3M"] filter, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I'd like to purchase a [BRAND: e.g., "3M"] filter, but I don't want to  [ATTRIBUTE: e.g., "replace"] it all the time
+I'd like to purchase the [BRAND: e.g., "3M"], and  [ATTRIBUTE: e.g., "price"] is the first thing I look at
+I'm here to shop for [BRAND: e.g., "3M"] air filters, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I'm here to shop for [BRAND: e.g., "3M"] air filters, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I'm here to shop for [BRAND: e.g., "3M"] air filters, but I don't want to  [ATTRIBUTE: e.g., "replace"] them all the time
+I'm here to shop for [BRAND: e.g., "3M"] filters, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I'm here to shop for [BRAND: e.g., "3M"] filters, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I'm here to shop for [BRAND: e.g., "3M"] filters, but I don't want to  [ATTRIBUTE: e.g., "replace"] them all the time
+I'm here to shop for a [BRAND: e.g., "3M"] air filter, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I'm here to shop for a [BRAND: e.g., "3M"] air filter, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I'm here to shop for a [BRAND: e.g., "3M"] air filter, but I don't want to  [ATTRIBUTE: e.g., "replace"] it all the time
+I'm here to shop for a [BRAND: e.g., "3M"] filter, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I'm here to shop for a [BRAND: e.g., "3M"] filter, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I'm here to shop for a [BRAND: e.g., "3M"] filter, but I don't want to  [ATTRIBUTE: e.g., "replace"] it all the time
+I'm here to shop for the [BRAND: e.g., "3M"], and  [ATTRIBUTE: e.g., "price"] is the first thing I look at
+I'm in the market for [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filters for the house
+I'm in the market for [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filters for the house
+I'm in the market for [BRAND: e.g., "3M"] air filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I'm in the market for [BRAND: e.g., "3M"] air filters that [ATTRIBUTE: e.g., "lasts"]
+I'm in the market for [BRAND: e.g., "3M"] air filters that are [ATTRIBUTE: e.g., "cheap"]
+I'm in the market for [BRAND: e.g., "3M"] air filters that will [ATTRIBUTE: e.g., "last"] me a long time
+I'm in the market for [BRAND: e.g., "3M"] air filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I'm in the market for [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "customer reviews"]
+I'm in the market for [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "replacement time"]
+I'm in the market for [BRAND: e.g., "3M"] filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I'm in the market for [BRAND: e.g., "3M"] filters that [ATTRIBUTE: e.g., "lasts"]
+I'm in the market for [BRAND: e.g., "3M"] filters that are [ATTRIBUTE: e.g., "cheap"]
+I'm in the market for [BRAND: e.g., "3M"] filters that will [ATTRIBUTE: e.g., "last"] me a long time
+I'm in the market for [BRAND: e.g., "3M"] filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I'm in the market for [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "customer reviews"]
+I'm in the market for [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "replacement time"]
+I'm in the market for a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filter for the house
+I'm in the market for a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filter for the house
+I'm in the market for a [BRAND: e.g., "3M"] air filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I'm in the market for a [BRAND: e.g., "3M"] air filter that [ATTRIBUTE: e.g., "lasts"]
+I'm in the market for a [BRAND: e.g., "3M"] air filter that is [ATTRIBUTE: e.g., "cheap"]
+I'm in the market for a [BRAND: e.g., "3M"] air filter that will [ATTRIBUTE: e.g., "last"] me a long time
+I'm in the market for a [BRAND: e.g., "3M"] air filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I'm in the market for a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "customer reviews"]
+I'm in the market for a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "replacement time"]
+I'm in the market for a [BRAND: e.g., "3M"] filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+I'm in the market for a [BRAND: e.g., "3M"] filter that [ATTRIBUTE: e.g., "lasts"]
+I'm in the market for a [BRAND: e.g., "3M"] filter that is [ATTRIBUTE: e.g., "cheap"]
+I'm in the market for a [BRAND: e.g., "3M"] filter that will [ATTRIBUTE: e.g., "last"] me a long time
+I'm in the market for a [BRAND: e.g., "3M"] filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+I'm in the market for a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "customer reviews"]
+I'm in the market for a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "replacement time"]
+I'm in the market for a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filter
+I'm in the market for a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filter
+I'm in the market for good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filters
+I'm in the market for good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filters
+I'm in the market for the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filter you got
+I'm in the market for the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filters you got
+I'm in the market for the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filter you got
+I'm in the market for the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filters you got
+I'm in the market for the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filter
+I'm in the market for the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filters
+I'm in the market for the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filter
+I'm in the market for the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filters
+I'm looking for [BRAND: e.g., "3M"] air filters, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I'm looking for [BRAND: e.g., "3M"] air filters, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I'm looking for [BRAND: e.g., "3M"] air filters, but I don't want to  [ATTRIBUTE: e.g., "replace"] them all the time
+I'm looking for [BRAND: e.g., "3M"] filters, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I'm looking for [BRAND: e.g., "3M"] filters, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I'm looking for [BRAND: e.g., "3M"] filters, but I don't want to  [ATTRIBUTE: e.g., "replace"] them all the time
+I'm looking for a [BRAND: e.g., "3M"] air filter, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I'm looking for a [BRAND: e.g., "3M"] air filter, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I'm looking for a [BRAND: e.g., "3M"] air filter, but I don't want to  [ATTRIBUTE: e.g., "replace"] it all the time
+I'm looking for a [BRAND: e.g., "3M"] filter, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+I'm looking for a [BRAND: e.g., "3M"] filter, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+I'm looking for a [BRAND: e.g., "3M"] filter, but I don't want to  [ATTRIBUTE: e.g., "replace"] it all the time
+I'm looking for the [BRAND: e.g., "3M"], and  [ATTRIBUTE: e.g., "price"] is the first thing I look at
+I'm on a [ATTRIBUTE: e.g., "budget"], and I need [BRAND: e.g., "3M"] air filters
+I'm on a [ATTRIBUTE: e.g., "budget"], and I need [BRAND: e.g., "3M"] filters
+I'm on a [ATTRIBUTE: e.g., "budget"], and I need a [BRAND: e.g., "3M"] air filter
+I'm on a [ATTRIBUTE: e.g., "budget"], and I need a [BRAND: e.g., "3M"] filter
+I'm on a [ATTRIBUTE: e.g., "budget"], and I need to get [BRAND: e.g., "3M"] air filters
+I'm on a [ATTRIBUTE: e.g., "budget"], and I need to get [BRAND: e.g., "3M"] filters
+I'm on a [ATTRIBUTE: e.g., "budget"], and I need to get a [BRAND: e.g., "3M"] air filter
+I'm on a [ATTRIBUTE: e.g., "budget"], and I need to get a [BRAND: e.g., "3M"] filter
+I'm on a [ATTRIBUTE: e.g., "budget"], and I need to grab [BRAND: e.g., "3M"] air filters
+I'm on a [ATTRIBUTE: e.g., "budget"], and I need to grab [BRAND: e.g., "3M"] filters
+I'm on a [ATTRIBUTE: e.g., "budget"], and I need to grab a [BRAND: e.g., "3M"] air filter
+I'm on a [ATTRIBUTE: e.g., "budget"], and I need to grab a [BRAND: e.g., "3M"] filter
+I'm on a [ATTRIBUTE: e.g., "budget"], and I want to invest in [BRAND: e.g., "3M"] air filters
+I'm on a [ATTRIBUTE: e.g., "budget"], and I want to invest in [BRAND: e.g., "3M"] filters
+I'm on a [ATTRIBUTE: e.g., "budget"], and I want to invest in a [BRAND: e.g., "3M"] air filter
+I'm on a [ATTRIBUTE: e.g., "budget"], and I want to invest in a [BRAND: e.g., "3M"] filter
+I'm on a [ATTRIBUTE: e.g., "budget"], and I'd like to purchase [BRAND: e.g., "3M"] air filters
+I'm on a [ATTRIBUTE: e.g., "budget"], and I'd like to purchase [BRAND: e.g., "3M"] filters
+I'm on a [ATTRIBUTE: e.g., "budget"], and I'd like to purchase a [BRAND: e.g., "3M"] air filter
+I'm on a [ATTRIBUTE: e.g., "budget"], and I'd like to purchase a [BRAND: e.g., "3M"] filter
+I'm on a [ATTRIBUTE: e.g., "budget"], and I'm here to shop for [BRAND: e.g., "3M"] air filters
+I'm on a [ATTRIBUTE: e.g., "budget"], and I'm here to shop for [BRAND: e.g., "3M"] filters
+I'm on a [ATTRIBUTE: e.g., "budget"], and I'm here to shop for a [BRAND: e.g., "3M"] air filter
+I'm on a [ATTRIBUTE: e.g., "budget"], and I'm here to shop for a [BRAND: e.g., "3M"] filter
+I'm on a [ATTRIBUTE: e.g., "budget"], and I'm looking for [BRAND: e.g., "3M"] air filters
+I'm on a [ATTRIBUTE: e.g., "budget"], and I'm looking for [BRAND: e.g., "3M"] filters
+I'm on a [ATTRIBUTE: e.g., "budget"], and I'm looking for a [BRAND: e.g., "3M"] air filter
+I'm on a [ATTRIBUTE: e.g., "budget"], and I'm looking for a [BRAND: e.g., "3M"] filter
+I'm on a [ATTRIBUTE: e.g., "budget"], and someone told me to try [BRAND: e.g., "3M"] air filters
+I'm on a [ATTRIBUTE: e.g., "budget"], and someone told me to try [BRAND: e.g., "3M"] filters
+I'm on a [ATTRIBUTE: e.g., "budget"], and someone told me to try a [BRAND: e.g., "3M"] air filter
+I'm on a [ATTRIBUTE: e.g., "budget"], and someone told me to try a [BRAND: e.g., "3M"] filter
+Looking to purchase [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filters for the house
+Looking to purchase [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filters for the house
+Looking to purchase [BRAND: e.g., "3M"] air filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Looking to purchase [BRAND: e.g., "3M"] air filters that [ATTRIBUTE: e.g., "lasts"]
+Looking to purchase [BRAND: e.g., "3M"] air filters that are [ATTRIBUTE: e.g., "cheap"]
+Looking to purchase [BRAND: e.g., "3M"] air filters that will [ATTRIBUTE: e.g., "last"] me a long time
+Looking to purchase [BRAND: e.g., "3M"] air filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Looking to purchase [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "customer reviews"]
+Looking to purchase [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "replacement time"]
+Looking to purchase [BRAND: e.g., "3M"] filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Looking to purchase [BRAND: e.g., "3M"] filters that [ATTRIBUTE: e.g., "lasts"]
+Looking to purchase [BRAND: e.g., "3M"] filters that are [ATTRIBUTE: e.g., "cheap"]
+Looking to purchase [BRAND: e.g., "3M"] filters that will [ATTRIBUTE: e.g., "last"] me a long time
+Looking to purchase [BRAND: e.g., "3M"] filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Looking to purchase [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "customer reviews"]
+Looking to purchase [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "replacement time"]
+Looking to purchase a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filter for the house
+Looking to purchase a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filter for the house
+Looking to purchase a [BRAND: e.g., "3M"] air filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Looking to purchase a [BRAND: e.g., "3M"] air filter that [ATTRIBUTE: e.g., "lasts"]
+Looking to purchase a [BRAND: e.g., "3M"] air filter that is [ATTRIBUTE: e.g., "cheap"]
+Looking to purchase a [BRAND: e.g., "3M"] air filter that will [ATTRIBUTE: e.g., "last"] me a long time
+Looking to purchase a [BRAND: e.g., "3M"] air filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Looking to purchase a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "customer reviews"]
+Looking to purchase a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "replacement time"]
+Looking to purchase a [BRAND: e.g., "3M"] filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Looking to purchase a [BRAND: e.g., "3M"] filter that [ATTRIBUTE: e.g., "lasts"]
+Looking to purchase a [BRAND: e.g., "3M"] filter that is [ATTRIBUTE: e.g., "cheap"]
+Looking to purchase a [BRAND: e.g., "3M"] filter that will [ATTRIBUTE: e.g., "last"] me a long time
+Looking to purchase a [BRAND: e.g., "3M"] filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Looking to purchase a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "customer reviews"]
+Looking to purchase a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "replacement time"]
+Looking to purchase a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filter
+Looking to purchase a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filter
+Looking to purchase good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filters
+Looking to purchase good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filters
+Looking to purchase the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filter you got
+Looking to purchase the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filters you got
+Looking to purchase the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filter you got
+Looking to purchase the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filters you got
+Looking to purchase the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filter
+Looking to purchase the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filters
+Looking to purchase the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filter
+Looking to purchase the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filters
+Someone told me to try [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filters for the house
+Someone told me to try [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filters for the house
+Someone told me to try [BRAND: e.g., "3M"] air filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Someone told me to try [BRAND: e.g., "3M"] air filters that [ATTRIBUTE: e.g., "lasts"]
+Someone told me to try [BRAND: e.g., "3M"] air filters that are [ATTRIBUTE: e.g., "cheap"]
+Someone told me to try [BRAND: e.g., "3M"] air filters that will [ATTRIBUTE: e.g., "last"] me a long time
+Someone told me to try [BRAND: e.g., "3M"] air filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Someone told me to try [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "customer reviews"]
+Someone told me to try [BRAND: e.g., "3M"] air filters with good [ATTRIBUTE: e.g., "replacement time"]
+Someone told me to try [BRAND: e.g., "3M"] filters that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Someone told me to try [BRAND: e.g., "3M"] filters that [ATTRIBUTE: e.g., "lasts"]
+Someone told me to try [BRAND: e.g., "3M"] filters that are [ATTRIBUTE: e.g., "cheap"]
+Someone told me to try [BRAND: e.g., "3M"] filters that will [ATTRIBUTE: e.g., "last"] me a long time
+Someone told me to try [BRAND: e.g., "3M"] filters with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Someone told me to try [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "customer reviews"]
+Someone told me to try [BRAND: e.g., "3M"] filters with good [ATTRIBUTE: e.g., "replacement time"]
+Someone told me to try a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] air filter for the house
+Someone told me to try a [ATTRIBUTE: e.g., "reputable"] [BRAND: e.g., "Honeywell"] filter for the house
+Someone told me to try a [BRAND: e.g., "3M"] air filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Someone told me to try a [BRAND: e.g., "3M"] air filter that [ATTRIBUTE: e.g., "lasts"]
+Someone told me to try a [BRAND: e.g., "3M"] air filter that is [ATTRIBUTE: e.g., "cheap"]
+Someone told me to try a [BRAND: e.g., "3M"] air filter that will [ATTRIBUTE: e.g., "last"] me a long time
+Someone told me to try a [BRAND: e.g., "3M"] air filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Someone told me to try a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "customer reviews"]
+Someone told me to try a [BRAND: e.g., "3M"] air filter with good [ATTRIBUTE: e.g., "replacement time"]
+Someone told me to try a [BRAND: e.g., "3M"] filter that I don't have to [ATTRIBUTE: e.g., "change"] that often
+Someone told me to try a [BRAND: e.g., "3M"] filter that [ATTRIBUTE: e.g., "lasts"]
+Someone told me to try a [BRAND: e.g., "3M"] filter that is [ATTRIBUTE: e.g., "cheap"]
+Someone told me to try a [BRAND: e.g., "3M"] filter that will [ATTRIBUTE: e.g., "last"] me a long time
+Someone told me to try a [BRAND: e.g., "3M"] filter with exceptional [ATTRIBUTE: e.g., "efficiency ratings"]
+Someone told me to try a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "customer reviews"]
+Someone told me to try a [BRAND: e.g., "3M"] filter with good [ATTRIBUTE: e.g., "replacement time"]
+Someone told me to try a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filter
+Someone told me to try a good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filter
+Someone told me to try good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] air filters
+Someone told me to try good [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "3M"] filters
+Someone told me to try the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filter you got
+Someone told me to try the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] air filters you got
+Someone told me to try the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filter you got
+Someone told me to try the [ATTRIBUTE: e.g., "cheapest"] [BRAND: e.g., "3M"] filters you got
+Someone told me to try the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filter
+Someone told me to try the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] air filters
+Someone told me to try the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filter
+Someone told me to try the most [ATTRIBUTE: e.g., "economical"] [BRAND: e.g., "3M"] filters
+Where's the best [ATTRIBUTE: e.g., "priced"] [BRAND: e.g., "Honeywell"] you have
+someone told me to try [BRAND: e.g., "3M"] air filters, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+someone told me to try [BRAND: e.g., "3M"] air filters, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+someone told me to try [BRAND: e.g., "3M"] air filters, but I don't want to  [ATTRIBUTE: e.g., "replace"] them all the time
+someone told me to try [BRAND: e.g., "3M"] filters, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+someone told me to try [BRAND: e.g., "3M"] filters, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+someone told me to try [BRAND: e.g., "3M"] filters, but I don't want to  [ATTRIBUTE: e.g., "replace"] them all the time
+someone told me to try a [BRAND: e.g., "3M"] air filter, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+someone told me to try a [BRAND: e.g., "3M"] air filter, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+someone told me to try a [BRAND: e.g., "3M"] air filter, but I don't want to  [ATTRIBUTE: e.g., "replace"] it all the time
+someone told me to try a [BRAND: e.g., "3M"] filter, but I don't want anything too [ATTRIBUTE: e.g., "expensive"]
+someone told me to try a [BRAND: e.g., "3M"] filter, but I don't want to  [ATTRIBUTE: e.g., "pay"] too much if that's okay
+someone told me to try a [BRAND: e.g., "3M"] filter, but I don't want to  [ATTRIBUTE: e.g., "replace"] it all the time
+someone told me to try the [BRAND: e.g., "3M"], and  [ATTRIBUTE: e.g., "price"] is the first thing I look at

@@ -44,7 +44,10 @@ class TestActions(unittest.TestCase):
         text_requset.entities = entities
 
         response = text_requset.getresponse()
+        #print(response)
+        
         return json.loads(response.read().decode())
+       
 
     def test_hello(self):
         query = 'Hello'
@@ -57,6 +60,7 @@ class TestActions(unittest.TestCase):
 
         self.assertEqual(result['action'], 'input.welcome')
         self.assertEqual(result['fulfillment']['speech'], 'Welcome to our store. Are you looking for something particular today?')
+        print(result)
 
     def test_you_name(self):
         query = 'I am looking for an air filter'
@@ -73,6 +77,7 @@ class TestActions(unittest.TestCase):
 
         self.assertEqual(context['name'], 'search-filter-without-attribute')
         self.assertTrue(len(context['parameters']) == 2)
+        print(result)
 
 
     def test_user_entities(self):
@@ -203,7 +208,7 @@ class TestActions(unittest.TestCase):
                     attr = attributeCont.split("\"")[1]
                     query = query.replace(attributeCont, attr)
                 
-                response = self.load_text_request_with_quiery(query, entities=entities)
+                response = self.load_text_request_with_quiery(query, entities=False)
                 print(response)
                 
                 #print(response['result'])

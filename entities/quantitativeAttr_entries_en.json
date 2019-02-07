@@ -1,0 +1,71 @@
+[
+  {
+    "value": "replacement time",
+    "synonyms": [
+      "change",
+      "last",
+      "replace",
+      "duration",
+      "life",
+      "time",
+      "permanent",
+      "lasts"
+    ]
+  },
+  {
+    "value": "MERV rating",
+    "synonyms": [
+      "merv",
+      "efficiency rating",
+      "rating of",
+      "rating",
+      "ratings",
+      "MERV rating"
+    ]
+  },
+  {
+    "value": "price",
+    "synonyms": [
+      "price",
+      "pricey",
+      "pricier",
+      "overpriced",
+      "money",
+      "expense",
+      "expensive",
+      "expenditure",
+      "inexpensive",
+      "cost",
+      "cheap",
+      "cheaper",
+      "cheapest",
+      "pay",
+      "paid",
+      "budget",
+      "dollars",
+      "dollar",
+      "price premium",
+      "premium price",
+      "economic",
+      "economically",
+      "economical",
+      "financially"
+    ]
+  },
+  {
+    "value": "customer star rating",
+    "synonyms": [
+      "customer rating",
+      "star rating",
+      "consumer rating",
+      "stars",
+      "feedback",
+      "customer reviews",
+      "opinion",
+      "appraisal",
+      "reputable",
+      "star ratings",
+      "evaluation"
+    ]
+  }
+]

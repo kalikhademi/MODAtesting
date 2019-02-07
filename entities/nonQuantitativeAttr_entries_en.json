@@ -1,0 +1,218 @@
+[
+  {
+    "value": "allergen defense",
+    "synonyms": [
+      "allergies",
+      "allergy",
+      "asthma",
+      "allergen",
+      "allergens",
+      "breathing",
+      "sinus",
+      "sinuses",
+      "allergy defense"
+    ]
+  },
+  {
+    "value": "overall air Filtering effectiveness",
+    "synonyms": [
+      "effectiveness",
+      "effective",
+      "quality",
+      "ability",
+      "capability",
+      "filterability",
+      "filters well",
+      "performance",
+      "does the job",
+      "performs",
+      "works"
+    ]
+  },
+  {
+    "value": "mold filtering ability",
+    "synonyms": [
+      "mold",
+      "fungus",
+      "fungi"
+    ]
+  },
+  {
+    "value": "pet dander filtering ability",
+    "synonyms": [
+      "dander",
+      "pet",
+      "cat",
+      "dog",
+      "kitten",
+      "puppy",
+      "animal",
+      "hair"
+    ]
+  },
+  {
+    "value": "air flow",
+    "synonyms": [
+      "air flow",
+      "air pressure",
+      "hvac",
+      "pressure drop",
+      "pull air",
+      "air velocity",
+      "pulling air",
+      "pressure of air",
+      "restrict",
+      "restriction",
+      "flow of air",
+      "strain",
+      "blower",
+      "restrictive",
+      "straining",
+      "resistance",
+      "overheat",
+      "over freeze"
+    ]
+  },
+  {
+    "value": "smoke odor filtering ability",
+    "synonyms": [
+      "smoke odor",
+      "smoke smell",
+      "smoke musk",
+      "smoke stench",
+      "smoke stink"
+    ]
+  },
+  {
+    "value": "tobacco smoke",
+    "synonyms": [
+      "tobacco",
+      "cigarette",
+      "cigar",
+      "tobacco smoke"
+    ]
+  },
+  {
+    "value": "odor filtering ability",
+    "synonyms": [
+      "odor",
+      "smell",
+      "musk",
+      "stench",
+      "stink"
+    ]
+  },
+  {
+    "value": "appearance",
+    "synonyms": [
+      "look",
+      "looks",
+      "design",
+      "generic looking",
+      "looks generic",
+      "packaging",
+      "appearance"
+    ]
+  },
+  {
+    "value": "sturdiness or durability",
+    "synonyms": [
+      "durability",
+      "sturdiness",
+      "sturdy",
+      "sturdier",
+      "durability",
+      "durable",
+      "stability",
+      "strength",
+      "rigid",
+      "rigidity",
+      "reinforcement",
+      "crumble",
+      "crumbling",
+      "instability",
+      "flimsy",
+      "unstable",
+      "stable",
+      "construction",
+      "sloppy"
+    ]
+  },
+  {
+    "value": "smoke filtering ability",
+    "synonyms": [
+      "smoke",
+      "smog"
+    ]
+  },
+  {
+    "value": "lint and fiber filtering ability",
+    "synonyms": [
+      "lint",
+      "fiber",
+      "clumps"
+    ]
+  },
+  {
+    "value": "spore filtering ability",
+    "synonyms": [
+      "spore"
+    ]
+  },
+  {
+    "value": "bacteria filtering ability",
+    "synonyms": [
+      "bacteria",
+      "bacterial",
+      "germs",
+      "bacterias",
+      "pathogens",
+      "virus",
+      "viral",
+      "viruses"
+    ]
+  },
+  {
+    "value": "pollen filtering ability",
+    "synonyms": [
+      "pollen",
+      "flower",
+      "air irritant",
+      "ragweed",
+      "pollen filtering"
+    ]
+  },
+  {
+    "value": "dust filtering ability",
+    "synonyms": [
+      "dust",
+      "dirt",
+      "particles",
+      "dusting",
+      "dirt",
+      "particulate",
+      "granular",
+      "mote",
+      "motes",
+      "speck",
+      "specks"
+    ]
+  },
+  {
+    "value": "filter material quality",
+    "synonyms": [
+      "material",
+      "filter fiber",
+      "weave",
+      "mesh",
+      "netting",
+      "filter fibers",
+      "pleating",
+      "pleated",
+      "pleats",
+      "tread",
+      "treads",
+      "web"
+    ]
+  }
+]

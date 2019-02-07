@@ -1,0 +1,47 @@
+[
+  {
+    "value": "3M",
+    "synonyms": [
+      "3m",
+      "3M",
+      "3M Filtrete MPR2200",
+      "3M Filtrete MPR1000",
+      "3M Filtrete MPR600",
+      "3M Filtrete MPR300",
+      "MPR1000",
+      "MPR600",
+      "MPR300",
+      "Filtrete",
+      "filtrete",
+      "three_M",
+      "three M",
+      "threeM"
+    ]
+  },
+  {
+    "value": "Nordic Pure",
+    "synonyms": [
+      "nordic pure",
+      "nordic",
+      "nordicpure",
+      "nordic pure m14",
+      "nordic pure m12",
+      "nordic pure m8",
+      "M14",
+      "M12",
+      "M8"
+    ]
+  },
+  {
+    "value": "Honeywell",
+    "synonyms": [
+      "honeywell",
+      "honeyw",
+      "honey",
+      "Honeywell Elite Allergen",
+      "Honeywell Allergen Plus",
+      "Honeywell Superior Allergen",
+      "honey well"
+    ]
+  }
+]

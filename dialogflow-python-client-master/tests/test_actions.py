@@ -18,6 +18,7 @@ import unittest
 import sys
 import os
 import json
+import os.path
 
 try:
     import apiai
@@ -184,7 +185,8 @@ class TestActions(unittest.TestCase):
                 ]
             )
         ]
-        path ='/Users/kianamac/Documents/GitHub/MODAtesting/cases/'
+
+        path = os.path.dirname(os.getcwd()) + '/../cases/'
         for i in range(1,12):
             filename = path + 'Case' + str(i) + '.txt'
             filepath = open(filename, 'r')
@@ -193,16 +195,16 @@ class TestActions(unittest.TestCase):
 
             for line in file:
                 query = line
-
-                # Parse the query for the attribute block
-                attributeCont = query[query.find("["):query.find("]")+1]
-                attr = attributeCont.split("\"")[1]
-                query = query.replace(attributeCont, attr)
-
-                #print(query)
                 
-            response = self.load_text_request_with_quiery(query, entities=entities)
-            print(response)
+                # if in the second file, skip parsing
+                if i != 2:
+                    # Parse the query for the attribute block
+                    attributeCont = query[query.find("["):query.find("]")+1]
+                    attr = attributeCont.split("\"")[1]
+                    query = query.replace(attributeCont, attr)
+                
+                response = self.load_text_request_with_quiery(query, entities=entities)
+                print(response)
                 
                 #print(response['result'])
             #f2 = open('/Users/kianamac/output.txt','a+')

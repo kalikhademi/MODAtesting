@@ -19,6 +19,7 @@ import sys
 import os
 import json
 import os.path
+import re
 
 try:
     import apiai
@@ -60,7 +61,7 @@ class TestActions(unittest.TestCase):
 
         self.assertEqual(result['action'], 'input.welcome')
         self.assertEqual(result['fulfillment']['speech'], 'Welcome to our store. Are you looking for something particular today?')
-        print(result)
+        #print(result)
 
     def test_you_name(self):
         query = 'I am looking for an air filter'
@@ -77,7 +78,7 @@ class TestActions(unittest.TestCase):
 
         self.assertEqual(context['name'], 'search-filter-without-attribute')
         self.assertTrue(len(context['parameters']) == 2)
-        print(result)
+        #print(result)
 
 
     def test_user_entities(self):
@@ -192,34 +193,89 @@ class TestActions(unittest.TestCase):
         ]
 
         path = os.path.dirname(os.getcwd()) + '/../cases/'
+        correct = 0
+        total = 0
+        incorrectQueries = []
+
+        # Open output file
+        outputFilename = os.path.dirname(os.getcwd()) + '/../default_Responses.txt'
+        outputFilepath = open(outputFilename, 'r')
+        outputFile = outputFilepath.readlines()
+        outputFilepath.close()
+
         for i in range(1,12):
+
+            fileCorrect = 0
+            fileTotal = 0
+            print("Checking Case", i, ".txt")
+
             filename = path + 'Case' + str(i) + '.txt'
             filepath = open(filename, 'r')
             file = filepath.readlines()
             filepath.close()
+        
+            # get the expected output from output file
+            expectedLine = outputFile[i-1].strip()
+            splitList = expectedLine.split("[")
+            splitList = [splitList[0]] + ["["+x for x in splitList[1:]]
+            newSplitList = []
+
+            # Breakdown string by whats in brackets
+            for x in splitList:
+                item = x.split("]")
+                if (len(item) != 1):
+                    newSplitList.append(item[0]+"]")
+                    newSplitList.append(item[1])
+                else:
+                    newSplitList.append(item[0])
 
             for line in file:
                 query = line
                 
                 # if in the second file, skip parsing
                 if i != 2:
-                    # Parse the query for the attribute block
-                    attributeCont = query[query.find("["):query.find("]")+1]
-                    attr = attributeCont.split("\"")[1]
-                    query = query.replace(attributeCont, attr)
-                
-                response = self.load_text_request_with_quiery(query, entities=False)
-                print(response)
-                
-                #print(response['result'])
-            #f2 = open('/Users/kianamac/output.txt','a+')
-            #if(response['result']['metadata']['intentName'] == query):
-                #correct_cnt +=1 
-            #self.assertTrue(response['result']['metadata']['intentName'] == 'BrandSearchWithoutAttr_SAT')
+            
+                    while (query.find("[") != -1):
+                        # Parse the query for the attribute block
+                        attributeCont = query[query.find("["):query.find("]")+1]
+                        attr = attributeCont.split("\"")[1]
+                        query = query.replace(attributeCont, attr)
+            
+                # Get the response from the dialogflow
+                response = self.load_text_request_with_quiery(query)
+                speech = response['result']['fulfillment']['speech']
+            
+                # Check if the responses are the same.
+                sameText = True
+                for section in newSplitList:
+                    tempSpeech = speech
+                    if (re.search("meet\W", tempSpeech) != None):
+                        tempSpeech = tempSpeech.replace("meet", "meets")
+                    if (tempSpeech.find("These models are") != -1):
+                        tempSpeech = tempSpeech.replace("These models are", "This model is")
+                    if (section[0] != "["):
+                        if (tempSpeech.find(section) == -1):
+                            #print(section)
+                            sameText = False
 
-            #f2.write(response['result']['metadata']['intentName'])
-            #f2.write(response['result']['fulfillment']['speech'])
-            #f2.close()
+                # if responses are not the same, print expected & actual
+                if (not sameText):
+                    #print("Query: " + query.strip())
+                    #print("Actual: " + speech)
+                    #print("Expected: " + expectedLine + "\n")
+                    incorrectQueries.append([query, speech, expectedLine])
+                else:
+                    correct += 1
+                    fileCorrect += 1
+                
+                fileTotal += 1
+                total += 1
+            print("Total correct in this file: ", fileCorrect, " out of ", fileTotal)
+        print("Total Correct ", correct, " out of ", total)
         
+        print("Writing to incorrectItems.txt file...")
+        with open('incorrectItems.txt', 'w') as f:
+                f.write('\n'.join(incorrectQueries))
+
 if __name__ == '__main__':
     unittest.main()

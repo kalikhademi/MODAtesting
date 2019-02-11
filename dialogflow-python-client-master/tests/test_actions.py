@@ -20,6 +20,7 @@ import os
 import json
 import os.path
 import re
+import csv
 
 try:
     import apiai
@@ -195,7 +196,6 @@ class TestActions(unittest.TestCase):
         path = os.path.dirname(os.getcwd()) + '/../cases/'
         correct = 0
         total = 0
-        incorrectQueries = []
 
         # Open output file
         outputFilename = os.path.dirname(os.getcwd()) + '/../default_Responses.txt'
@@ -205,6 +205,7 @@ class TestActions(unittest.TestCase):
 
         for i in range(1,12):
 
+            incorrectQueries = []
             fileCorrect = 0
             fileTotal = 0
             print("Checking Case", i, ".txt")
@@ -263,19 +264,26 @@ class TestActions(unittest.TestCase):
                     #print("Query: " + query.strip())
                     #print("Actual: " + speech)
                     #print("Expected: " + expectedLine + "\n")
-                    incorrectQueries.append([query, speech, expectedLine])
+                    incorrectQueries.append([query.strip(), speech, expectedLine])
                 else:
                     correct += 1
                     fileCorrect += 1
-                
+
+
                 fileTotal += 1
                 total += 1
             print("Total correct in this file: ", fileCorrect, " out of ", fileTotal)
+            print("Writing to output"+ str(i)+".csv file...")
+            with open("output"+str(i)+".csv", "wb") as f:
+                writer = csv.writer(f)
+                writer.writerows(incorrectQueries)
+                
+
         print("Total Correct ", correct, " out of ", total)
+
         
-        print("Writing to incorrectItems.txt file...")
-        with open('incorrectItems.txt', 'w') as f:
-                f.write('\n'.join(incorrectQueries))
+        #with open('incorrectItems.txt', 'w') as f:
+            #f.write('\n'.join(incorrectQueries))
 
 if __name__ == '__main__':
     unittest.main()

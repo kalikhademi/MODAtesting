@@ -1,0 +1,183 @@
+Do you have 3M air filters with MERV between 12 and 14
+Do you have 3M filters with MERV between 12 and 14
+Do you have a 3M air filter with 4 stars
+Here to pick up 3M air filters that have a MERV rating higher than 6
+Here to pick up 3M filters with 4 stars
+Here to pick up a 3M air filter that I need to change at maximum every 3 months
+Here to pick up a 3M air filter that has at minimum 3 months replacement time
+Here to pick up a 3M air filter that is priced between 10 and 20 dollars
+Here to pick up a 3M filter below 15 dollars
+Here to pick up a 3M filter that has a MERV rating higher than 6
+"Here to pick up air filters under 10 dollars, and I like the 3M brand"
+Here to shop for 3M air filters below 15 dollars
+Here to shop for 3M air filters that are priced between 10 and 20 dollars
+Here to shop for 3M air filters that have a MERV rating higher than 6
+Here to shop for 3M filters priced at least 10 dollars
+Here to shop for 3M filters that cost at most 15 dollars
+Here to shop for 3M filters that have at minimum 3 months replacement time
+Here to shop for 3M filters with 4 stars
+Here to shop for a 3M air filter that I need to change at maximum every 3 months
+Here to shop for a 3M air filter that has at minimum 3 months replacement time
+Here to shop for a 3M air filter with MERV between 12 and 14
+Here to shop for a 3M filter that I need to change at maximum every 3 months
+Here to shop for a 3M filter that has a MERV rating higher than 6
+"Here to shop for a filter under 10 dollars, and I like the 3M brand"
+I am here to buy 3M air filters that I need to change at maximum every 3 months
+I am here to buy 3M air filters that have at least 4 star rating
+I am here to buy 3M air filters with 4 stars
+I am here to buy 3M filters that cost at most 15 dollars
+I am here to buy 3M filters that have at minimum 3 months replacement time
+I am here to buy 3M filters with MERV between 12 and 14
+I am here to buy a 3M air filter priced at least 10 dollars
+I am here to buy a 3M air filter that has at least 4 star rating
+I am here to buy a 3M air filter with MERV between 12 and 14
+I am here to buy a 3M filter below 15 dollars
+I am here to buy a 3M filter that has at least 4 star rating
+I am here to buy a 3M filter that has a MERV rating higher than 6
+I am here to buy a 3M filter with MERV between 12 and 14
+"I am here to buy an air filter under 10 dollars, and I like the 3M brand"
+I need to get 3M air filters below 15 dollars
+I need to get 3M air filters while I'm here priced at least 10 dollars
+I need to get 3M air filters while I'm here that cost at most 15 dollars
+I need to get 3M air filters while I'm here that have at least 4 star rating
+I need to get 3M air filters while I'm here with MERV between 12 and 14
+I need to get 3M air filters with 4 stars
+I need to get 3M filters below 15 dollars
+I need to get 3M filters that cost at most 15 dollars
+I need to get 3M filters that have at least 4 star rating
+I need to get 3M filters while I'm here below 15 dollars
+I need to get 3M filters while I'm here that cost at most 15 dollars
+I need to get 3M filters while I'm here that have at minimum 3 months replacement time
+I need to get 3M filters while I'm here with MERV between 12 and 14
+I need to get 3M filters with MERV between 12 and 14
+I need to get a 3M air filter below 15 dollars
+I need to get a 3M air filter that has at least 4 star rating
+I need to get a 3M air filter that is priced between 10 and 20 dollars
+I need to get a 3M air filter while I'm here that I need to change at maximum every 3 months
+I need to get a 3M air filter while I'm here that has a MERV rating higher than 6
+I need to get a 3M air filter while I'm here with 4 stars
+I need to get a 3M filter priced at least 10 dollars
+I need to get a 3M filter that has at minimum 3 months replacement time
+I need to get a 3M filter while I'm here priced at least 10 dollars
+I need to get a 3M filter while I'm here that costs at most 15 dollars
+I need to get a 3M filter while I'm here that has a MERV rating higher than 6
+I need to get a 3M filter with MERV between 12 and 14
+"I need to get filters under 10 dollars, and I like the 3M brand"
+I need to grab 3M air filters that cost at most 15 dollars
+I need to grab 3M air filters that have at minimum 3 months replacement time
+I need to grab 3M air filters while I'm here below 15 dollars
+I need to grab 3M air filters while I'm here that have a MERV rating higher than 6
+I need to grab 3M air filters with MERV between 12 and 14
+I need to grab 3M filters below 15 dollars
+I need to grab 3M filters that have at minimum 3 months replacement time
+I need to grab 3M filters while I'm here that I need to change at maximum every 3 months
+I need to grab 3M filters while I'm here that have at least 4 star rating
+I need to grab 3M filters while I'm here with 4 stars
+I need to grab a 3M air filter below 15 dollars
+I need to grab a 3M air filter that has at minimum 3 months replacement time
+I need to grab a 3M air filter while I'm here that I need to change at maximum every 3 months
+I need to grab a 3M air filter while I'm here with MERV between 12 and 14
+I need to grab a 3M air filter with 4 stars
+I need to grab a 3M filter that costs at most 15 dollars
+I need to grab a 3M filter that has a MERV rating higher than 6
+I need to grab a 3M filter while I'm here below 15 dollars
+I need to grab a 3M filter while I'm here that has a MERV rating higher than 6
+I need to grab a 3M filter with 4 stars
+"I need to grab an air filter under 10 dollars, and I like the 3M brand"
+I want 3M air filters below 15 dollars
+I want 3M air filters that have at least 4 star rating
+I want 3M filters priced at least 10 dollars
+I want 3M filters that are priced between 10 and 20 dollars
+I want 3M filters that have a MERV rating higher than 6
+I want a 3M air filter priced at least 10 dollars
+I want a 3M air filter that I need to change at maximum every 3 months
+I want a 3M air filter that is priced between 10 and 20 dollars
+I want a 3M filter below 15 dollars
+I want a 3M filter that has at minimum 3 months replacement time
+I want a 3M filter that is priced between 10 and 20 dollars
+I want a 3M filter with 4 stars
+"I want an air filter under 10 dollars, and I like the 3M brand"
+I want to invest in 3M air filters below 15 dollars
+I want to invest in 3M air filters that cost at most 15 dollars
+I want to invest in 3M air filters that have at minimum 3 months replacement time
+I want to invest in 3M air filters with 4 stars
+I want to invest in 3M filters that I need to change at maximum every 3 months
+I want to invest in 3M filters that have at least 4 star rating
+I want to invest in 3M filters with MERV between 12 and 14
+I want to invest in a 3M air filter that I need to change at maximum every 3 months
+I want to invest in a 3M air filter that has at minimum 3 months replacement time
+I want to invest in a 3M air filter with 4 stars
+I want to invest in a 3M filter that has a MERV rating higher than 6
+I want to invest in a 3M filter with 4 stars
+"I want to invest in an air filter under 10 dollars, and I like the 3M brand"
+I'd like 3M air filters that I need to change at maximum every 3 months
+I'd like 3M air filters that have at least 4 star rating
+I'd like 3M air filters with MERV between 12 and 14
+I'd like 3M filters below 15 dollars
+I'd like 3M filters that are priced between 10 and 20 dollars
+I'd like 3M filters that have a MERV rating higher than 6
+I'd like a 3M air filter that I need to change at maximum every 3 months
+I'd like a 3M air filter that has at minimum 3 months replacement time
+I'd like a 3M air filter with MERV between 12 and 14
+I'd like a 3M filter below 15 dollars
+I'd like a 3M filter that costs at most 15 dollars
+I'd like a 3M filter that is priced between 10 and 20 dollars
+"I'd like air filters under 10 dollars, and I like the 3M brand"
+I'm looking for 3M air filters below 15 dollars
+I'm looking for 3M air filters that are priced between 10 and 20 dollars
+I'm looking for 3M air filters that have a MERV rating higher than 6
+I'm looking for 3M filters that I need to change at maximum every 3 months
+I'm looking for 3M filters that have at least 4 star rating
+I'm looking for 3M filters with 4 stars
+I'm looking for a 3M air filter that costs at most 15 dollars
+I'm looking for a 3M air filter that has a MERV rating higher than 6
+I'm looking for a 3M air filter with 4 stars
+I'm looking for a 3M filter that I need to change at maximum every 3 months
+I'm looking for a 3M filter that has at minimum 3 months replacement time
+I'm looking for a 3M filter with 4 stars
+"I'm looking for an air filter under 10 dollars, and I like the 3M brand"
+I'm shopping for 3M air filters below 15 dollars
+I'm shopping for 3M air filters that cost at most 15 dollars
+I'm shopping for 3M air filters that have a MERV rating higher than 6
+I'm shopping for 3M filters that I need to change at maximum every 3 months
+I'm shopping for 3M filters that are priced between 10 and 20 dollars
+I'm shopping for 3M filters that have a MERV rating higher than 6
+I'm shopping for a 3M air filter below 15 dollars
+I'm shopping for a 3M air filter that has at minimum 3 months replacement time
+I'm shopping for a 3M air filter with 4 stars
+I'm shopping for a 3M filter that costs at most 15 dollars
+I'm shopping for a 3M filter that has a MERV rating higher than 6
+I'm shopping for a 3M filter with MERV between 12 and 14
+"I'm shopping for air filters under 10 dollars, and I like the 3M brand"
+Looking to purchase 3M air filters below 15 dollars
+Looking to purchase 3M air filters that have at least 4 star rating
+Looking to purchase 3M air filters with 4 stars
+Looking to purchase 3M filters below 15 dollars
+Looking to purchase 3M filters that are priced between 10 and 20 dollars
+Looking to purchase 3M filters that have at minimum 3 months replacement time
+Looking to purchase a 3M air filter that I need to change at maximum every 3 months
+Looking to purchase a 3M air filter that has at minimum 3 months replacement time
+Looking to purchase a 3M air filter that has a MERV rating higher than 6
+Looking to purchase a 3M filter that I need to change at maximum every 3 months
+Looking to purchase a 3M filter that has at least 4 star rating
+Looking to purchase a 3M filter that is priced between 10 and 20 dollars
+Someone told me to try 3M air filters priced at least 10 dollars
+Someone told me to try 3M air filters that cost at most 15 dollars
+Someone told me to try 3M air filters that have at minimum 3 months replacement time
+Someone told me to try 3M air filters with 4 stars
+Someone told me to try 3M filters that I need to change at maximum every 3 months
+Someone told me to try 3M filters that have at least 4 star rating
+Someone told me to try 3M filters with 4 stars
+Someone told me to try a 3M air filter that costs at most 15 dollars
+Someone told me to try a 3M air filter that has a MERV rating higher than 6
+Someone told me to try a 3M air filter with 4 stars
+Someone told me to try a 3M filter that costs at most 15 dollars
+Someone told me to try a 3M filter that has a MERV rating higher than 6
+Where are 3M air filters that cost at most 15 dollars
+Where are 3M air filters that have a MERV rating higher than 6
+Where are 3M filters that I need to change at maximum every 3 months
+Where are 3M filters that have a MERV rating higher than 6
+Where is a 3M air filter that has at least 4 star rating
+Where is a 3M air filter with MERV between 12 and 14
+Where is a 3M filter that has at minimum 3 months replacement time
+Which 3M air filter has at least 3 stars

@@ -202,15 +202,19 @@ class TestActions(unittest.TestCase):
         outputFilepath = open(outputFilename, 'r')
         outputFile = outputFilepath.readlines()
         outputFilepath.close()
+        
+        theRange = [x for x in range(1,9)]
+        theRange.append(11)
 
-        for i in range(1,12):
+        #for i in theRange:
+        for i in range(8,9):
 
             incorrectQueries = []
             fileCorrect = 0
             fileTotal = 0
             print("Checking Case", i, ".txt")
 
-            filename = path + 'Case' + str(i) + '.txt'
+            filename = path + 'case' + str(i) + '_testing.txt'
             filepath = open(filename, 'r')
             file = filepath.readlines()
             filepath.close()
@@ -234,26 +238,34 @@ class TestActions(unittest.TestCase):
                 query = line
                 
                 # if in the second file, skip parsing
-                if i != 2:
+                if i != 2 and i != 8:
             
                     while (query.find("[") != -1):
                         # Parse the query for the attribute block
                         attributeCont = query[query.find("["):query.find("]")+1]
                         attr = attributeCont.split("\"")[1]
                         query = query.replace(attributeCont, attr)
-            
+
+                if (query.find("3M") != -1):
+                    query = query.replace("3M", "threeM")
+
                 # Get the response from the dialogflow
-                response = self.load_text_request_with_quiery(query)
+                print(query)
+                response = self.load_text_request_with_quiery(query, resetContexts=True)
+                #print(response['result']['parameters'])
                 speech = response['result']['fulfillment']['speech']
             
                 # Check if the responses are the same.
                 sameText = True
+                #print(speech)
                 for section in newSplitList:
                     tempSpeech = speech
-                    if (re.search("meet\W", tempSpeech) != None):
+                    if (re.search("meet\W", tempSpeech) != None and i != 11):
                         tempSpeech = tempSpeech.replace("meet", "meets")
                     if (tempSpeech.find("These models are") != -1):
                         tempSpeech = tempSpeech.replace("These models are", "This model is")
+                    if (i == 11 and tempSpeech.find("model meets") != -1):
+                        tempSpeech = tempSpeech.replace("model meets", "models meet")
                     if (section[0] != "["):
                         if (tempSpeech.find(section) == -1):
                             #print(section)
@@ -264,7 +276,7 @@ class TestActions(unittest.TestCase):
                     #print("Query: " + query.strip())
                     #print("Actual: " + speech)
                     #print("Expected: " + expectedLine + "\n")
-                    incorrectQueries.append([query.strip(), speech, expectedLine])
+                    incorrectQueries.append([query.strip(),response['result']['parameters'], speech, expectedLine])
                 else:
                     correct += 1
                     fileCorrect += 1
@@ -274,7 +286,7 @@ class TestActions(unittest.TestCase):
                 total += 1
             print("Total correct in this file: ", fileCorrect, " out of ", fileTotal)
             print("Writing to output"+ str(i)+".csv file...")
-            with open("output"+str(i)+".csv", "wb") as f:
+            with open("outputNew"+str(i)+"_testing.csv", "wb") as f:
                 writer = csv.writer(f)
                 writer.writerows(incorrectQueries)
                 

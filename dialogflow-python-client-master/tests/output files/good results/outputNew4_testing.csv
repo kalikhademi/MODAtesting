@@ -62,3 +62,14 @@ Someone told me to try a threeM filter that costs at most 15 dollars,"{u'filter'
 Someone told me to try a threeM filter that has a MERV rating higher than 6,"{u'filter': [u'filter'], u'quantitativeAttr': [u'MERV rating'], u'brand': u'3M', u'number': [6], u'criteria': u'higher than'}",,"Great, I can help you with that. In this store, [model name:""""3M Filtrete MPR2200""""] meets your criteria for [attribute: """"MERV rating""""] based on customer review and industry data. This model is located at [location:""""center of the shelf""""]. Would you like to make a purchase?"
 Where are threeM air filters that cost at most 15 dollars,"{u'filter': [], u'quantitativeAttr': [u'price', u'price'], u'brand': u'3M', u'number': [15], u'criteria': u'at most'}",,"Great, I can help you with that. In this store, [model name:""""3M Filtrete MPR2200""""] meets your criteria for [attribute: """"MERV rating""""] based on customer review and industry data. This model is located at [location:""""center of the shelf""""]. Would you like to make a purchase?"
 Where are threeM air filters that have a MERV rating higher than 6,"{u'filter': [u'air filter'], u'quantitativeAttr': [u'MERV rating'], u'brand': u'3M', u'number': [6], u'criteria': u'higher than'}",,"Great, I can help you with that. In this store, [model name:""""3M Filtrete MPR2200""""] meets your criteria for [attribute: """"MERV rating""""] based on customer review and industry data. This model is located at [location:""""center of the shelf""""]. Would you like to make a purchase?"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+accuracy,83.60655738,,

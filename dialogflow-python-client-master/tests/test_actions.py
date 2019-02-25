@@ -203,13 +203,53 @@ class TestActions(unittest.TestCase):
         outputFile = outputFilepath.readlines()
         outputFilepath.close()
         
-        theRange = [x for x in range(1,9)]
-        theRange.append(11)
+        # Open json scripts
+        jsonFolder = os.path.dirname(os.getcwd()) + '/../entities/'
+        with open(jsonFolder+'brand_entries_en.json') as f:
+            brandSynonym = json.load(f)
+        with open(jsonFolder+'criteria_entries_en.json') as f:
+            criteriaSynonym = json.load(f)
+        with open(jsonFolder+'filter_entries_en.json') as f:
+            filterSynonym = json.load(f)
+        with open(jsonFolder+'filterAttributes_entries_en.json') as f:
+            filterAttrSynonym = json.load(f)
+        with open(jsonFolder+'nonQuantitativeAttr_entries_en.json') as f:
+            nonQuantAttrSynonym = json.load(f)
+        with open(jsonFolder+'quantitativeAttr_entries_en.json') as f:
+            quantAttrSynonym = json.load(f)
+
+        # find all the values & synonyms
+        brandDict = {}
+        for i in brandSynonym:
+            brandDict[i['value']] = i['synonyms']
+        criteriaDict = {}
+        for i in criteriaSynonym:
+            criteriaDict[i['value']] = i['synonyms']
+        filterDict = {}
+        for i in filterSynonym:
+            filterDict[i['value']] = i['synonyms']
+        filterAttrDict = {}
+        for i in filterAttrSynonym:
+            filterAttrDict[i['value']] = i['synonyms']
+        nonQuantAttrDict = {}
+        for i in nonQuantAttrSynonym:
+            nonQuantAttrDict[i['value']] = i['synonyms']
+        quantAttrDict = {}
+        for i in quantAttrSynonym:
+            quantAttrDict[i['value']] = i['synonyms']
+
+        #print(brandDict)
+        #print(criteriaDict)
+        #print(filterDict)
+        #print(filterAttrDict)
+        #print(nonQuantAttrDict)
+        #print(quantAttrDict)
 
         #for i in theRange:
-        for i in range(8,9):
+        for i in range(5,7):
 
             incorrectQueries = []
+            allQueries = []
             fileCorrect = 0
             fileTotal = 0
             print("Checking Case", i, ".txt")
@@ -236,6 +276,7 @@ class TestActions(unittest.TestCase):
 
             for line in file:
                 query = line
+                queryInfo = []
                 
                 # if in the second file, skip parsing
                 if i != 2 and i != 8:
@@ -248,9 +289,12 @@ class TestActions(unittest.TestCase):
 
                 if (query.find("3M") != -1):
                     query = query.replace("3M", "threeM")
+                    
+                # Add to output list
+                queryInfo.append(query.strip())
 
                 # Get the response from the dialogflow
-                print(query)
+                #print(query)
                 response = self.load_text_request_with_quiery(query, resetContexts=True)
                 #print(response['result']['parameters'])
                 speech = response['result']['fulfillment']['speech']
@@ -258,38 +302,179 @@ class TestActions(unittest.TestCase):
                 # Check if the responses are the same.
                 sameText = True
                 #print(speech)
+                #print(newSplitList)
                 for section in newSplitList:
                     tempSpeech = speech
                     if (re.search("meet\W", tempSpeech) != None and i != 11):
                         tempSpeech = tempSpeech.replace("meet", "meets")
                     if (tempSpeech.find("These models are") != -1):
                         tempSpeech = tempSpeech.replace("These models are", "This model is")
-                    if (i == 11 and tempSpeech.find("model meets") != -1):
+                    if ( i == 5 and tempSpeech.find("This model is") != -1):
+                        tempSpeech = tempSpeech.replace("This model is", "These models are")
+                    if (tempSpeech.find("meets your criteria") != -1):
+                        tempSpeech = tempSpeech.replace("meets your criteria", "meet your criteria")
+                    if (tempSpeech.find("model meets") != -1):
                         tempSpeech = tempSpeech.replace("model meets", "models meet")
                     if (section[0] != "["):
                         if (tempSpeech.find(section) == -1):
-                            #print(section)
-                            sameText = False
+                            if (speech.find(section) == -1):
+                                print("Output: " + speech)
+                                print("Changed to: " + tempSpeech)
+                                print("Looking for: " + section)
+                                #print(section)
+                                sameText = False
+
 
                 # if responses are not the same, print expected & actual
                 if (not sameText):
                     #print("Query: " + query.strip())
                     #print("Actual: " + speech)
                     #print("Expected: " + expectedLine + "\n")
+                    queryInfo.append(0)
                     incorrectQueries.append([query.strip(),response['result']['parameters'], speech, expectedLine])
                 else:
+                    queryInfo.append(1)
                     correct += 1
                     fileCorrect += 1
 
+                parameters = response['result']['parameters']
+                print(parameters)
+                # Handle differently for each case
+
+                def findAttribute(parameters, attribute, query, dictionary, isList):
+                    if (attribute in parameters):
+                        attrVal = parameters[attribute]
+                        if (attrVal == ''):
+                            return 'NA', 0
+
+                        if type(attrVal) == type([]):
+                            vals = []
+                            corrects = []
+                            
+                            for j in attrVal:
+                                vals.append(j)
+                                found = False
+                                for x in dictionary[j]:
+                                    if (query.find(x) != -1):
+                                        found = True
+                                        break
+                                if (found):
+                                    corrects.append(1)
+                                else:
+                                    corrects.append(0)
+
+                            if len(vals) == 1:
+                                return vals[0], corrects[0]
+                            return vals, corrects
+
+                            
+                        # check if synonyms in the query
+                        found = False
+                        for x in dictionary[attrVal]:
+                            if (query.find(x) != -1):
+                                return attrVal, 1
+                        return attrVal, 0
+
+                    else:
+                        return 'NA', 0
+
+                if i == 1:
+                    val, cor = findAttribute(parameters, 'filterAttributes', query, filterAttrDict, False)
+                    queryInfo.append(val)
+                    queryInfo.append(cor)
+                    
+
+                elif i == 3:
+                    val, cor = findAttribute(parameters, 'brand', query, brandDict, False)
+                    queryInfo.append(val)
+                    queryInfo.append(cor)
+
+                elif i == 4:
+                    val, cor = findAttribute(parameters, 'brand', query, brandDict, False)
+                    queryInfo.append(val)
+                    queryInfo.append(cor)
+                    
+                    val, cor = findAttribute(parameters, 'criteria', query, criteriaDict, False)
+                    queryInfo.append(val)
+                    queryInfo.append(cor)
+
+                    val, cor = findAttribute(parameters, 'quantitativeAttr', query, quantAttrDict, True)
+                    if len(val) == 1:
+                        queryInfo.append(val[0])
+                        queryInfo.append(cor[0])
+                    else:
+                        queryInfo.append(val)
+                        queryInfo.append(cor)
+
+                elif i == 5:
+                    val, cor = findAttribute(parameters, 'brand', query, brandDict, False)
+                    queryInfo.append(val)
+                    queryInfo.append(cor)
+
+                    val, cor = findAttribute(parameters, 'nonQuantitativeAttr', query, nonQuantAttrDict, True)
+                    queryInfo.append(val)
+                    queryInfo.append(cor)
+
+
+                elif i == 6:
+                    val, cor = findAttribute(parameters, 'brand', query, brandDict, False)
+                    queryInfo.append(val)
+                    queryInfo.append(cor)
+
+                    val, cor = findAttribute(parameters, 'quantitativeAttr', query, quantAttrDict, False)
+                    queryInfo.append(val)
+                    queryInfo.append(cor)
+
+                elif i == 7:
+                    val, cor = findAttribute(parameters, 'filterAttributes', query, filterAttrDict, False)
+                    queryInfo.append(val)
+                    queryInfo.append(cor)
+
+                elif i == 8:
+                    val, cor = findAttribute(parameters, 'brand', query, brandDict)
+                    queryInfo.append(val)
+                    queryInfo.append(cor)
+
+                    val, cor = findAttribute(parameters, 'filterAttributes', query, filterAttrDict)
+                    queryInfo.append(val)
+                    queryInfo.append(cor)
+
+                elif i == 9:
+                    val, cor = findAttribute(parameters, 'brand', query, brandDict)
+                    queryInfo.append(val)
+                    queryInfo.append(cor)
+
+                    val, cor = findAttribute(parameters, 'filterAttributes', query, filterAttrDict)
+                    queryInfo.append(val)
+                    queryInfo.append(cor)
+
+                elif i == 10:
+                    val, cor = findAttribute(parameters, 'brand', query, brandDict)
+                    queryInfo.append(val)
+                    queryInfo.append(cor)
+
+                elif i == 11:
+                    val, cor = findAttribute(parameters, 'criteria', query, criteriaDict)
+                    queryInfo.append(val)
+                    queryInfo.append(cor)
+                    
+                    val, cor = findAttribute(parameters, 'filterAttributes', query, filterAttrDict)
+                    queryInfo.append(val)
+                    queryInfo.append(cor)
+
+                allQueries.append(queryInfo)
 
                 fileTotal += 1
                 total += 1
+
             print("Total correct in this file: ", fileCorrect, " out of ", fileTotal)
             print("Writing to output"+ str(i)+".csv file...")
-            with open("outputNew"+str(i)+"_testing.csv", "wb") as f:
+            with open("output files/output"+str(i)+"_testing.csv", "wb") as f:
                 writer = csv.writer(f)
                 writer.writerows(incorrectQueries)
-                
+            with open("output files/parameterOutput"+str(i)+"_testing.csv", "wb") as f:
+                writer = csv.writer(f)
+                writer.writerows(allQueries)
 
         print("Total Correct ", correct, " out of ", total)
 

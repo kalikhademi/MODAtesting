@@ -316,18 +316,22 @@ class TestActions(unittest.TestCase):
                 sameText = True
                 #print(speech)
                 #print(newSplitList)
+
+                tempSpeech = speech
+                if (re.search("meet\W", tempSpeech) != None and i != 11):
+                    tempSpeech = tempSpeech.replace("meet", "meets")
+                if (tempSpeech.find("These models are") != -1):
+                    tempSpeech = tempSpeech.replace("These models are", "This model is")
+                if ( i == 5 and tempSpeech.find("This model is") != -1):
+                    tempSpeech = tempSpeech.replace("This model is", "These models are")
+                if (i != 11 and tempSpeech.find("meets your criteria") != -1):
+                    tempSpeech = tempSpeech.replace("meets your criteria", "meet your criteria")
+                if (i == 4 and tempSpeech.find("meet your criteria") != -1):
+                    tempSpeech = tempSpeech.replace("meet your criteria", "meets your criteria")
+                if (tempSpeech.find("model meets") != -1):
+                    tempSpeech = tempSpeech.replace("model meets", "models meet")
+
                 for section in newSplitList:
-                    tempSpeech = speech
-                    if (re.search("meet\W", tempSpeech) != None and i != 11):
-                        tempSpeech = tempSpeech.replace("meet", "meets")
-                    if (tempSpeech.find("These models are") != -1):
-                        tempSpeech = tempSpeech.replace("These models are", "This model is")
-                    if ( i == 5 and tempSpeech.find("This model is") != -1):
-                        tempSpeech = tempSpeech.replace("This model is", "These models are")
-                    if (i != 11 and tempSpeech.find("meets your criteria") != -1):
-                        tempSpeech = tempSpeech.replace("meets your criteria", "meet your criteria")
-                    if (tempSpeech.find("model meets") != -1):
-                        tempSpeech = tempSpeech.replace("model meets", "models meet")
                     if (section == " or " or section == " and "):
                         continue
                     if (section[0] != "["):

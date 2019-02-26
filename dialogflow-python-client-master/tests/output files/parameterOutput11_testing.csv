@@ -1,19 +1,19 @@
-Do you have 3 month replacement time air filters,0,NA,0,NA,0
-Do you have a 3 month replacement time air filter,0,NA,0,NA,0
+Do you have 3 month replacement time air filters,1,NA,0,NA,0
+Do you have a 3 month replacement time air filter,1,NA,0,NA,0
 Do you have a filter less than 10 dollars,1,less than,1,NA,0
 Do you have a filter that has MERV rating higher than 10,1,higher than,1,NA,0
 Do you have a filter that has at least a 4 star rating,1,at least,1,NA,0
 Do you have a filter that is priced between 10 and 20 dollars,1,between,1,NA,0
 Do you have air filters priced less than 10 dollars,0,less than,1,NA,0
 Do you have air filters less than 10 dollars,0,less than,1,NA,0
-Do you have air filters that are priced between 10 and 20 dollars,1,between,1,NA,0
+Do you have air filters that are priced between 10 and 20 dollars,0,between,1,NA,0
 Do you have air filters that have a at minimum 3 month replacement time,1,at minimum,1,NA,0
-Do you have filters priced less than 10 dollars,1,less than,1,NA,0
+Do you have filters priced less than 10 dollars,0,less than,1,NA,0
 Do you have filters that I need to change at maximum 3 months,1,at maximum,1,NA,0
 Do you have filters with MERV rating below 12,1,below,1,NA,0
 Do you have filters with a replacement time that is at most 3 months,1,at most,1,NA,0
-Here to pick up a 3 month replacement time air filter,0,NA,0,NA,0
-Here to pick up a 3 month replacement time filter,0,NA,0,NA,0
+Here to pick up a 3 month replacement time air filter,1,NA,0,NA,0
+Here to pick up a 3 month replacement time filter,1,NA,0,NA,0
 Here to pick up a filter that I need to change at maximum 3 months,1,at maximum,1,NA,0
 Here to pick up air filters that have at least a 4 star rating,1,at least,1,NA,0
 Here to pick up air filters with a replacement time that is at most 3 months,1,at most,1,NA,0
@@ -26,7 +26,7 @@ Here to pick up filters less than 10 dollars,1,less than,1,NA,0
 Here to pick up filters that have at least a 4 star rating,1,at least,1,NA,0
 Here to pick up filters that have a at minimum 3 month replacement time,1,at minimum,1,NA,0
 Here to pick up filters with a replacement time that is at most 3 months,1,at most,1,NA,0
-I am here to purchase 3 month replacement time air filters,0,NA,0,NA,0
+I am here to purchase 3 month replacement time air filters,1,NA,0,NA,0
 I am here to purchase a filter priced less than 10 dollars,1,less than,1,NA,0
 I am here to purchase a filter that costs at most 15 dollars,1,at most,1,NA,0
 I am here to purchase a filter that has a at minimum 3 month replacement time,1,at minimum,1,NA,0
@@ -40,8 +40,8 @@ I am here to purchase an air filter with at least 3 stars,1,at least,1,NA,0
 I am here to purchase filters that I need to change at maximum 3 months,1,at maximum,1,NA,0
 I am here to purchase filters that cost at most 15 dollars,1,at most,1,NA,0
 I am here to purchase filters that have at least a 4 star rating,1,at least,1,NA,0
-I believe a 3 month replacement time air filter,0,NA,0,NA,0
-I believe a 3 month replacement time filter,0,NA,0,NA,0
+I believe a 3 month replacement time air filter,1,NA,0,NA,0
+I believe a 3 month replacement time filter,1,NA,0,NA,0
 I believe a filter with MERV rating below 12,1,below,1,NA,0
 I believe a filter with at least 3 stars,1,at least,1,NA,0
 I believe air filters that have MERV rating higher than 10,1,higher than,1,NA,0
@@ -54,7 +54,7 @@ I believe an air filter with MERV rating below 12,1,below,1,NA,0
 I believe an air filter with at least 3 stars,1,at least,1,NA,0
 I believe filters that I need to change at maximum 3 months,1,at maximum,1,NA,0
 I believe filters with a replacement time that is at most 3 months,1,at most,1,NA,0
-I need a 3 month replacement time air filter,0,NA,0,NA,0
+I need a 3 month replacement time air filter,1,NA,0,NA,0
 I need a filter priced less than 10 dollars,1,less than,1,NA,0
 I need a filter that I need to change at maximum 3 months,1,at maximum,1,NA,0
 I need a filter that has at least a 4 star rating,1,at least,1,NA,0
@@ -69,7 +69,7 @@ I need filters priced less than 10 dollars,1,less than,1,NA,0
 I need filters that I need to change at maximum 3 months,1,at maximum,1,NA,0
 I need filters that are priced between 10 and 20 dollars,1,between,1,NA,0
 I need filters with MERV rating below 12,1,below,1,NA,0
-I need to get 3 month replacement time filters,0,NA,0,NA,0
+I need to get 3 month replacement time filters,1,NA,0,NA,0
 I need to get a filter while I'm here priced less than 10 dollars,1,less than,1,NA,0
 I need to get a filter while I'm here that I need to change at maximum 3 months,1,at maximum,1,NA,0
 I need to get a filter while I'm here that has MERV rating higher than 10,1,higher than,1,NA,0
@@ -87,8 +87,8 @@ I need to get filters while I'm here that have MERV rating higher than 10,1,high
 I need to get filters while I'm here that have at least a 4 star rating,1,at least,1,NA,0
 I need to get filters while I'm here that have a at minimum 3 month replacement time,1,at minimum,1,NA,0
 I need to get filters while I'm here with MERV rating below 12,1,below,1,NA,0
-I need to grab 3 month replacement time air filters,0,NA,0,NA,0
-I need to grab a 3 month replacement time filter,0,NA,0,NA,0
+I need to grab 3 month replacement time air filters,1,NA,0,NA,0
+I need to grab a 3 month replacement time filter,1,NA,0,NA,0
 I need to grab a filter while I'm here that I need to change at maximum 3 months,1,at maximum,1,NA,0
 I need to grab air filters while I'm here that I need to change at maximum 3 months,1,at maximum,1,NA,0
 I need to grab air filters while I'm here that are priced between 10 and 20 dollars,1,between,1,NA,0
@@ -101,7 +101,7 @@ I need to grab filters while I'm here that are priced between 10 and 20 dollars,
 I need to grab filters while I'm here with MERV rating below 12,1,below,1,NA,0
 I need to grab filters while I'm here with a replacement time that is at most 3 months,1,at most,1,NA,0
 I need to grab filters while I'm here with at least 3 stars,1,at least,1,NA,0
-I want a 3 month replacement time filter,0,NA,0,NA,0
+I want a 3 month replacement time filter,1,NA,0,NA,0
 I want a filter less than 10 dollars,1,less than,1,NA,0
 I want a filter that has MERV rating higher than 10,1,higher than,1,NA,0
 I want a filter that has a at minimum 3 month replacement time,1,at minimum,1,NA,0
@@ -129,8 +129,8 @@ I want to invest in an air filter with at least 3 stars,1,at least,1,NA,0
 I want to invest in filters less than 10 dollars,1,less than,1,NA,0
 I want to invest in filters with MERV rating below 12,1,below,1,NA,0
 I want to invest in filters with at least 3 stars,1,at least,1,NA,0
-I'm going to go with 3 month replacement time filters,0,NA,0,NA,0
-I'm going to go with a 3 month replacement time filter,0,NA,0,NA,0
+I'm going to go with 3 month replacement time filters,1,NA,0,NA,0
+I'm going to go with a 3 month replacement time filter,1,NA,0,NA,0
 I'm going to go with a filter with MERV rating below 12,1,below,1,NA,0
 I'm going to go with a filter with at least 3 stars,1,at least,1,NA,0
 I'm going to go with air filters priced less than 10 dollars,1,less than,1,NA,0
@@ -158,7 +158,7 @@ I'm looking for an air filter with MERV rating below 12,1,below,1,NA,0
 I'm looking for filters that cost at most 15 dollars,1,at most,1,NA,0
 I'm looking for filters that have a at minimum 3 month replacement time,1,at minimum,1,NA,0
 I'm looking for filters with a replacement time that is at most 3 months,1,at most,1,NA,0
-I'm shopping for 3 month replacement time air filters,0,NA,0,NA,0
+I'm shopping for 3 month replacement time air filters,1,NA,0,NA,0
 I'm shopping for a filter priced less than 10 dollars,1,less than,1,NA,0
 I'm shopping for a filter that costs at most 15 dollars,1,at most,1,NA,0
 I'm shopping for a filter that has a at minimum 3 month replacement time,1,at minimum,1,NA,0
@@ -171,7 +171,7 @@ I'm shopping for an air filter with MERV rating below 12,1,below,1,NA,0
 I'm shopping for filters that I need to change at maximum 3 months,1,at maximum,1,NA,0
 I'm shopping for filters that have a at minimum 3 month replacement time,1,at minimum,1,NA,0
 I'm shopping for filters with at least 3 stars,1,at least,1,NA,0
-Looking to purchase a 3 month replacement time filter,0,NA,0,NA,0
+Looking to purchase a 3 month replacement time filter,1,NA,0,NA,0
 Looking to purchase a filter that I need to change at maximum 3 months,1,at maximum,1,NA,0
 Looking to purchase a filter that has a at minimum 3 month replacement time,1,at minimum,1,NA,0
 Looking to purchase a filter with at least 3 stars,1,at least,1,NA,0
@@ -185,7 +185,7 @@ Looking to purchase filters priced less than 10 dollars,1,less than,1,NA,0
 Looking to purchase filters that are priced between 10 and 20 dollars,1,between,1,NA,0
 Looking to purchase filters that have a at minimum 3 month replacement time,1,at minimum,1,NA,0
 Looking to purchase filters with at least 3 stars,1,at least,1,NA,0
-My mom suggested a 3 month replacement time filter,0,NA,0,NA,0
+My mom suggested a 3 month replacement time filter,1,NA,0,NA,0
 My mom suggested a filter that I need to change at maximum 3 months,1,at maximum,1,NA,0
 My mom suggested a filter that has a at minimum 3 month replacement time,1,at minimum,1,NA,0
 My mom suggested a filter with at least 3 stars,1,at least,1,NA,0
@@ -221,30 +221,30 @@ Where is an air filter priced less than 10 dollars,1,less than,1,NA,0
 Where is an air filter that is priced between 10 and 20 dollars,1,between,1,NA,0
 Where is an air filter with a replacement time that is at most 3 months,1,at most,1,NA,0
 Which filter has at least 3  stars,1,at least,1,NA,0
-Do you have 3 month replacement time filters,0,NA,0,NA,0
-Do you have a 3 month replacement time filter,0,NA,0,NA,0
+Do you have 3 month replacement time filters,1,NA,0,NA,0
+Do you have a 3 month replacement time filter,1,NA,0,NA,0
 Do you have a filter priced less than 10 dollars,1,less than,1,NA,0
 Do you have a filter that I need to change at maximum every 3 months,1,at maximum,1,NA,0
 Do you have a filter that costs at most 15 dollars,1,at most,1,NA,0
 Do you have a filter that has MERV rating higher than 10,1,higher than,1,NA,0
 Do you have a filter that has equal to a 4 star rating,0,equal to,1,NA,0
-Do you have a filter that have a equal to 3 month replacement time,0,equal to,1,NA,0
+Do you have a filter that have a equal to 3 month replacement time,1,equal to,1,NA,0
 Do you have a filter that is priced between 10 and 20 dollars,1,between,1,NA,0
 Do you have a filter with MERV rating below 12,1,below,1,NA,0
-Do you have a filter with MERV rating equal to 12,0,equal to,1,NA,0
-Do you have a filter with a replacement time that is equal to 3 months,0,equal to,1,NA,0
+Do you have a filter with MERV rating equal to 12,1,equal to,1,NA,0
+Do you have a filter with a replacement time that is equal to 3 months,1,equal to,1,NA,0
 Do you have a filter with equal to 3 stars,0,equal to,1,NA,0
 Do you have air filters with a price equal to 10 dollars,0,equal to,1,NA,0
 Do you have air filters that I need to change every 3 months,0,NA,0,replacement time,1
 Do you have air filters that are priced between 10 and 20 dollars,1,between,1,NA,0
 Do you have air filters that have MERV rating higher than 10,1,higher than,1,NA,0
 Do you have air filters that have equal to a 4 star rating,0,equal to,1,NA,0
-Do you have air filters that have a equal to 3 month replacement time,0,equal to,1,NA,0
-Do you have air filters with MERV rating equal to 12,0,equal to,1,NA,0
+Do you have air filters that have a equal to 3 month replacement time,1,equal to,1,NA,0
+Do you have air filters with MERV rating equal to 12,1,equal to,1,NA,0
 Do you have air filters with 3 stars,0,with,1,NA,0
 Do you have an air filter priced less than 10 dollars,0,less than,1,NA,0
 Do you have an air filter that I need to change every 3 months,0,NA,0,replacement time,1
-Do you have an air filter that has MERV rating equal to 10,0,equal to,1,NA,0
+Do you have an air filter that has MERV rating equal to 10,1,equal to,1,NA,0
 Do you have an air filter that has equal to a 4 star rating,0,equal to,1,NA,0
 Do you have an air filter that is priced 10 dollars,0,NA,0,NA,0
 Do you have an air filter with MERV rating below 12,1,below,1,NA,0
@@ -253,46 +253,46 @@ Do you have an air filter with at least 3 stars,1,at least,1,NA,0
 Do you have filters priced less than 10 dollars,1,less than,1,NA,0
 Do you have filters that I need to change at maximum every 3 months,1,at maximum,1,NA,0
 Do you have filters that cost at most 15 dollars,1,at most,1,NA,0
-Here to pick up 3 month replacement time air filters,0,NA,0,NA,0
-Here to pick up a 3 month replacement time filter,0,NA,0,NA,0
+Here to pick up 3 month replacement time air filters,1,NA,0,NA,0
+Here to pick up a 3 month replacement time filter,1,NA,0,NA,0
 Here to pick up a filter with a price equal to 10 dollars,0,equal to,1,NA,0
 Here to pick up a filter that costs at most 15 dollars,1,at most,1,NA,0
 Here to pick up a filter that has at least a 4 star rating,1,at least,1,NA,0
 Here to pick up a filter that is priced 10 dollars,0,NA,0,NA,0
-Here to pick up a filter with MERV rating 12,0,NA,0,NA,0
-Here to pick up a filter with a replacement time that is 3 months,0,NA,0,NA,0
+Here to pick up a filter with MERV rating 12,1,NA,0,NA,0
+Here to pick up a filter with a replacement time that is 3 months,1,NA,0,NA,0
 Here to pick up a filter with at least 3 stars,1,at least,1,NA,0
 Here to pick up air filters with a price equal to 10 dollars,0,equal to,1,NA,0
 Here to pick up air filters that cost 15 dollars,0,NA,0,NA,0
 Here to pick up air filters that are priced between 10 and 20 dollars,1,between,1,NA,0
-Here to pick up air filters that have MERV rating equal to 10,0,equal to,1,NA,0
+Here to pick up air filters that have MERV rating equal to 10,1,equal to,1,NA,0
 Here to pick up air filters that have a 4 star rating,0,NA,0,NA,0
 Here to pick up air filters that have equal to a 4 star rating,0,equal to,1,NA,0
 Here to pick up air filters with MERV rating below 12,1,below,1,NA,0
-Here to pick up air filters with a replacement time that is equal to 3 months,0,equal to,1,NA,0
+Here to pick up air filters with a replacement time that is equal to 3 months,1,equal to,1,NA,0
 Here to pick up air filters with at least 3 stars,1,at least,1,NA,0
 Here to pick up an air filter priced less than 10 dollars,1,less than,1,NA,0
 Here to pick up an air filter that I need to change at maximum every 3 months,1,at maximum,1,NA,0
-Here to pick up an air filter that has MERV rating 10,0,NA,0,NA,0
+Here to pick up an air filter that has MERV rating 10,1,NA,0,NA,0
 Here to pick up an air filter that has MERV rating higher than 10,1,higher than,1,NA,0
 Here to pick up an air filter that has at least a 4 star rating,1,at least,1,NA,0
-Here to pick up an air filter that have a equal to 3 month replacement time,0,equal to,1,NA,0
+Here to pick up an air filter that have a equal to 3 month replacement time,1,equal to,1,NA,0
 Here to pick up an air filter with MERV rating below 12,1,below,1,NA,0
-Here to pick up an air filter with a replacement time that is 3 months,0,NA,0,NA,0
-Here to pick up an air filter with a replacement time that is equal to 3 months,0,equal to,1,NA,0
+Here to pick up an air filter with a replacement time that is 3 months,1,NA,0,NA,0
+Here to pick up an air filter with a replacement time that is equal to 3 months,1,equal to,1,NA,0
 Here to pick up filters priced 10 dollars,0,NA,0,NA,0
 Here to pick up filters less than 10 dollars,1,less than,1,NA,0
 Here to pick up filters that I need to change every 3 months,0,NA,0,replacement time,1
 Here to pick up filters that are priced between 10 and 20 dollars,1,between,1,NA,0
 Here to pick up filters that have at least a 4 star rating,1,at least,1,NA,0
-Here to pick up filters with MERV rating 12,0,NA,0,NA,0
+Here to pick up filters with MERV rating 12,1,NA,0,NA,0
 Here to pick up filters with a replacement time that is at most 3 months,1,at most,1,NA,0
 Here to pick up filters with equal to 3 stars,0,equal to,1,NA,0
-I am here to purchase 3 month replacement time air filters,0,NA,0,NA,0
+I am here to purchase 3 month replacement time air filters,1,NA,0,NA,0
 I am here to purchase a filter with a price equal to 10 dollars,0,equal to,1,NA,0
 I am here to purchase a filter that costs at most 15 dollars,1,at most,1,NA,0
-I am here to purchase a filter that has MERV rating 10,0,NA,0,NA,0
-I am here to purchase a filter that has MERV rating equal to 10,0,equal to,1,NA,0
+I am here to purchase a filter that has MERV rating 10,1,NA,0,NA,0
+I am here to purchase a filter that has MERV rating equal to 10,1,equal to,1,NA,0
 I am here to purchase a filter that has equal to a 4 star rating,0,equal to,1,NA,0
 I am here to purchase a filter that has a at minimum 3 month replacement time,1,at minimum,1,NA,0
 I am here to purchase a filter that is priced between 10 and 20 dollars,1,between,1,NA,0
@@ -301,65 +301,65 @@ I am here to purchase air filters priced 10 dollars,0,NA,0,NA,0
 I am here to purchase air filters less than 10 dollars,1,less than,1,NA,0
 I am here to purchase air filters that are priced 10 dollars,0,NA,0,NA,0
 I am here to purchase air filters that are priced between 10 and 20 dollars,1,between,1,NA,0
-I am here to purchase air filters that have MERV rating 10,0,NA,0,NA,0
+I am here to purchase air filters that have MERV rating 10,1,NA,0,NA,0
 I am here to purchase air filters that have a 4 star rating,0,NA,0,NA,0
-I am here to purchase air filters that have a 3 month replacement time,0,NA,0,NA,0
+I am here to purchase air filters that have a 3 month replacement time,1,NA,0,NA,0
 I am here to purchase air filters with 3 stars,0,with,1,NA,0
 I am here to purchase an air filter priced 10 dollars,0,NA,0,NA,0
-I am here to purchase an air filter that has MERV rating 10,0,NA,0,NA,0
-I am here to purchase an air filter that have a equal to 3 month replacement time,0,equal to,1,NA,0
-I am here to purchase an air filter with MERV rating 12,0,NA,0,NA,0
-I am here to purchase an air filter with MERV rating equal to 12,0,equal to,1,NA,0
+I am here to purchase an air filter that has MERV rating 10,1,NA,0,NA,0
+I am here to purchase an air filter that have a equal to 3 month replacement time,1,equal to,1,NA,0
+I am here to purchase an air filter with MERV rating 12,1,NA,0,NA,0
+I am here to purchase an air filter with MERV rating equal to 12,1,equal to,1,NA,0
 I am here to purchase an air filter with at least 3 stars,1,at least,1,NA,0
 I am here to purchase filters that I need to change every 3 months,0,NA,0,replacement time,1
 I am here to purchase filters that cost 15 dollars,0,NA,0,price,1
 I am here to purchase filters that are priced 10 dollars,0,NA,0,NA,0
-I am here to purchase filters that have MERV rating 10,0,NA,0,NA,0
-I am here to purchase filters that have MERV rating equal to 10,0,equal to,1,NA,0
+I am here to purchase filters that have MERV rating 10,1,NA,0,NA,0
+I am here to purchase filters that have MERV rating equal to 10,1,equal to,1,NA,0
 I am here to purchase filters that have a 4 star rating,0,NA,0,NA,0
-I am here to purchase filters that have a equal to 3 month replacement time,0,equal to,1,NA,0
-I am here to purchase filters with MERV rating 12,0,NA,0,NA,0
-I am here to purchase filters with MERV rating equal to 12,0,equal to,1,NA,0
-I am here to purchase filters with a replacement time that is 3 months,0,NA,0,NA,0
+I am here to purchase filters that have a equal to 3 month replacement time,1,equal to,1,NA,0
+I am here to purchase filters with MERV rating 12,1,NA,0,NA,0
+I am here to purchase filters with MERV rating equal to 12,1,equal to,1,NA,0
+I am here to purchase filters with a replacement time that is 3 months,1,NA,0,NA,0
 I am here to purchase filters with 3 stars,0,with,1,NA,0
 I am here to purchase filters with equal to 3 stars,0,equal to,1,NA,0
-I believe a 3 month replacement time air filter,0,NA,0,NA,0
+I believe a 3 month replacement time air filter,1,NA,0,NA,0
 I believe a filter with a price equal to 10 dollars,0,equal to,1,NA,0
 I believe a filter that I need to change every 3 months,0,NA,0,replacement time,1
 I believe a filter that costs 15 dollars,0,NA,0,NA,0
 I believe a filter that costs at most 15 dollars,1,at most,1,NA,0
-I believe a filter that has MERV rating 10,0,NA,0,NA,0
-I believe a filter that has MERV rating equal to 10,0,equal to,1,NA,0
+I believe a filter that has MERV rating 10,1,NA,0,NA,0
+I believe a filter that has MERV rating equal to 10,1,equal to,1,NA,0
 I believe a filter that has equal to a 4 star rating,0,equal to,1,NA,0
-I believe a filter that have a equal to 3 month replacement time,0,equal to,1,NA,0
-I believe a filter with MERV rating equal to 12,0,equal to,1,NA,0
-I believe a filter with a replacement time that is equal to 3 months,0,equal to,1,NA,0
+I believe a filter that have a equal to 3 month replacement time,1,equal to,1,NA,0
+I believe a filter with MERV rating equal to 12,1,equal to,1,NA,0
+I believe a filter with a replacement time that is equal to 3 months,1,equal to,1,NA,0
 I believe air filters priced 10 dollars,0,NA,0,NA,0
 I believe air filters less than 10 dollars,1,less than,1,NA,0
 I believe air filters that I need to change every 3 months,0,NA,0,replacement time,1
-I believe air filters that have MERV rating equal to 10,0,equal to,1,NA,0
-I believe air filters that have a 3 month replacement time,0,NA,0,NA,0
+I believe air filters that have MERV rating equal to 10,1,equal to,1,NA,0
+I believe air filters that have a 3 month replacement time,1,NA,0,NA,0
 I believe air filters that have a at minimum 3 month replacement time,1,at minimum,1,NA,0
-I believe air filters that have a equal to 3 month replacement time,0,equal to,1,NA,0
-I believe air filters with MERV rating 12,0,NA,0,NA,0
+I believe air filters that have a equal to 3 month replacement time,1,equal to,1,NA,0
+I believe air filters with MERV rating 12,1,NA,0,NA,0
 I believe air filters with MERV rating below 12,1,below,1,NA,0
-I believe air filters with MERV rating equal to 12,0,equal to,1,NA,0
+I believe air filters with MERV rating equal to 12,1,equal to,1,NA,0
 I believe air filters with at least 3 stars,1,at least,1,NA,0
 I believe an air filter that I need to change at maximum every 3 months,1,at maximum,1,NA,0
-I believe an air filter that has MERV rating 10,0,NA,0,NA,0
+I believe an air filter that has MERV rating 10,1,NA,0,NA,0
 I believe an air filter that has at least a 4 star rating,1,at least,1,NA,0
 I believe an air filter that is priced 10 dollars,0,NA,0,NA,0
 I believe an air filter with MERV rating below 12,1,below,1,NA,0
-I believe an air filter with a replacement time that is 3 months,0,NA,0,NA,0
-I believe an air filter with a replacement time that is equal to 3 months,0,equal to,1,NA,0
+I believe an air filter with a replacement time that is 3 months,1,NA,0,NA,0
+I believe an air filter with a replacement time that is equal to 3 months,1,equal to,1,NA,0
 I believe an air filter with equal to 3 stars,0,equal to,1,NA,0
 I believe filters less than 10 dollars,1,less than,1,NA,0
 I believe filters that cost 15 dollars,0,NA,0,NA,0
 I believe filters that are priced 10 dollars,0,NA,0,NA,0
 I believe filters that have a 4 star rating,0,NA,0,NA,0
 I believe filters that have a at minimum 3 month replacement time,1,at minimum,1,NA,0
-I believe filters with MERV rating equal to 12,0,equal to,1,NA,0
-I need 3 month replacement time air filters,0,NA,0,NA,0
+I believe filters with MERV rating equal to 12,1,equal to,1,NA,0
+I need 3 month replacement time air filters,1,NA,0,NA,0
 I need a filter priced 10 dollars,0,NA,0,NA,0
 I need a filter priced less than 10 dollars,1,less than,1,NA,0
 I need a filter with a price equal to 10 dollars,0,equal to,1,NA,0
@@ -367,47 +367,47 @@ I need a filter less than 10 dollars,1,less than,1,NA,0
 I need a filter that I need to change at maximum every 3 months,1,at maximum,1,NA,0
 I need a filter that I need to change every 3 months,0,NA,0,replacement time,1
 I need a filter that costs 15 dollars,0,NA,0,NA,0
-I need a filter that has MERV rating 10,0,NA,0,NA,0
+I need a filter that has MERV rating 10,1,NA,0,NA,0
 I need a filter that has a 4 star rating,0,NA,0,NA,0
 I need a filter that has a at minimum 3 month replacement time,1,at minimum,1,NA,0
-I need a filter with MERV rating equal to 12,0,equal to,1,NA,0
+I need a filter with MERV rating equal to 12,1,equal to,1,NA,0
 I need a filter with equal to 3 stars,0,equal to,1,NA,0
 I need air filters that cost 15 dollars,0,NA,0,NA,0
 I need air filters that are priced between 10 and 20 dollars,1,between,1,NA,0
 I need air filters that have a 4 star rating,0,NA,0,NA,0
-I need air filters that have a 3 month replacement time,0,NA,0,NA,0
-I need air filters with MERV rating equal to 12,0,equal to,1,NA,0
+I need air filters that have a 3 month replacement time,1,NA,0,NA,0
+I need air filters with MERV rating equal to 12,1,equal to,1,NA,0
 I need air filters with at least 3 stars,1,at least,1,NA,0
 I need an air filter that I need to change at maximum every 3 months,1,at maximum,1,NA,0
-I need an air filter that has MERV rating equal to 10,0,equal to,1,NA,0
+I need an air filter that has MERV rating equal to 10,1,equal to,1,NA,0
 I need an air filter that has MERV rating higher than 10,1,higher than,1,NA,0
 I need an air filter that has a 4 star rating,0,NA,0,NA,0
 I need an air filter that has at least a 4 star rating,1,at least,1,NA,0
 I need an air filter that is priced 10 dollars,0,NA,0,NA,0
-I need an air filter with a replacement time that is 3 months,0,NA,0,NA,0
+I need an air filter with a replacement time that is 3 months,1,NA,0,NA,0
 I need an air filter with at least 3 stars,1,at least,1,NA,0
 I need filters with a price equal to 10 dollars,0,equal to,1,NA,0
 I need filters that I need to change every 3 months,0,NA,0,replacement time,1
 I need filters that are priced 10 dollars,0,NA,0,NA,0
 I need filters that have a 4 star rating,0,NA,0,NA,0
-I need filters that have a equal to 3 month replacement time,0,equal to,1,NA,0
-I need filters with MERV rating 12,0,with,1,NA,0
+I need filters that have a equal to 3 month replacement time,1,equal to,1,NA,0
+I need filters with MERV rating 12,1,with,1,NA,0
 I need filters with MERV rating below 12,1,below,1,NA,0
-I need to get 3 month replacement time air filters,0,NA,0,NA,0
-I need to get 3 month replacement time filters,0,NA,0,NA,0
-I need to get a 3 month replacement time air filter,0,NA,0,NA,0
-I need to get a 3 month replacement time filter,0,NA,0,NA,0
+I need to get 3 month replacement time air filters,1,NA,0,NA,0
+I need to get 3 month replacement time filters,1,NA,0,NA,0
+I need to get a 3 month replacement time air filter,1,NA,0,NA,0
+I need to get a 3 month replacement time filter,1,NA,0,NA,0
 I need to get a filter while I'm here priced 10 dollars,0,NA,0,NA,0
 I need to get a filter while I'm here priced less than 10 dollars,1,less than,1,NA,0
 I need to get a filter while I'm here that costs at most 15 dollars,1,at most,1,NA,0
-I need to get a filter while I'm here that has MERV rating 10,0,NA,0,NA,0
-I need to get a filter while I'm here that has MERV rating equal to 10,0,equal to,1,NA,0
-I need to get a filter while I'm here that has a 3 month replacement time,0,NA,0,NA,0
+I need to get a filter while I'm here that has MERV rating 10,1,NA,0,NA,0
+I need to get a filter while I'm here that has MERV rating equal to 10,1,equal to,1,NA,0
+I need to get a filter while I'm here that has a 3 month replacement time,1,NA,0,NA,0
 I need to get a filter while I'm here that has a at minimum 3 month replacement time,1,at minimum,1,NA,0
-I need to get a filter while I'm here that have a equal to 3 month replacement time,0,equal to,1,NA,0
+I need to get a filter while I'm here that have a equal to 3 month replacement time,1,equal to,1,NA,0
 I need to get a filter while I'm here with MERV rating below 12,1,below,1,NA,0
-I need to get a filter while I'm here with MERV rating equal to 12,0,equal to,1,NA,0
-I need to get a filter while I'm here with a replacement time that is 3 months,0,NA,0,NA,0
+I need to get a filter while I'm here with MERV rating equal to 12,1,equal to,1,NA,0
+I need to get a filter while I'm here with a replacement time that is 3 months,1,NA,0,NA,0
 I need to get a filter while I'm here with a replacement time that is at most 3 months,1,at most,1,NA,0
 I need to get a filter while I'm here with equal to 3 stars,0,equal to,1,NA,0
 I need to get air filters while I'm here priced 10 dollars,0,NA,0,NA,0
@@ -418,77 +418,77 @@ I need to get air filters while I'm here that are priced between 10 and 20 dolla
 I need to get air filters while I'm here that have MERV rating higher than 10,1,higher than,1,NA,0
 I need to get air filters while I'm here that have equal to a 4 star rating,0,equal to,1,NA,0
 I need to get air filters while I'm here that have a at minimum 3 month replacement time,1,at minimum,1,NA,0
-I need to get air filters while I'm here with MERV rating equal to 12,0,equal to,1,NA,0
-I need to get air filters while I'm here with a replacement time that is equal to 3 months,0,equal to,1,NA,0
+I need to get air filters while I'm here with MERV rating equal to 12,1,equal to,1,NA,0
+I need to get air filters while I'm here with a replacement time that is equal to 3 months,1,equal to,1,NA,0
 I need to get an air filter while I'm here priced 10 dollars,0,NA,0,NA,0
 I need to get an air filter while I'm here that I need to change at maximum every 3 months,1,at maximum,1,NA,0
-I need to get an air filter while I'm here that has MERV rating 10,0,NA,0,NA,0
+I need to get an air filter while I'm here that has MERV rating 10,1,NA,0,NA,0
 I need to get an air filter while I'm here that has a 4 star rating,0,NA,0,NA,0
-I need to get an air filter while I'm here that has a 3 month replacement time,0,NA,0,NA,0
+I need to get an air filter while I'm here that has a 3 month replacement time,1,NA,0,NA,0
 I need to get an air filter while I'm here that is priced 10 dollars,0,NA,0,NA,0
-I need to get an air filter while I'm here with MERV rating equal to 12,0,equal to,1,NA,0
+I need to get an air filter while I'm here with MERV rating equal to 12,1,equal to,1,NA,0
 I need to get an air filter while I'm here with a replacement time that is at most 3 months,1,at most,1,NA,0
 I need to get an air filter while I'm here with at least 3 stars,1,at least,1,NA,0
 I need to get filters while I'm here priced less than 10 dollars,1,less than,1,NA,0
 I need to get filters while I'm here that I need to change every 3 months,0,NA,0,replacement time,1
-I need to grab a 3 month replacement time filter,0,NA,0,NA,0
+I need to grab a 3 month replacement time filter,1,NA,0,NA,0
 I need to grab a filter while I'm here priced less than 10 dollars,1,less than,1,NA,0
 I need to grab a filter while I'm here that I need to change at maximum every 3 months,1,at maximum,1,NA,0
 I need to grab a filter while I'm here that costs at most 15 dollars,1,at most,1,NA,0
 I need to grab a filter while I'm here that has a 4 star rating,0,NA,0,NA,0
 I need to grab a filter while I'm here that has a at minimum 3 month replacement time,1,at minimum,1,NA,0
 I need to grab a filter while I'm here with MERV rating below 12,1,below,1,NA,0
-I need to grab a filter while I'm here with a replacement time that is equal to 3 months,0,equal to,1,NA,0
+I need to grab a filter while I'm here with a replacement time that is equal to 3 months,1,equal to,1,NA,0
 I need to grab a filter while I'm here with equal to 3 stars,0,equal to,1,NA,0
 I need to grab air filters while I'm here priced 10 dollars,0,NA,0,NA,0
 I need to grab air filters while I'm here less than 10 dollars,1,less than,1,NA,0
 I need to grab air filters while I'm here that cost 15 dollars,0,NA,0,NA,0
 I need to grab air filters while I'm here that cost at most 15 dollars,1,at most,1,NA,0
-I need to grab air filters while I'm here that have MERV rating equal to 10,0,equal to,1,NA,0
+I need to grab air filters while I'm here that have MERV rating equal to 10,1,equal to,1,NA,0
 I need to grab air filters while I'm here that have equal to a 4 star rating,0,equal to,1,NA,0
-I need to grab air filters while I'm here that have a 3 month replacement time,0,NA,0,NA,0
-I need to grab air filters while I'm here with MERV rating 12,0,NA,0,NA,0
+I need to grab air filters while I'm here that have a 3 month replacement time,1,NA,0,NA,0
+I need to grab air filters while I'm here with MERV rating 12,1,NA,0,NA,0
 I need to grab air filters while I'm here with a replacement time that is at most 3 months,1,at most,1,NA,0
 I need to grab an air filter while I'm here priced 10 dollars,0,NA,0,NA,0
-I need to grab an air filter while I'm here that has MERV rating equal to 10,0,equal to,1,NA,0
+I need to grab an air filter while I'm here that has MERV rating equal to 10,1,equal to,1,NA,0
 I need to grab an air filter while I'm here that has equal to a 4 star rating,0,equal to,1,NA,0
 I need to grab an air filter while I'm here that is priced 10 dollars,0,NA,0,NA,0
-I need to grab an air filter while I'm here with MERV rating 12,0,NA,0,NA,0
-I need to grab an air filter while I'm here with a replacement time that is 3 months,0,NA,0,NA,0
+I need to grab an air filter while I'm here with MERV rating 12,1,NA,0,NA,0
+I need to grab an air filter while I'm here with a replacement time that is 3 months,1,NA,0,NA,0
 I need to grab an air filter while I'm here with 3 stars,0,with,1,NA,0
 I need to grab an air filter while I'm here with equal to 3 stars,0,equal to,1,NA,0
 I need to grab filters while I'm here less than 10 dollars,1,less than,1,NA,0
 I need to grab filters while I'm here that I need to change every 3 months,0,NA,0,replacement time,1
 I need to grab filters while I'm here that cost at most 15 dollars,1,at most,1,NA,0
-I need to grab filters while I'm here that have MERV rating equal to 10,0,equal to,1,NA,0
+I need to grab filters while I'm here that have MERV rating equal to 10,1,equal to,1,NA,0
 I need to grab filters while I'm here that have equal to a 4 star rating,0,equal to,1,NA,0
-I need to grab filters while I'm here with MERV rating 12,0,NA,0,NA,0
+I need to grab filters while I'm here with MERV rating 12,1,NA,0,NA,0
 I need to grab filters while I'm here with a replacement time that is at most 3 months,1,at most,1,NA,0
 I need to grab filters while I'm here with equal to 3 stars,0,equal to,1,NA,0
-I want 3 month replacement time filters,0,NA,0,NA,0
+I want 3 month replacement time filters,1,NA,0,NA,0
 I want a filter priced less than 10 dollars,1,less than,1,NA,0
 I want a filter that I need to change at maximum every 3 months,1,at maximum,1,NA,0
-I want a filter that has MERV rating 10,0,NA,0,NA,0
-I want a filter that has MERV rating equal to 10,0,equal to,1,NA,0
+I want a filter that has MERV rating 10,1,NA,0,NA,0
+I want a filter that has MERV rating equal to 10,1,equal to,1,NA,0
 I want a filter that has MERV rating higher than 10,1,higher than,1,NA,0
 I want a filter that is priced 10 dollars,0,NA,0,NA,0
-I want a filter with MERV rating equal to 12,0,equal to,1,NA,0
+I want a filter with MERV rating equal to 12,1,equal to,1,NA,0
 I want a filter with 3 stars,0,with,1,NA,0
 I want air filters priced 10 dollars,0,NA,0,NA,0
 I want air filters that I need to change at maximum every 3 months,1,at maximum,1,NA,0
 I want air filters that cost at most 15 dollars,1,at most,1,NA,0
-I want air filters that have MERV rating 10,0,NA,0,NA,0
+I want air filters that have MERV rating 10,1,NA,0,NA,0
 I want air filters that have a 4 star rating,0,NA,0,NA,0
 I want air filters that have equal to a 4 star rating,0,equal to,1,NA,0
-I want air filters that have a equal to 3 month replacement time,0,equal to,1,NA,0
-I want air filters with MERV rating equal to 12,0,equal to,1,NA,0
-I want air filters with a replacement time that is equal to 3 months,0,equal to,1,NA,0
+I want air filters that have a equal to 3 month replacement time,1,equal to,1,NA,0
+I want air filters with MERV rating equal to 12,1,equal to,1,NA,0
+I want air filters with a replacement time that is equal to 3 months,1,equal to,1,NA,0
 I want air filters with equal to 3 stars,0,equal to,1,NA,0
 I want an air filter with a price equal to 10 dollars,0,equal to,1,NA,0
 I want an air filter that I need to change every 3 months,0,NA,0,replacement time,1
-I want an air filter that has MERV rating 10,0,NA,0,NA,0
+I want an air filter that has MERV rating 10,1,NA,0,NA,0
 I want an air filter that has a 4 star rating,0,NA,0,NA,0
-I want an air filter that has a 3 month replacement time,0,NA,0,NA,0
+I want an air filter that has a 3 month replacement time,1,NA,0,NA,0
 I want an air filter that is priced 10 dollars,0,NA,0,NA,0
 I want an air filter with MERV rating below 12,1,below,1,NA,0
 I want an air filter with a replacement time that is at most 3 months,1,at most,1,NA,0
@@ -497,16 +497,16 @@ I want filters priced less than 10 dollars,1,less than,1,NA,0
 I want filters that I need to change at maximum every 3 months,1,at maximum,1,NA,0
 I want filters that cost 15 dollars,0,NA,0,NA,0
 I want filters that are priced 10 dollars,0,NA,0,NA,0
-I want filters that have MERV rating 10,0,NA,0,NA,0
-I want filters that have MERV rating equal to 10,0,equal to,1,NA,0
+I want filters that have MERV rating 10,1,NA,0,NA,0
+I want filters that have MERV rating equal to 10,1,equal to,1,NA,0
 I want filters that have at least a 4 star rating,1,at least,1,NA,0
-I want to invest in 3 month replacement time air filters,0,NA,0,NA,0
-I want to invest in a 3 month replacement time filter,0,NA,0,NA,0
+I want to invest in 3 month replacement time air filters,1,NA,0,NA,0
+I want to invest in a 3 month replacement time filter,1,NA,0,NA,0
 I want to invest in a filter with a price equal to 10 dollars,0,equal to,1,NA,0
 I want to invest in a filter that I need to change every 3 months,0,NA,0,replacement time,1
-I want to invest in a filter that has MERV rating 10,0,NA,0,NA,0
+I want to invest in a filter that has MERV rating 10,1,NA,0,NA,0
 I want to invest in a filter that has a 4 star rating,0,NA,0,NA,0
-I want to invest in a filter that has a 3 month replacement time,0,NA,0,NA,0
+I want to invest in a filter that has a 3 month replacement time,1,NA,0,NA,0
 I want to invest in a filter that is priced 10 dollars,0,NA,0,NA,0
 I want to invest in a filter with MERV rating below 12,1,below,1,NA,0
 I want to invest in a filter with a replacement time that is at most 3 months,1,at most,1,NA,0
@@ -514,35 +514,35 @@ I want to invest in a filter with at least 3 stars,1,at least,1,NA,0
 I want to invest in air filters priced less than 10 dollars,1,less than,1,NA,0
 I want to invest in air filters that I need to change every 3 months,0,NA,0,replacement time,1
 I want to invest in air filters that are priced 10 dollars,0,NA,0,NA,0
-I want to invest in air filters that have MERV rating equal to 10,0,equal to,1,NA,0
+I want to invest in air filters that have MERV rating equal to 10,1,equal to,1,NA,0
 I want to invest in air filters that have a 4 star rating,0,NA,0,NA,0
-I want to invest in air filters that have a 3 month replacement time,0,NA,0,NA,0
-I want to invest in air filters with MERV rating 12,0,NA,0,NA,0
-I want to invest in air filters with a replacement time that is 3 months,0,NA,0,NA,0
+I want to invest in air filters that have a 3 month replacement time,1,NA,0,NA,0
+I want to invest in air filters with MERV rating 12,1,NA,0,NA,0
+I want to invest in air filters with a replacement time that is 3 months,1,NA,0,NA,0
 I want to invest in air filters with 3 stars,0,with,1,NA,0
 I want to invest in an air filter priced less than 10 dollars,1,less than,1,NA,0
 I want to invest in an air filter that I need to change every 3 months,0,NA,0,replacement time,1
-I want to invest in an air filter that has MERV rating equal to 10,0,equal to,1,NA,0
+I want to invest in an air filter that has MERV rating equal to 10,1,equal to,1,NA,0
 I want to invest in an air filter that has equal to a 4 star rating,0,equal to,1,NA,0
 I want to invest in an air filter that has a at minimum 3 month replacement time,1,at minimum,1,NA,0
 I want to invest in an air filter that is priced 10 dollars,0,NA,0,NA,0
-I want to invest in an air filter with MERV rating equal to 12,0,equal to,1,NA,0
+I want to invest in an air filter with MERV rating equal to 12,1,equal to,1,NA,0
 I want to invest in an air filter with 3 stars,0,with,1,NA,0
 I want to invest in filters priced 10 dollars,0,NA,0,NA,0
 I want to invest in filters that I need to change at maximum every 3 months,1,at maximum,1,NA,0
 I want to invest in filters that are priced 10 dollars,0,NA,0,NA,0
-I want to invest in filters that have MERV rating equal to 10,0,equal to,1,NA,0
+I want to invest in filters that have MERV rating equal to 10,1,equal to,1,NA,0
 I want to invest in filters that have at least a 4 star rating,1,at least,1,NA,0
-I want to invest in filters that have a equal to 3 month replacement time,0,equal to,1,NA,0
-I want to invest in filters with a replacement time that is 3 months,0,NA,0,NA,0
-I'm going to go with a 3 month replacement time air filter,0,NA,0,NA,0
+I want to invest in filters that have a equal to 3 month replacement time,1,equal to,1,NA,0
+I want to invest in filters with a replacement time that is 3 months,1,NA,0,NA,0
+I'm going to go with a 3 month replacement time air filter,1,NA,0,NA,0
 I'm going to go with a filter priced less than 10 dollars,1,less than,1,NA,0
 I'm going to go with a filter that I need to change at maximum every 3 months,1,at maximum,1,NA,0
-I'm going to go with a filter that has MERV rating 10,0,NA,0,NA,0
+I'm going to go with a filter that has MERV rating 10,1,NA,0,NA,0
 I'm going to go with a filter that has a 4 star rating,0,NA,0,NA,0
 I'm going to go with a filter that has a at minimum 3 month replacement time,1,at minimum,1,NA,0
 I'm going to go with a filter that is priced between 10 and 20 dollars,1,between,1,NA,0
-I'm going to go with a filter with MERV rating equal to 12,0,equal to,1,NA,0
+I'm going to go with a filter with MERV rating equal to 12,1,equal to,1,NA,0
 I'm going to go with a filter with 3 stars,0,with,1,NA,0
 I'm going to go with air filters priced 10 dollars,0,NA,0,NA,0
 I'm going to go with air filters less than 10 dollars,1,less than,1,NA,0
@@ -550,7 +550,7 @@ I'm going to go with air filters that cost 15 dollars,0,NA,0,NA,0
 I'm going to go with air filters that are priced between 10 and 20 dollars,1,between,1,NA,0
 I'm going to go with air filters that have MERV rating higher than 10,1,higher than,1,NA,0
 I'm going to go with air filters that have equal to a 4 star rating,0,equal to,1,NA,0
-I'm going to go with air filters with MERV rating 12,0,NA,0,NA,0
+I'm going to go with air filters with MERV rating 12,1,NA,0,NA,0
 I'm going to go with air filters with a replacement time that is at most 3 months,1,at most,1,NA,0
 I'm going to go with air filters with equal to 3 stars,0,equal to,1,NA,0
 I'm going to go with an air filter with a price equal to 10 dollars,0,equal to,1,NA,0
@@ -558,52 +558,52 @@ I'm going to go with an air filter that I need to change every 3 months,0,NA,0,r
 I'm going to go with an air filter that has a at minimum 3 month replacement time,1,at minimum,1,NA,0
 I'm going to go with an air filter with 3 stars,0,with,1,NA,0
 I'm going to go with filters that cost at most 15 dollars,1,at most,1,NA,0
-I'm going to go with filters that have a 3 month replacement time,0,NA,0,NA,0
-I'm going to go with filters with a replacement time that is 3 months,0,NA,0,NA,0
+I'm going to go with filters that have a 3 month replacement time,1,NA,0,NA,0
+I'm going to go with filters with a replacement time that is 3 months,1,NA,0,NA,0
 I'm looking for a filter priced 10 dollars,0,NA,0,NA,0
 I'm looking for a filter that has MERV rating higher than 10,1,higher than,1,NA,0
-I'm looking for a filter with MERV rating 12,0,NA,0,NA,0
+I'm looking for a filter with MERV rating 12,1,NA,0,NA,0
 I'm looking for air filters priced less than 10 dollars,1,less than,1,NA,0
 I'm looking for air filters that have a at minimum 3 month replacement time,1,at minimum,1,NA,0
 I'm looking for air filters with at least 3 stars,1,at least,1,NA,0
-I'm looking for an air filter that has MERV rating 10,0,NA,0,NA,0
+I'm looking for an air filter that has MERV rating 10,1,NA,0,NA,0
 I'm looking for an air filter that has equal to a 4 star rating,0,equal to,1,NA,0
 I'm looking for an air filter that is priced 10 dollars,0,NA,0,NA,0
-I'm looking for an air filter with a replacement time that is equal to 3 months,0,equal to,1,NA,0
+I'm looking for an air filter with a replacement time that is equal to 3 months,1,equal to,1,NA,0
 I'm shopping for a filter priced 10 dollars,0,NA,0,NA,0
 I'm shopping for a filter that I need to change at maximum every 3 months,1,at maximum,1,NA,0
 I'm shopping for a filter that has at least a 4 star rating,1,at least,1,NA,0
-I'm shopping for a filter that have a equal to 3 month replacement time,0,equal to,1,NA,0
-I'm shopping for a filter with MERV rating equal to 12,0,equal to,1,NA,0
-I'm shopping for a filter with a replacement time that is equal to 3 months,0,equal to,1,NA,0
+I'm shopping for a filter that have a equal to 3 month replacement time,1,equal to,1,NA,0
+I'm shopping for a filter with MERV rating equal to 12,1,equal to,1,NA,0
+I'm shopping for a filter with a replacement time that is equal to 3 months,1,equal to,1,NA,0
 I'm shopping for air filters that I need to change at maximum every 3 months,1,at maximum,1,NA,0
 I'm shopping for air filters that I need to change every 3 months,0,NA,0,replacement time,1
 I'm shopping for air filters that cost 15 dollars,0,NA,0,NA,0
 I'm shopping for air filters that cost at most 15 dollars,1,at most,1,NA,0
 I'm shopping for air filters that are priced 10 dollars,0,NA,0,NA,0
 I'm shopping for air filters that are priced between 10 and 20 dollars,1,between,1,NA,0
-I'm shopping for air filters that have MERV rating 10,0,NA,0,NA,0
-I'm shopping for air filters that have MERV rating equal to 10,0,equal to,1,NA,0
+I'm shopping for air filters that have MERV rating 10,1,NA,0,NA,0
+I'm shopping for air filters that have MERV rating equal to 10,1,equal to,1,NA,0
 I'm shopping for air filters that have MERV rating higher than 10,1,higher than,1,NA,0
 I'm shopping for air filters that have a 4 star rating,0,NA,0,NA,0
 I'm shopping for air filters that have at least a 4 star rating,1,at least,1,NA,0
 I'm shopping for air filters that have equal to a 4 star rating,0,equal to,1,NA,0
-I'm shopping for air filters that have a 3 month replacement time,0,NA,0,NA,0
+I'm shopping for air filters that have a 3 month replacement time,1,NA,0,NA,0
 I'm shopping for air filters that have a at minimum 3 month replacement time,1,at minimum,1,NA,0
-I'm shopping for air filters that have a equal to 3 month replacement time,0,equal to,1,NA,0
-I'm shopping for air filters with MERV rating 12,0,NA,0,NA,0
+I'm shopping for air filters that have a equal to 3 month replacement time,1,equal to,1,NA,0
+I'm shopping for air filters with MERV rating 12,1,NA,0,NA,0
 I'm shopping for air filters with MERV rating below 12,1,below,1,NA,0
-I'm shopping for air filters with MERV rating equal to 12,0,equal to,1,NA,0
-I'm shopping for air filters with a replacement time that is 3 months,0,NA,0,NA,0
+I'm shopping for air filters with MERV rating equal to 12,1,equal to,1,NA,0
+I'm shopping for air filters with a replacement time that is 3 months,1,NA,0,NA,0
 I'm shopping for air filters with a replacement time that is at most 3 months,1,at most,1,NA,0
-I'm shopping for air filters with a replacement time that is equal to 3 months,0,equal to,1,NA,0
+I'm shopping for air filters with a replacement time that is equal to 3 months,1,equal to,1,NA,0
 I'm shopping for air filters with 3 stars,0,with,1,NA,0
 I'm shopping for filters with at least 3 stars,1,at least,1,NA,0
 I'm shopping for filters with equal to 3 stars,0,equal to,1,NA,0
-Looking to purchase 3 month replacement time air filters,0,NA,0,NA,0
-Looking to purchase 3 month replacement time filters,0,NA,0,NA,0
-Looking to purchase a 3 month replacement time air filter,0,NA,0,NA,0
-Looking to purchase a 3 month replacement time filter,0,NA,0,NA,0
+Looking to purchase 3 month replacement time air filters,1,NA,0,NA,0
+Looking to purchase 3 month replacement time filters,1,NA,0,NA,0
+Looking to purchase a 3 month replacement time air filter,1,NA,0,NA,0
+Looking to purchase a 3 month replacement time filter,1,NA,0,NA,0
 Looking to purchase a filter priced 10 dollars,0,NA,0,NA,0
 Looking to purchase a filter priced less than 10 dollars,1,less than,1,NA,0
 Looking to purchase a filter with a price equal to 10 dollars,0,equal to,1,NA,0
@@ -612,23 +612,23 @@ Looking to purchase a filter that I need to change at maximum every 3 months,1,a
 Looking to purchase a filter that I need to change every 3 months,0,NA,0,replacement time,1
 Looking to purchase a filter that costs 15 dollars,0,NA,0,NA,0
 Looking to purchase a filter that costs at most 15 dollars,1,at most,1,NA,0
-Looking to purchase a filter that has MERV rating 10,0,NA,0,NA,0
-Looking to purchase a filter that has MERV rating equal to 10,0,equal to,1,NA,0
+Looking to purchase a filter that has MERV rating 10,1,NA,0,NA,0
+Looking to purchase a filter that has MERV rating equal to 10,1,equal to,1,NA,0
 Looking to purchase a filter that has MERV rating higher than 10,1,higher than,1,NA,0
 Looking to purchase a filter that has a 4 star rating,0,NA,0,NA,0
 Looking to purchase a filter that has at least a 4 star rating,1,at least,1,NA,0
 Looking to purchase a filter that has equal to a 4 star rating,0,equal to,1,NA,0
-Looking to purchase a filter that has a 3 month replacement time,0,NA,0,NA,0
+Looking to purchase a filter that has a 3 month replacement time,1,NA,0,NA,0
 Looking to purchase a filter that has a at minimum 3 month replacement time,1,at minimum,1,NA,0
-Looking to purchase a filter that have a equal to 3 month replacement time,0,equal to,1,NA,0
+Looking to purchase a filter that have a equal to 3 month replacement time,1,equal to,1,NA,0
 Looking to purchase a filter that is priced 10 dollars,0,NA,0,NA,0
 Looking to purchase a filter that is priced between 10 and 20 dollars,1,between,1,NA,0
-Looking to purchase a filter with MERV rating 12,0,NA,0,NA,0
+Looking to purchase a filter with MERV rating 12,1,NA,0,NA,0
 Looking to purchase a filter with MERV rating below 12,1,below,1,NA,0
-Looking to purchase a filter with MERV rating equal to 12,0,equal to,1,NA,0
-Looking to purchase a filter with a replacement time that is 3 months,0,NA,0,NA,0
+Looking to purchase a filter with MERV rating equal to 12,1,equal to,1,NA,0
+Looking to purchase a filter with a replacement time that is 3 months,1,NA,0,NA,0
 Looking to purchase a filter with a replacement time that is at most 3 months,1,at most,1,NA,0
-Looking to purchase a filter with a replacement time that is equal to 3 months,0,equal to,1,NA,0
+Looking to purchase a filter with a replacement time that is equal to 3 months,1,equal to,1,NA,0
 Looking to purchase a filter with 3 stars,0,with,1,NA,0
 Looking to purchase a filter with at least 3 stars,1,at least,1,NA,0
 Looking to purchase a filter with equal to 3 stars,0,equal to,1,NA,0
@@ -642,10 +642,10 @@ Looking to purchase air filters that cost 15 dollars,0,NA,0,NA,0
 Looking to purchase air filters that cost at most 15 dollars,1,at most,1,NA,0
 Looking to purchase air filters that are priced 10 dollars,0,NA,0,NA,0
 Looking to purchase air filters that are priced between 10 and 20 dollars,1,between,1,NA,0
-My mom suggested 3 month replacement time air filters,0,NA,0,NA,0
-My mom suggested 3 month replacement time filters,0,NA,0,NA,0
-My mom suggested a 3 month replacement time air filter,0,NA,0,NA,0
-My mom suggested a 3 month replacement time filter,0,NA,0,NA,0
+My mom suggested 3 month replacement time air filters,1,NA,0,NA,0
+My mom suggested 3 month replacement time filters,1,NA,0,NA,0
+My mom suggested a 3 month replacement time air filter,1,NA,0,NA,0
+My mom suggested a 3 month replacement time filter,1,NA,0,NA,0
 My mom suggested a filter priced 10 dollars,0,NA,0,NA,0
 My mom suggested a filter priced less than 10 dollars,1,less than,1,NA,0
 My mom suggested a filter with a price equal to 10 dollars,0,equal to,1,NA,0
@@ -654,12 +654,12 @@ My mom suggested a filter that I need to change at maximum every 3 months,1,at m
 My mom suggested a filter that I need to change every 3 months,0,NA,0,replacement time,1
 My mom suggested a filter that costs 15 dollars,0,NA,0,NA,0
 My mom suggested a filter that costs at most 15 dollars,1,at most,1,NA,0
-My mom suggested a filter that has MERV rating 10,0,NA,0,NA,0
-My mom suggested a filter that has MERV rating equal to 10,0,equal to,1,NA,0
+My mom suggested a filter that has MERV rating 10,1,NA,0,NA,0
+My mom suggested a filter that has MERV rating equal to 10,1,equal to,1,NA,0
 My mom suggested a filter that has MERV rating higher than 10,1,higher than,1,NA,0
-My mom suggested a filter with a replacement time that is 3 months,0,NA,0,NA,0
+My mom suggested a filter with a replacement time that is 3 months,1,NA,0,NA,0
 My mom suggested a filter with a replacement time that is at most 3 months,1,at most,1,NA,0
-My mom suggested a filter with a replacement time that is equal to 3 months,0,equal to,1,NA,0
+My mom suggested a filter with a replacement time that is equal to 3 months,1,equal to,1,NA,0
 My mom suggested a filter with 3 stars,0,with,1,NA,0
 My mom suggested a filter with at least 3 stars,1,at least,1,NA,0
 My mom suggested a filter with equal to 3 stars,0,equal to,1,NA,0
@@ -673,17 +673,17 @@ My mom suggested air filters that cost 15 dollars,0,NA,0,NA,0
 My mom suggested air filters that cost at most 15 dollars,1,at most,1,NA,0
 My mom suggested air filters that are priced 10 dollars,0,NA,0,NA,0
 My mom suggested air filters that have a at minimum 3 month replacement time,1,at minimum,1,NA,0
-My mom suggested air filters that have a equal to 3 month replacement time,0,equal to,1,NA,0
-My mom suggested air filters with MERV rating 12,0,NA,0,NA,0
+My mom suggested air filters that have a equal to 3 month replacement time,1,equal to,1,NA,0
+My mom suggested air filters with MERV rating 12,1,NA,0,NA,0
 My mom suggested air filters with MERV rating below 12,1,below,1,NA,0
-My mom suggested air filters with MERV rating equal to 12,0,equal to,1,NA,0
-My mom suggested air filters with a replacement time that is 3 months,0,NA,0,NA,0
+My mom suggested air filters with MERV rating equal to 12,1,equal to,1,NA,0
+My mom suggested air filters with a replacement time that is 3 months,1,NA,0,NA,0
 My mom suggested air filters with a replacement time that is at most 3 months,1,at most,1,NA,0
-My mom suggested air filters with a replacement time that is equal to 3 months,0,equal to,1,NA,0
+My mom suggested air filters with a replacement time that is equal to 3 months,1,equal to,1,NA,0
 My mom suggested air filters with 3 stars,0,with,1,NA,0
 My mom suggested air filters with at least 3 stars,1,at least,1,NA,0
 Someone told me to try air filters with a replacement time that is at most 3 months,1,at most,1,NA,0
-Someone told me to try air filters with a replacement time that is equal to 3 months,0,equal to,1,NA,0
+Someone told me to try air filters with a replacement time that is equal to 3 months,1,equal to,1,NA,0
 Someone told me to try air filters with 3 stars,0,NA,0,NA,0
 Someone told me to try air filters with at least 3 stars,0,NA,0,NA,0
 Someone told me to try air filters with equal to 3 stars,0,equal to,1,NA,0
@@ -695,30 +695,30 @@ Someone told me to try an air filter that has MERV rating higher than 10,1,highe
 Someone told me to try an air filter that has a 4 star rating,0,NA,0,NA,0
 Someone told me to try an air filter that has at least a 4 star rating,1,at least,1,NA,0
 Someone told me to try an air filter that has equal to a 4 star rating,0,equal to,1,NA,0
-Someone told me to try an air filter that has a 3 month replacement time,0,NA,0,NA,0
+Someone told me to try an air filter that has a 3 month replacement time,1,NA,0,NA,0
 Someone told me to try an air filter that has a at minimum 3 month replacement time,1,at minimum,1,NA,0
-Someone told me to try an air filter that have a equal to 3 month replacement time,0,equal to,1,NA,0
+Someone told me to try an air filter that have a equal to 3 month replacement time,1,equal to,1,NA,0
 Someone told me to try an air filter that is priced 10 dollars,0,NA,0,NA,0
 Someone told me to try an air filter that is priced between 10 and 20 dollars,1,between,1,NA,0
-Someone told me to try an air filter with MERV rating 12,0,NA,0,NA,0
+Someone told me to try an air filter with MERV rating 12,1,NA,0,NA,0
 Someone told me to try filters that are priced 10 dollars,0,NA,0,NA,0
 Someone told me to try filters that are priced between 10 and 20 dollars,1,between,1,NA,0
-Someone told me to try filters that have MERV rating 10,0,NA,0,NA,0
-Someone told me to try filters that have MERV rating equal to 10,0,equal to,1,NA,0
+Someone told me to try filters that have MERV rating 10,1,NA,0,NA,0
+Someone told me to try filters that have MERV rating equal to 10,1,equal to,1,NA,0
 Someone told me to try filters that have MERV rating higher than 10,1,higher than,1,NA,0
 Someone told me to try filters that have a 4 star rating,0,NA,0,NA,0
 Someone told me to try filters that have at least a 4 star rating,1,at least,1,NA,0
 Someone told me to try filters that have equal to a 4 star rating,0,equal to,1,NA,0
-Someone told me to try filters that have a 3 month replacement time,0,NA,0,NA,0
+Someone told me to try filters that have a 3 month replacement time,1,NA,0,NA,0
 Someone told me to try filters that have a at minimum 3 month replacement time,1,at minimum,1,NA,0
-Someone told me to try filters that have a equal to 3 month replacement time,0,equal to,1,NA,0
-Someone told me to try filters with MERV rating 12,0,NA,0,NA,0
+Someone told me to try filters that have a equal to 3 month replacement time,1,equal to,1,NA,0
+Someone told me to try filters with MERV rating 12,1,NA,0,NA,0
 Someone told me to try filters with MERV rating below 12,1,below,1,NA,0
-Someone told me to try filters with MERV rating equal to 12,0,equal to,1,NA,0
-Someone told me to try filters with a replacement time that is 3 months,0,NA,0,NA,0
+Someone told me to try filters with MERV rating equal to 12,1,equal to,1,NA,0
+Someone told me to try filters with a replacement time that is 3 months,1,NA,0,NA,0
 Someone told me to try filters with a replacement time that is at most 3 months,1,at most,1,NA,0
 Where is a filter with a replacement time that is at most 3 months,1,at most,1,NA,0
-Where is a filter with a replacement time that is equal to 3 months,0,equal to,1,NA,0
+Where is a filter with a replacement time that is equal to 3 months,1,equal to,1,NA,0
 Where is a filter with 3 stars,0,with,1,NA,0
 Where is a filter with at least 3 stars,1,at least,1,NA,0
 Where is a filter with equal to 3 stars,0,equal to,1,NA,0
@@ -730,35 +730,35 @@ Where is an air filter that I need to change at maximum every 3 months,1,at maxi
 Where is an air filter that I need to change every 3 months,0,NA,0,replacement time,1
 Where is an air filter that costs 15 dollars,0,NA,0,NA,0
 Where is an air filter that costs at most 15 dollars,1,at most,1,NA,0
-Where is an air filter that has MERV rating 10,0,NA,0,NA,0
-Where is an air filter that has a 3 month replacement time,0,NA,0,NA,0
+Where is an air filter that has MERV rating 10,1,NA,0,NA,0
+Where is an air filter that has a 3 month replacement time,1,NA,0,NA,0
 Where is an air filter that has a at minimum 3 month replacement time,1,at minimum,1,NA,0
-Where is an air filter that have a equal to 3 month replacement time,0,equal to,1,NA,0
+Where is an air filter that have a equal to 3 month replacement time,1,equal to,1,NA,0
 Where is an air filter that is priced 10 dollars,0,NA,0,NA,0
 Where is an air filter that is priced between 10 and 20 dollars,1,between,1,NA,0
 Where is an air filter with MERV rating 12,0,NA,0,MERV rating,1
 Where is an air filter with MERV rating below 12,1,below,1,NA,0
-Where is an air filter with MERV rating equal to 12,0,equal to,1,NA,0
-Where is an air filter with a replacement time that is 3 months,0,NA,0,NA,0
+Where is an air filter with MERV rating equal to 12,1,equal to,1,NA,0
+Where is an air filter with a replacement time that is 3 months,1,NA,0,NA,0
 Where is an air filter with a replacement time that is at most 3 months,1,at most,1,NA,0
-Where is an air filter with a replacement time that is equal to 3 months,0,equal to,1,NA,0
+Where is an air filter with a replacement time that is equal to 3 months,1,equal to,1,NA,0
 Where is an air filter with 3 stars,0,with,1,NA,0
 Where is an air filter with at least 3 stars,1,at least,1,NA,0
 Where is an air filter with equal to 3 stars,0,equal to,1,NA,0
-Which air filter has  MERV rating 12,0,NA,0,NA,0
+Which air filter has  MERV rating 12,1,NA,0,NA,0
 Which air filters have 3  stars,0,NA,0,NA,0
 Which air filters have at least 3  stars,1,at least,1,NA,0
-Which filter has  MERV rating 12,0,NA,0,NA,0
+Which filter has  MERV rating 12,1,NA,0,NA,0
 Which filter has  MERV rating below 12,1,below,1,NA,0
-Which filter has  MERV rating equal to 12,0,equal to,1,NA,0
+Which filter has  MERV rating equal to 12,1,equal to,1,NA,0
 Which filter has 3  stars,0,NA,0,NA,0
 Which filter has at least 3  stars,1,at least,1,NA,0
 Which filter is  priced 10 dollars,0,NA,0,NA,0
 Which filter is  priced less than 10 dollars,1,less than,1,NA,0
 Which filters are  priced 10 dollars,0,NA,0,NA,0
 Which filters are  priced less than 10 dollars,1,less than,1,NA,0
-Which filters have  MERV rating 12,0,NA,0,NA,0
+Which filters have  MERV rating 12,1,NA,0,NA,0
 Which filters have  MERV rating below 12,1,below,1,NA,0
-Which filters have  MERV rating equal to 12,0,equal to,1,NA,0
+Which filters have  MERV rating equal to 12,1,equal to,1,NA,0
 Which filters have 3  stars,0,NA,0,NA,0
 Which filters have at least 3  stars,1,at least,1,NA,0

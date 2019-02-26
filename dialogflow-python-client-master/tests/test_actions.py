@@ -246,7 +246,7 @@ class TestActions(unittest.TestCase):
         #print(quantAttrDict)
 
         #for i in theRange:
-        for i in range(5,7):
+        for i in range(11,12):
 
             incorrectQueries = []
             allQueries = []
@@ -277,14 +277,27 @@ class TestActions(unittest.TestCase):
             for line in file:
                 query = line
                 queryInfo = []
+
+                # Count the number of each attribute
+                attributeCount = []
+                if i == 7:
+                    attributeCount.append(query.count("ATTRIBUTE"))
+                if i == 8:
+                    attributeCount.append(query.count("BRAND"))
+                    attributeCount.append(query.count("ATTRIBUTE"))
+                elif i == 9:
+                    attributeCount.append(query.count("BRAND"))
+                    attributeCount.append(query.count("ATTRIBUTE"))
+                elif i == 10:
+                    attributeCount.append(query.count("BRAND"))
                 
                 # if in the second file, skip parsing
-                if i != 2 and i != 8:
+                if i != 2:
             
                     while (query.find("[") != -1):
                         # Parse the query for the attribute block
                         attributeCont = query[query.find("["):query.find("]")+1]
-                        attr = attributeCont.split("\"")[1]
+                        attr = attributeCont.split("\"\"")[1]
                         query = query.replace(attributeCont, attr)
 
                 if (query.find("3M") != -1):
@@ -311,10 +324,12 @@ class TestActions(unittest.TestCase):
                         tempSpeech = tempSpeech.replace("These models are", "This model is")
                     if ( i == 5 and tempSpeech.find("This model is") != -1):
                         tempSpeech = tempSpeech.replace("This model is", "These models are")
-                    if (tempSpeech.find("meets your criteria") != -1):
+                    if (i != 11 and tempSpeech.find("meets your criteria") != -1):
                         tempSpeech = tempSpeech.replace("meets your criteria", "meet your criteria")
                     if (tempSpeech.find("model meets") != -1):
                         tempSpeech = tempSpeech.replace("model meets", "models meet")
+                    if (section == " or " or section == " and "):
+                        continue
                     if (section[0] != "["):
                         if (tempSpeech.find(section) == -1):
                             if (speech.find(section) == -1):
@@ -341,7 +356,7 @@ class TestActions(unittest.TestCase):
                 print(parameters)
                 # Handle differently for each case
 
-                def findAttribute(parameters, attribute, query, dictionary, isList):
+                def findAttribute(parameters, attribute, query, dictionary):
                     if (attribute in parameters):
                         attrVal = parameters[attribute]
                         if (attrVal == ''):
@@ -379,26 +394,26 @@ class TestActions(unittest.TestCase):
                         return 'NA', 0
 
                 if i == 1:
-                    val, cor = findAttribute(parameters, 'filterAttributes', query, filterAttrDict, False)
+                    val, cor = findAttribute(parameters, 'filterAttributes', query, filterAttrDict)
                     queryInfo.append(val)
                     queryInfo.append(cor)
                     
 
                 elif i == 3:
-                    val, cor = findAttribute(parameters, 'brand', query, brandDict, False)
+                    val, cor = findAttribute(parameters, 'brand', query, brandDict)
                     queryInfo.append(val)
                     queryInfo.append(cor)
 
                 elif i == 4:
-                    val, cor = findAttribute(parameters, 'brand', query, brandDict, False)
+                    val, cor = findAttribute(parameters, 'brand', query, brandDict)
                     queryInfo.append(val)
                     queryInfo.append(cor)
                     
-                    val, cor = findAttribute(parameters, 'criteria', query, criteriaDict, False)
+                    val, cor = findAttribute(parameters, 'criteria', query, criteriaDict)
                     queryInfo.append(val)
                     queryInfo.append(cor)
 
-                    val, cor = findAttribute(parameters, 'quantitativeAttr', query, quantAttrDict, True)
+                    val, cor = findAttribute(parameters, 'quantitativeAttr', query, quantAttrDict)
                     if len(val) == 1:
                         queryInfo.append(val[0])
                         queryInfo.append(cor[0])
@@ -407,51 +422,82 @@ class TestActions(unittest.TestCase):
                         queryInfo.append(cor)
 
                 elif i == 5:
-                    val, cor = findAttribute(parameters, 'brand', query, brandDict, False)
+                    val, cor = findAttribute(parameters, 'brand', query, brandDict)
                     queryInfo.append(val)
                     queryInfo.append(cor)
 
-                    val, cor = findAttribute(parameters, 'nonQuantitativeAttr', query, nonQuantAttrDict, True)
+                    val, cor = findAttribute(parameters, 'nonQuantitativeAttr', query, nonQuantAttrDict)
                     queryInfo.append(val)
                     queryInfo.append(cor)
 
 
                 elif i == 6:
-                    val, cor = findAttribute(parameters, 'brand', query, brandDict, False)
+                    val, cor = findAttribute(parameters, 'brand', query, brandDict)
                     queryInfo.append(val)
                     queryInfo.append(cor)
 
-                    val, cor = findAttribute(parameters, 'quantitativeAttr', query, quantAttrDict, False)
+                    val, cor = findAttribute(parameters, 'quantitativeAttr', query, quantAttrDict)
                     queryInfo.append(val)
                     queryInfo.append(cor)
 
                 elif i == 7:
-                    val, cor = findAttribute(parameters, 'filterAttributes', query, filterAttrDict, False)
+                    val, cor = findAttribute(parameters, 'filterAttributes', query, filterAttrDict)
                     queryInfo.append(val)
                     queryInfo.append(cor)
+                    # Make sure the correct number of attributes are returned
+                    queryInfo.append(attributeCount[0])
+                    if (len(val) == attributeCount[0]):
+                        queryInfo.append(1)
+                    else:
+                        queryInfo.append(0)
 
                 elif i == 8:
                     val, cor = findAttribute(parameters, 'brand', query, brandDict)
                     queryInfo.append(val)
                     queryInfo.append(cor)
+                    queryInfo.append(attributeCount[0])
+                    if (len(val) == attributeCount[0]):
+                        queryInfo.append(1)
+                    else:
+                        queryInfo.append(0)
 
                     val, cor = findAttribute(parameters, 'filterAttributes', query, filterAttrDict)
                     queryInfo.append(val)
                     queryInfo.append(cor)
+                    queryInfo.append(attributeCount[1])
+                    if (len(val) == attributeCount[1]):
+                        queryInfo.append(1)
+                    else:
+                        queryInfo.append(0)
 
                 elif i == 9:
                     val, cor = findAttribute(parameters, 'brand', query, brandDict)
                     queryInfo.append(val)
                     queryInfo.append(cor)
+                    queryInfo.append(attributeCount[0])
+                    if (len(val) == attributeCount[0]):
+                        queryInfo.append(1)
+                    else:
+                        queryInfo.append(0)
 
                     val, cor = findAttribute(parameters, 'filterAttributes', query, filterAttrDict)
                     queryInfo.append(val)
                     queryInfo.append(cor)
+                    queryInfo.append(attributeCount[1])
+                    if (len(val) == attributeCount[1]):
+                        queryInfo.append(1)
+                    else:
+                        queryInfo.append(0)
 
                 elif i == 10:
                     val, cor = findAttribute(parameters, 'brand', query, brandDict)
                     queryInfo.append(val)
                     queryInfo.append(cor)
+                    queryInfo.append(attributeCount[0])
+                    if (len(val) == attributeCount[0]):
+                        queryInfo.append(1)
+                    else:
+                        queryInfo.append(0)
 
                 elif i == 11:
                     val, cor = findAttribute(parameters, 'criteria', query, criteriaDict)

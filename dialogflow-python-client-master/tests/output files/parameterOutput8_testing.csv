@@ -1,0 +1,1044 @@
+"""Apparently we have mold and spores in the house, so I need threeM air filters for that""",1,3M,1,1,0,"[u'mold filtering ability', u'spore filtering Ability']","[1, 1]",2,1
+"""Apparently we have mold and spores in the house, so I need a threeM filter for that""",1,3M,1,1,0,"[u'mold filtering ability', u'spore filtering Ability']","[1, 1]",2,1
+"""Apparently we have mold and spores in the house, so I need to get threeM air filters for that""",0,3M,1,1,0,NA,0,2,1
+"""Apparently we have mold and spores in the house, so I need to get a threeM air filter for that""",0,3M,1,1,0,"[u'mold filtering ability', u'spore filtering Ability']","[1, 1]",2,1
+"""Apparently we have mold and spores in the house, so I need to grab a threeM filter for that""",1,3M,1,1,0,"[u'mold filtering ability', u'spore filtering Ability']","[1, 1]",2,1
+"""Apparently we have mold and spores in the house, so I want to invest in a threeM air filter for that""",1,3M,1,1,0,"[u'mold filtering ability', u'spore filtering Ability']","[1, 1]",2,1
+"""Apparently we have mold and spores in the house, so I'd like to purchase a threeM filter for that""",1,3M,1,1,0,"[u'mold filtering ability', u'spore filtering Ability']","[1, 1]",2,1
+"""Apparently we have mold and spores in the house, so I'm here to shop for threeM air filters for that""",1,3M,1,1,0,"[u'mold filtering ability', u'spore filtering Ability']","[1, 1]",2,1
+"""Apparently we have mold and spores in the house, so I'm here to shop for a threeM filter for that""",1,3M,1,1,0,"[u'mold filtering ability', u'spore filtering Ability']","[1, 1]",2,1
+"""Apparently we have mold and spores in the house, so someone told me to try threeM air filters for that""",1,3M,1,1,0,"[u'mold filtering ability', u'spore filtering Ability']","[1, 1]",2,1
+"""Can you show me cheap threeM air filters that get lint out of the air?""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""Can you show me cheap threeM air filters that have a good customer rating, are not too expensive and seem durable?""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""Can you show me cheap threeM air filters you have with a good rating that I don't have to replace too often?""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""Can you show me cheap threeM filters for cat dander?""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""Can you show me cheap threeM filters for fungus, mold, and spores?""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""Can you show me cheap threeM filters that can pick up viruses and mold?""",1,3M,1,1,0,"[u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1]",3,1
+"""Can you show me cheap threeM filters with lots of pleating that pick up pet hair?""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""Can you show me sturdy, cheap threeM air filters for the house that trap lint and are not too expensive?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1, 1]",4,1
+"""Can you show me sturdy, cheap threeM air filters that can pick up viruses and mold?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1, 1]",4,1
+"""Can you show me sturdy, cheap threeM air filters that have a good customer rating, are not too expensive and seem durable?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1, 1]",5,1
+"""Can you show me sturdy, cheap threeM air filters to get a smoke smell out of the air?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'smoke odor filtering Ability']","[1, 1, 1]",3,1
+"""Can you show me sturdy, cheap threeM air filters with lots of pleating that pick up pet hair?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality']","[1, 1, 1]",4,0
+"""Can you show me sturdy, cheap threeM filters for fungus, mold, and spores?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1, 1]",5,1
+"""Can you show me sturdy, cheap threeM filters that are good for pollen?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pollen filtering ability']","[1, 1, 1]",3,1
+"""Can you show me sturdy, cheap threeM filters that aren't too generic looking?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'appearance']","[1, 1, 1]",3,1
+"""Can you show me sturdy, cheap threeM filters with allergen defense?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'allergen defense']","[1, 1, 1]",3,1
+"""Can you show me sturdy, cheap threeM filters with lots of pleating that pick up pet hair?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality']","[1, 1, 1]",4,0
+"""Can you show me threeM air filters for cat dander?""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",1,0
+"""Can you show me threeM air filters that get lint out of the air?""",0,3M,1,1,0,lint and fiber filtering Ability,1,1,0
+"""Can you show me threeM filters for fungus, mold, and spores?""",0,NA,0,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",3,1
+"""Can you show me threeM filters for the house that trap lint and are not too expensive?""",1,3M,1,1,0,"[u'lint and fiber filtering Ability', u'price']","[1, 1]",2,1
+"""Can you show me threeM filters that can help with dirt and have good performance?""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",2,1
+"""Can you show me threeM filters that can pick up viruses and mold?""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""Can you show me threeM filters that have a good customer rating, are not too expensive and seem durable?""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",3,1
+"""Can you show me threeM filters that have good material and look expensive?""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",2,0
+"""Can you show me threeM filters to catch the particulates in the air, but aren't going to cost much?""",0,3M,1,1,0,price,1,2,0
+"""Can you show me a cheap threeM air filter for fungus, mold, and spores?""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""Can you show me a cheap threeM air filter for the house that traps lint and is not too expensive?""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""Can you show me a cheap threeM air filter that can help with dirt and has good performance?""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""Can you show me a cheap threeM air filter that gets lint out of the air?""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""Can you show me a cheap threeM air filter that has a good customer rating, is not too expensive and seems durable?""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""Can you show me a cheap threeM air filter to get a smoke smell out of the air?""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""Can you show me a cheap threeM air filter with allergen defense?""",1,3M,1,1,0,"[u'price', u'allergen defense']","[1, 1]",2,1
+"""Can you show me a cheap threeM filter for fungus, mold, and spores?""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""Can you show me a cheap threeM filter for the house that traps lint and is not too expensive?""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""Can you show me a cheap threeM filter that can pick up viruses and mold?""",1,3M,1,1,0,"[u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1]",3,1
+"""Can you show me a cheap threeM filter to catch the particulates in the air, but isn't going to cost much?""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""Can you show me a cheap threeM filter to get a smoke smell out of the air?""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""Can you show me a cheap threeM filter with lots of pleating that picks up pet hair?""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""Can you show me a cheap threeM filter you have with a good rating that I don't have to replace too often?""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""Can you show me a sturdy, cheap threeM air filter that gets lint out of the air?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability']","[1, 1, 1]",3,1
+"""Can you show me a sturdy, cheap threeM air filter that has a good customer rating, is not too expensive and seems durable?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1, 1]",5,1
+"""Can you show me a sturdy, cheap threeM air filter that has good material and looks expensive?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""Can you show me a sturdy, cheap threeM air filter that's good for pollen?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pollen filtering ability']","[1, 1, 1]",3,1
+"""Can you show me a sturdy, cheap threeM filter for cat dander?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1, 1]",3,0
+"""Can you show me a sturdy, cheap threeM filter for fungus, mold, and spores?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1, 1]",5,1
+"""Can you show me a sturdy, cheap threeM filter for the house that traps lint and is not too expensive?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1, 1]",4,1
+"""Can you show me a sturdy, cheap threeM filter that has a good customer rating, is not too expensive and seems durable?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1, 1]",5,1
+"""Can you show me a sturdy, cheap threeM filter with allergen defense?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'allergen defense']","[1, 1, 1]",3,1
+"""Can you show me a sturdy, cheap threeM filter with lots of pleating that picks up pet hair?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality']","[1, 1, 1]",4,0
+"""Can you show me a threeM air filter that can pick up viruses and mold?""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""Can you show me a threeM air filter with allergen defense?""",0,3M,1,1,0,allergen defense,1,1,0
+"""Can you show me a threeM filter for fungus, mold, and spores?""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",3,1
+"""Can you show me a threeM filter that's good for pollen?""",0,3M,1,1,0,pollen filtering ability,1,1,0
+"""Can you show me a threeM filter to catch the particulates in the air, but isn't going to cost much?""",0,3M,1,1,0,price,1,2,0
+"""Can you show me a threeM filter with allergen defense?""",0,3M,1,1,0,allergen defense,1,1,0
+"""Can you show me a threeM for cat dander?""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",1,0
+"""Can you show me a threeM that looks good and has a good evaluation but is cheap, please?""",1,3M,1,1,0,"[u'appearance', u'customer star rating', u'price']","[1, 1, 1]",3,1
+"""Can you show me a threeM to get a smoke smell out of the air?""",0,3M,1,1,0,smoke odor filtering Ability,1,1,0
+"""Can you show me a threeM with allergen defense?""",0,3M,1,1,0,allergen defense,1,1,0
+"""Can you show me the inexpesive threeM air filter for the house that traps lint and is not too expensive?""",1,3M,1,1,0,"[u'lint and fiber filtering Ability', u'price']","[1, 1]",3,0
+"""Can you show me the inexpesive threeM air filter that looks good and has a good evaluation but is cheap, please?""",1,3M,1,1,0,"[u'appearance', u'customer star rating', u'price']","[1, 1, 1]",4,0
+"""Can you show me the inexpesive threeM air filter that can help with dirt and has good performance?""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",3,0
+"""Can you show me the inexpesive threeM air filter that can pick up viruses and mold?""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",3,0
+"""Can you show me the inexpesive threeM air filter that gets lint out of the air?""",0,3M,1,1,0,lint and fiber filtering Ability,1,2,0
+"""Can you show me the inexpesive threeM air filter that has a good customer rating, is not too expensive and seems durable?""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",4,0
+"""Can you show me the inexpesive threeM air filter that's good for pollen?""",0,3M,1,1,0,pollen filtering ability,1,2,0
+"""Can you show me the inexpesive threeM air filter to get a smoke smell out of the air?""",0,3M,1,1,0,smoke odor filtering Ability,1,2,0
+"""Can you show me the inexpesive threeM air filter with allergen defense?""",0,3M,1,1,0,allergen defense,1,2,0
+"""Can you show me the inexpesive threeM air filters that look good and have a good evaluation but are cheap, please?""",1,3M,1,1,0,"[u'customer star rating', u'price']","[1, 1]",4,0
+"""Can you show me the inexpesive threeM air filters that are good for pollen?""",0,3M,1,1,0,NA,0,2,1
+"""Can you show me the inexpesive threeM air filters that can pick up viruses and mold?""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",3,0
+"""Can you show me the inexpesive threeM air filters with allergen defense?""",0,3M,1,1,0,NA,0,2,1
+"""Can you show me the inexpesive threeM filter that can pick up viruses and mold?""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",3,0
+"""Can you show me the inexpesive threeM filter that has good material and looks expensive?""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",3,1
+"""Can you show me the inexpesive threeM filter that isn't too generic looking?""",0,3M,1,1,0,appearance,1,2,0
+"""Can you show me the inexpesive threeM filter to get a smoke smell out of the air?""",0,3M,1,1,0,smoke odor filtering Ability,1,2,0
+"""Can you show me the inexpesive threeM filters for cat dander?""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",2,1
+"""Can you show me the inexpesive threeM filters for fungus, mold, and spores?""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",4,0
+"""Can you show me the inexpesive threeM filters for the house that trap lint and are not too expensive?""",1,3M,1,1,0,"[u'lint and fiber filtering Ability', u'price']","[1, 1]",3,0
+"""Can you show me the inexpesive threeM filters that have good material and look expensive?""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",3,1
+"""Can you show me the inexpesive threeM filters you have with a good rating that I don't have to replace too often?""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",3,0
+"""Can you show me the most economic threeM air filter for the house that traps lint and is not too expensive?""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""Can you show me the most economic threeM air filter that looks good and has a good evaluation but is cheap, please?""",1,3M,1,1,0,"[u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1]",4,1
+"""Can you show me the most economic threeM air filter that can pick up viruses and mold?""",1,3M,1,1,0,"[u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1]",3,1
+"""Can you show me the most economic threeM air filter that has a good customer rating, is not too expensive and seems durable?""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""Can you show me the most economic threeM air filter that has good material and looks expensive?""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""Can you show me the most economic threeM air filter that's good for pollen?""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""Can you show me the most economic threeM air filter to get a smoke smell out of the air?""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""Can you show me the most economic threeM air filters for fungus, mold, and spores?""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""Can you show me the most economic threeM air filters that get lint out of the air?""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""Can you show me the most economic threeM air filters to catch the particulates in the air, but aren't going to cost much?""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""Can you show me the most economic threeM air filters you have with a good rating that I don't have to replace too often?""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""Can you show me the most economic threeM filter for cat dander?""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""Can you show me the most economic threeM filter for the house that traps lint and is not too expensive?""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""Can you show me the most economic threeM filter that looks good and has a good evaluation but is cheap, please?""",1,3M,1,1,0,"[u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1]",4,1
+"""Can you show me the most economic threeM filter to catch the particulates in the air, but isn't going to cost much?""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""Can you show me the most economic threeM filters that have a good customer rating, are not too expensive and seem durable?""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""Can you show me the most economic threeM filters that have good material and look expensive?""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""Can you show me the most economic threeM filters with allergen defense?""",1,3M,1,1,0,"[u'price', u'allergen defense']","[1, 1]",2,1
+"""Can you show me the most economic threeM filters you have with a good rating that I don't have to replace too often?""",0,3M,1,1,0,NA,0,3,0
+"""Do y'all have cheap threeM air filters that are good for pollen?""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""Do y'all have cheap threeM air filters that get lint out of the air?""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""Do y'all have cheap threeM air filters that have a good customer rating, are not too expensive and seem durable?""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""Do y'all have cheap threeM air filters with lots of pleating that pick up pet hair?""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""Do y'all have cheap threeM filters for fungus, mold, and spores?""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""Do y'all have cheap threeM filters that get lint out of the air?""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""Do y'all have cheap threeM filters that have good material and look expensive?""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""Do y'all have sturdy, cheap threeM air filters for cat dander?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1, 1]",3,0
+"""Do y'all have sturdy, cheap threeM air filters that look good and have a good evaluation but are cheap, please?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price']","[1, 1, 1, 1]",5,0
+"""Do y'all have sturdy, cheap threeM air filters that are good for pollen?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pollen filtering ability']","[1, 1, 1]",3,1
+"""Do y'all have sturdy, cheap threeM air filters that aren't too generic looking?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'appearance']","[1, 1, 1]",3,1
+"""Do y'all have sturdy, cheap threeM air filters that get lint out of the air?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability']","[1, 1, 1]",3,1
+"""Do y'all have sturdy, cheap threeM air filters that have good material and look expensive?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""Do y'all have sturdy, cheap threeM air filters with allergen defense?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'allergen defense']","[1, 1, 1]",3,1
+"""Do y'all have sturdy, cheap threeM air filters with lots of pleating that pick up pet hair?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality']","[1, 1, 1]",4,0
+"""Do y'all have sturdy, cheap threeM air filters you have with a good rating that I don't have to replace too often?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'MERV rating', u'replacement time']","[1, 1, 1, 1]",4,1
+"""Do y'all have sturdy, cheap threeM filters that look good and have a good evaluation but are cheap, please?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price']","[1, 1, 1, 1]",5,0
+"""Do y'all have sturdy, cheap threeM filters that aren't too generic looking?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'appearance']","[1, 1, 1]",3,1
+"""Do y'all have sturdy, cheap threeM filters that can pick up viruses and mold?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1, 1]",4,1
+"""Do y'all have sturdy, cheap threeM filters with lots of pleating that pick up pet hair?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality']","[1, 1, 1]",4,0
+"""Do y'all have threeM air filters for cat dander?""",0,3M,1,1,0,NA,0,1,0
+"""Do y'all have threeM air filters that aren't too generic looking?""",0,3M,1,1,0,NA,0,1,0
+"""Do y'all have threeM air filters that can help with dirt and have good performance?""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",2,1
+"""Do y'all have threeM air filters that can pick up viruses and mold?""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""Do y'all have threeM air filters to get a smoke smell out of the air?""",0,3M,1,1,0,NA,0,1,0
+"""Do y'all have threeM filters for the house that trap lint and are not too expensive?""",1,3M,1,1,0,"[u'lint and fiber filtering Ability', u'price']","[1, 1]",2,1
+"""Do y'all have threeM filters that look good and have a good evaluation but are cheap, please?""",1,3M,1,1,0,"[u'customer star rating', u'price']","[1, 1]",3,0
+"""Do y'all have threeM filters that get lint out of the air?""",0,3M,1,1,0,NA,0,1,0
+"""Do y'all have threeM filters that have a good customer rating, are not too expensive and seem durable?""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",3,1
+"""Do y'all have threeM filters that have good material and look expensive?""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",2,0
+"""Do y'all have a cheap threeM air filter for cat dander?""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""Do y'all have a cheap threeM air filter that can help with dirt and has good performance?""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""Do y'all have a cheap threeM air filter that can pick up viruses and mold?""",1,3M,1,1,0,"[u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1]",3,1
+"""Do y'all have a cheap threeM air filter that gets lint out of the air?""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""Do y'all have a cheap threeM air filter to catch the particulates in the air, but isn't going to cost much?""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""Do y'all have a cheap threeM filter for the house that traps lint and is not too expensive?""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""Do y'all have a cheap threeM filter that looks good and has a good evaluation but is cheap, please?""",1,3M,1,1,0,"[u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1]",4,1
+"""Do y'all have a cheap threeM filter that isn't too generic looking?""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""Do y'all have a cheap threeM filter to catch the particulates in the air, but isn't going to cost much?""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""Do y'all have a cheap threeM filter with allergen defense?""",1,3M,1,1,0,"[u'price', u'allergen defense']","[1, 1]",2,1
+"""Do y'all have a sturdy, cheap threeM air filter that has a good customer rating, is not too expensive and seems durable?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1, 1]",5,1
+"""Do y'all have a sturdy, cheap threeM air filter to catch the particulates in the air, but isn't going to cost much?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'price']","[1, 1, 1]",4,0
+"""Do y'all have a sturdy, cheap threeM air filter with lots of pleating that picks up pet hair?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality']","[1, 1, 1]",4,0
+"""Do y'all have a sturdy, cheap threeM filter for cat dander?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1, 1]",3,0
+"""Do y'all have a sturdy, cheap threeM filter that looks good and has a good evaluation but is cheap, please?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1, 1]",5,1
+"""Do y'all have a sturdy, cheap threeM filter that can help with dirt and has good performance?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1, 1]",4,1
+"""Do y'all have a sturdy, cheap threeM filter to catch the particulates in the air, but isn't going to cost much?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'price']","[1, 1, 1]",4,0
+"""Do y'all have a sturdy, cheap threeM filter to get a smoke smell out of the air?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'smoke odor filtering Ability']","[1, 1, 1]",3,1
+"""Do y'all have a sturdy, cheap threeM filter you have with a good rating that I don't have to replace too often?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'MERV rating', u'replacement time']","[1, 1, 1, 1]",4,1
+"""Do y'all have a threeM air filter that can help with dirt and has good performance?""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",2,1
+"""Do y'all have a threeM air filter that has good material and looks expensive?""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",2,0
+"""Do y'all have a threeM air filter to get a smoke smell out of the air?""",0,3M,1,1,0,NA,0,1,0
+"""Do y'all have a threeM air filter with allergen defense?""",0,3M,1,1,0,NA,0,1,0
+"""Do y'all have a threeM filter for cat dander?""",0,3M,1,1,0,NA,0,1,0
+"""Do y'all have a threeM filter that looks good and has a good evaluation but is cheap, please?""",1,3M,1,1,0,"[u'appearance', u'customer star rating', u'price']","[1, 1, 1]",3,1
+"""Do y'all have a threeM filter that can help with dirt and has good performance?""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",2,1
+"""Do y'all have a threeM for fungus, mold, and spores?""",0,NA,0,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",3,1
+"""Do y'all have a threeM that looks good and has a good evaluation but is cheap, please?""",1,3M,1,1,0,"[u'appearance', u'customer star rating', u'price']","[1, 1, 1]",3,1
+"""Do y'all have a threeM that gets lint out of the air?""",0,3M,1,1,0,NA,0,1,0
+"""Do y'all have a threeM that has a good customer rating, is not too expensive and seems durable?""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",3,1
+"""Do y'all have a threeM that's good for pollen?""",0,3M,1,1,0,NA,0,1,0
+"""Do y'all have a threeM you have with a good rating that I don't have to replace too often?""",0,NA,0,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",2,1
+"""Do y'all have the inexpesive threeM air filter for fungus, mold, and spores?""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",4,0
+"""Do y'all have the inexpesive threeM air filter that looks good and has a good evaluation but is cheap, please?""",1,3M,1,1,0,"[u'appearance', u'customer star rating', u'price']","[1, 1, 1]",4,0
+"""Do y'all have the inexpesive threeM air filter that can pick up viruses and mold?""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",3,0
+"""Do y'all have the inexpesive threeM air filter that gets lint out of the air?""",0,3M,1,1,0,lint and fiber filtering Ability,1,2,0
+"""Do y'all have the inexpesive threeM air filter that's good for pollen?""",0,3M,1,1,0,NA,0,2,1
+"""Do y'all have the inexpesive threeM air filters for cat dander?""",0,3M,1,1,0,NA,0,2,1
+"""Do y'all have the inexpesive threeM air filters that can pick up viruses and mold?""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",3,0
+"""Do y'all have the inexpesive threeM air filters that have good material and look expensive?""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",3,1
+"""Do y'all have the inexpesive threeM air filters to get a smoke smell out of the air?""",0,3M,1,1,0,NA,0,2,1
+"""Do y'all have the inexpesive threeM air filters with lots of pleating that pick up pet hair?""",0,3M,1,1,0,filter material quality,1,3,0
+"""Do y'all have the inexpesive threeM filter for cat dander?""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",2,1
+"""Do y'all have the inexpesive threeM filter that can help with dirt and has good performance?""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",3,0
+"""Do y'all have the inexpesive threeM filter that's good for pollen?""",0,3M,1,1,0,NA,0,2,1
+"""Do y'all have the inexpesive threeM filter with lots of pleating that picks up pet hair?""",0,3M,1,1,0,filter material quality,1,3,0
+"""Do y'all have the inexpesive threeM filters for fungus, mold, and spores?""",0,NA,0,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",4,0
+"""Do y'all have the inexpesive threeM filters for the house that trap lint and are not too expensive?""",1,3M,1,1,0,"[u'lint and fiber filtering Ability', u'price']","[1, 1]",3,0
+"""Do y'all have the inexpesive threeM filters with allergen defense?""",0,3M,1,1,0,NA,0,2,1
+"""Do y'all have the inexpesive threeM filters with lots of pleating that pick up pet hair?""",0,3M,1,1,0,filter material quality,1,3,0
+"""Do y'all have the most economic threeM air filter for cat dander?""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""Do y'all have the most economic threeM air filter that looks good and has a good evaluation but is cheap, please?""",1,3M,1,1,0,"[u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1]",4,1
+"""Do y'all have the most economic threeM air filter that can pick up viruses and mold?""",1,3M,1,1,0,"[u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1]",3,1
+"""Do y'all have the most economic threeM air filter that has good material and looks expensive?""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""Do y'all have the most economic threeM air filters for fungus, mold, and spores?""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""Do y'all have the most economic threeM air filters that get lint out of the air?""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""Do y'all have the most economic threeM air filters that have a good customer rating, are not too expensive and seem durable?""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""Do y'all have the most economic threeM air filters to get a smoke smell out of the air?""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""Do y'all have the most economic threeM air filters you have with a good rating that I don't have to replace too often?""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""Do y'all have the most economic threeM filter for cat dander?""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""Do y'all have the most economic threeM filter that has good material and looks expensive?""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""Do y'all have the most economic threeM filter to catch the particulates in the air, but isn't going to cost much?""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""Do y'all have the most economic threeM filter to get a smoke smell out of the air?""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""Do y'all have the most economic threeM filter with lots of pleating that picks up pet hair?""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""Do y'all have the most economic threeM filters for fungus, mold, and spores?""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""Do y'all have the most economic threeM filters that look good and have a good evaluation but are cheap, please?""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price']","[1, 1, 1]",4,0
+"""Do y'all have the most economic threeM filters that are good for pollen?""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""Do y'all have the most economic threeM filters with allergen defense?""",1,3M,1,1,0,"[u'price', u'allergen defense']","[1, 1]",2,1
+"""Do y'all have the most economic threeM filters you have with a good rating that I don't have to replace too often?""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""Do you have cheap threeM air filters for cat dander?""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""Do you have cheap threeM air filters for the house that trap lint and are not too expensive?""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""Do you have cheap threeM air filters that are good for pollen?""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""Do you have cheap threeM air filters that have a good customer rating, are not too expensive and seem durable?""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""Do you have cheap threeM air filters to get a smoke smell out of the air?""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""Do you have cheap threeM air filters you have with a good rating that I don't have to replace too often?""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""Do you have cheap threeM filters for the house that trap lint and are not too expensive?""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""Do you have cheap threeM filters that are good for pollen?""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""Do you have cheap threeM filters that aren't too generic looking?""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""Do you have cheap threeM filters that can pick up viruses and mold?""",1,3M,1,1,0,"[u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1]",3,1
+"""Do you have sturdy, cheap threeM air filters to catch the particulates in the air, but aren't going to cost much?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'price']","[1, 1, 1]",4,0
+"""Do you have sturdy, cheap threeM filters for cat dander?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1, 1]",3,0
+"""Do you have sturdy, cheap threeM filters that are good for pollen?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pollen filtering ability']","[1, 1, 1]",3,1
+"""Do you have sturdy, cheap threeM filters that can help with dirt and have good performance?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1, 1]",4,1
+"""Do you have sturdy, cheap threeM filters that can pick up viruses and mold?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1, 1]",4,1
+"""Do you have sturdy, cheap threeM filters that get lint out of the air?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability']","[1, 1, 1]",3,1
+"""Do you have sturdy, cheap threeM filters that have a good customer rating, are not too expensive and seem durable?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1, 1]",5,1
+"""Do you have sturdy, cheap threeM filters to get a smoke smell out of the air?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'smoke odor filtering Ability']","[1, 1, 1]",3,1
+"""Do you have threeM air filters for fungus, mold, and spores?""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",3,1
+"""Do you have threeM air filters that are good for pollen?""",0,3M,1,1,0,NA,0,1,0
+"""Do you have threeM air filters that aren't too generic looking?""",0,3M,1,1,0,NA,0,1,0
+"""Do you have threeM air filters that get lint out of the air?""",0,3M,1,1,0,NA,0,1,0
+"""Do you have threeM air filters that have good material and look expensive?""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",2,0
+"""Do you have threeM air filters to catch the particulates in the air, but aren't going to cost much?""",0,3M,1,1,0,NA,0,2,1
+"""Do you have threeM air filters with allergen defense?""",0,3M,1,1,0,NA,0,1,0
+"""Do you have threeM air filters with lots of pleating that pick up pet hair?""",0,3M,1,1,0,filter material quality,1,2,0
+"""Do you have threeM filters for cat dander?""",0,3M,1,1,0,NA,0,1,0
+"""Do you have threeM filters that aren't too generic looking?""",0,3M,1,1,0,NA,0,1,0
+"""Do you have threeM filters that can pick up viruses and mold?""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""Do you have threeM filters that have good material and look expensive?""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",2,0
+"""Do you have threeM filters with allergen defense?""",0,3M,1,1,0,NA,0,1,0
+"""Do you have a cheap threeM air filter for cat dander?""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""Do you have a cheap threeM air filter that looks good and has a good evaluation but is cheap, please?""",1,3M,1,1,0,"[u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1]",4,1
+"""Do you have a cheap threeM air filter that gets lint out of the air?""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""Do you have a cheap threeM air filter that has good material and looks expensive?""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""Do you have a cheap threeM filter for cat dander?""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""Do you have a cheap threeM filter for the house that traps lint and is not too expensive?""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""Do you have a cheap threeM filter that looks good and has a good evaluation but is cheap, please?""",1,3M,1,1,0,"[u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1]",4,1
+"""Do you have a sturdy, cheap threeM air filter that has good material and looks expensive?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""Do you have a sturdy, cheap threeM air filter that's good for pollen?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pollen filtering ability']","[1, 1, 1]",3,1
+"""Do you have a sturdy, cheap threeM air filter with allergen defense?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'allergen defense']","[1, 1, 1]",3,1
+"""Do you have a sturdy, cheap threeM air filter with lots of pleating that picks up pet hair?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality']","[1, 1, 1]",4,0
+"""Do you have a sturdy, cheap threeM filter for cat dander?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1, 1]",3,0
+"""Do you have a sturdy, cheap threeM filter for fungus, mold, and spores?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1, 1]",5,1
+"""Do you have a sturdy, cheap threeM filter for the house that traps lint and is not too expensive?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1, 1]",4,1
+"""Do you have a sturdy, cheap threeM filter that can help with dirt and has good performance?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1, 1]",4,1
+"""Do you have a sturdy, cheap threeM filter that can pick up viruses and mold?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1, 1]",4,1
+"""Do you have a sturdy, cheap threeM filter that has a good customer rating, is not too expensive and seems durable?""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1, 1]",5,1
+"""Do you have a threeM air filter for fungus, mold, and spores?""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",3,1
+"""Do you have a threeM air filter that can help with dirt and has good performance?""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",2,1
+"""Do you have a threeM air filter that isn't too generic looking?""",0,3M,1,1,0,appearance,1,1,0
+"""Do you have a threeM air filter with lots of pleating that picks up pet hair?""",0,3M,1,1,0,filter material quality,1,2,0
+"""Do you have a threeM filter for fungus, mold, and spores?""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",3,1
+"""Do you have a threeM filter for the house that traps lint and is not too expensive?""",1,3M,1,1,0,"[u'lint and fiber filtering Ability', u'price']","[1, 1]",2,1
+"""Do you have a threeM filter that can help with dirt and has good performance?""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",2,1
+"""Do you have a threeM filter that can pick up viruses and mold?""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""Do you have a threeM filter to catch the particulates in the air, but isn't going to cost much?""",0,3M,1,1,0,price,1,2,0
+"""Do you have a threeM filter to get a smoke smell out of the air?""",0,3M,1,1,0,NA,0,1,0
+"""Do you have a threeM for cat dander?""",0,3M,1,1,0,NA,0,1,0
+"""Do you have a threeM for fungus, mold, and spores?""",0,NA,0,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",3,1
+"""Do you have a threeM that gets lint out of the air?""",0,3M,1,1,0,NA,0,1,0
+"""Do you have a threeM that has a good customer rating, is not too expensive and seems durable?""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",3,1
+"""Do you have a threeM with allergen defense?""",0,3M,1,1,0,NA,0,1,0
+"""Do you have the inexpesive threeM air filter for the house that traps lint and is not too expensive?""",1,3M,1,1,0,"[u'lint and fiber filtering Ability', u'price']","[1, 1]",3,0
+"""Do you have the inexpesive threeM air filter that has a good customer rating, is not too expensive and seems durable?""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",4,0
+"""Do you have the inexpesive threeM air filter that isn't too generic looking?""",0,3M,1,1,0,appearance,1,2,0
+"""Do you have the inexpesive threeM air filter that's good for pollen?""",0,3M,1,1,0,pollen filtering ability,1,2,0
+"""Do you have the inexpesive threeM air filter to get a smoke smell out of the air?""",0,3M,1,1,0,smoke odor filtering Ability,1,2,0
+"""Do you have the inexpesive threeM air filter with allergen defense?""",0,3M,1,1,0,allergen defense,1,2,0
+"""Do you have the inexpesive threeM air filters for cat dander?""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",2,1
+"""Do you have the inexpesive threeM air filters for the house that trap lint and are not too expensive?""",0,3M,1,1,0,NA,0,3,0
+"""Do you have the inexpesive threeM air filters that aren't too generic looking?""",0,3M,1,1,0,NA,0,2,1
+"""Do you have the inexpesive threeM air filters that can pick up viruses and mold?""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",3,0
+"""Do you have the inexpesive threeM filter for cat dander?""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",2,1
+"""Do you have the inexpesive threeM filter for the house that traps lint and is not too expensive?""",1,3M,1,1,0,"[u'lint and fiber filtering Ability', u'price']","[1, 1]",3,0
+"""Do you have the inexpesive threeM filter that gets lint out of the air?""",0,3M,1,1,0,lint and fiber filtering Ability,1,2,0
+"""Do you have the inexpesive threeM filter that has good material and looks expensive?""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",3,1
+"""Do you have the inexpesive threeM filter to catch the particulates in the air, but isn't going to cost much?""",0,3M,1,1,0,price,1,3,0
+"""Do you have the inexpesive threeM filter you have with a good rating that I don't have to replace too often?""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",3,0
+"""Do you have the inexpesive threeM filters that aren't too generic looking?""",0,3M,1,1,0,NA,0,2,1
+"""Do you have the inexpesive threeM filters that can pick up viruses and mold?""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",3,0
+"""Do you have the inexpesive threeM filters with lots of pleating that pick up pet hair?""",0,3M,1,1,0,filter material quality,1,3,0
+"""Do you have the most economic threeM air filter that can help with dirt and has good performance?""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""Do you have the most economic threeM air filters for cat dander?""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""Do you have the most economic threeM air filters for fungus, mold, and spores?""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""Do you have the most economic threeM air filters that are good for pollen?""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""Do you have the most economic threeM air filters that get lint out of the air?""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""Do you have the most economic threeM air filters that have a good customer rating, are not too expensive and seem durable?""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""Do you have the most economic threeM air filters with lots of pleating that pick up pet hair?""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""Do you have the most economic threeM filter for fungus, mold, and spores?""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""Do you have the most economic threeM filter that has a good customer rating, is not too expensive and seems durable?""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""Do you have the most economic threeM filter that isn't too generic looking?""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""Do you have the most economic threeM filter that's good for pollen?""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""Do you have the most economic threeM filter to get a smoke smell out of the air?""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""Do you have the most economic threeM filters for cat dander?""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""Do you have the most economic threeM filters that look good and have a good evaluation but are cheap, please?""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price']","[1, 1, 1]",4,0
+"""Do you have the most economic threeM filters that aren't too generic looking?""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""Do you have the most economic threeM filters that can help with dirt and have good performance?""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""Do you have the most economic threeM filters that have a good customer rating, are not too expensive and seem durable?""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""Do you have the most economic threeM filters to catch the particulates in the air, but aren't going to cost much?""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""Do you have the most economic threeM filters you have with a good rating that I don't have to replace too often?""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""I am looking for cheap threeM air filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""I am looking for cheap threeM air filters that look good and have a good evaluation but are cheap, please""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price']","[1, 1, 1]",4,0
+"""I am looking for cheap threeM air filters that aren't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I am looking for cheap threeM air filters that get lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I am looking for cheap threeM air filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""I am looking for cheap threeM air filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""I am looking for cheap threeM filters for cat dander""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""I am looking for cheap threeM filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""I am looking for cheap threeM filters for the house that trap lint and are not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""I am looking for cheap threeM filters that look good and have a good evaluation but are cheap, please""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price']","[1, 1, 1]",4,0
+"""I am looking for cheap threeM filters that aren't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I am looking for cheap threeM filters that can pick up viruses and mold""",1,3M,1,1,0,"[u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1]",3,1
+"""I am looking for cheap threeM filters that get lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I am looking for cheap threeM filters to catch the particulates in the air, but aren't going to cost much""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""I am looking for cheap threeM filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I am looking for sturdy, cheap threeM air filters for the house that trap lint and are not too expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1, 1]",4,1
+"""I am looking for sturdy, cheap threeM air filters that are good for pollen""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pollen filtering ability']","[1, 1, 1]",3,1
+"""I am looking for sturdy, cheap threeM air filters that have good material and look expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""I am looking for sturdy, cheap threeM air filters to catch the particulates in the air, but aren't going to cost much""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'price']","[1, 1, 1]",4,0
+"""I am looking for sturdy, cheap threeM filters for cat dander""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1, 1]",3,0
+"""I am looking for sturdy, cheap threeM filters that are good for pollen""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pollen filtering ability']","[1, 1, 1]",3,1
+"""I am looking for sturdy, cheap threeM filters that get lint out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability']","[1, 1, 1]",3,1
+"""I am looking for sturdy, cheap threeM filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1, 1]",5,1
+"""I am looking for sturdy, cheap threeM filters that have good material and look expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""I am looking for sturdy, cheap threeM filters to catch the particulates in the air, but aren't going to cost much""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'price']","[1, 1, 1]",4,0
+"""I am looking for sturdy, cheap threeM filters to get a smoke smell out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'smoke odor filtering Ability']","[1, 1, 1]",3,1
+"""I am looking for sturdy, cheap threeM filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality']","[1, 1, 1]",4,0
+"""I am looking for sturdy, cheap threeM filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'MERV rating', u'replacement time']","[1, 1, 1, 1]",4,1
+"""I am looking for threeM air filters for cat dander""",0,3M,1,1,0,NA,0,1,0
+"""I am looking for threeM air filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",3,1
+"""I am looking for threeM air filters that are good for pollen""",0,3M,1,1,0,NA,0,1,0
+"""I am looking for threeM air filters that get lint out of the air""",0,3M,1,1,0,NA,0,1,0
+"""I am looking for threeM air filters with allergen defense""",0,3M,1,1,0,NA,0,1,0
+"""I am looking for threeM filters that aren't too generic looking""",0,3M,1,1,0,NA,0,1,0
+"""I am looking for threeM filters that have good material and look expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",2,0
+"""I am looking for a cheap threeM air filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""I am looking for a cheap threeM filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1]",4,1
+"""I am looking for a cheap threeM filter that gets lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I am looking for a cheap threeM filter that isn't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I am looking for a cheap threeM filter to get a smoke smell out of the air""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""I am looking for a sturdy, cheap threeM air filter to get a smoke smell out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'smoke odor filtering Ability']","[1, 1, 1]",3,1
+"""I am looking for a sturdy, cheap threeM air filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'MERV rating', u'replacement time']","[1, 1, 1, 1]",4,1
+"""I am looking for a sturdy, cheap threeM filter for cat dander""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1, 1]",3,0
+"""I am looking for a sturdy, cheap threeM filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1, 1]",5,1
+"""I am looking for a sturdy, cheap threeM filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1, 1]",4,1
+"""I am looking for a sturdy, cheap threeM filter that has good material and looks expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""I am looking for a sturdy, cheap threeM filter that isn't too generic looking""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'appearance']","[1, 1, 1]",3,1
+"""I am looking for a threeM air filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'lint and fiber filtering Ability', u'price']","[1, 1]",2,1
+"""I am looking for a threeM air filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",2,1
+"""I am looking for a threeM air filter that gets lint out of the air""",0,3M,1,1,0,NA,0,1,0
+"""I am looking for a threeM air filter that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",3,1
+"""I am looking for a threeM filter for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",1,0
+"""I am looking for a threeM filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",3,1
+"""I am looking for a threeM filter that isn't too generic looking""",0,3M,1,1,0,appearance,1,1,0
+"""I am looking for a threeM filter to catch the particulates in the air, but isn't going to cost much""",0,3M,1,1,0,price,1,2,0
+"""I am looking for a threeM filter to get a smoke smell out of the air""",0,3M,1,1,0,NA,0,1,0
+"""I am looking for a threeM filter with lots of pleating that picks up pet hair""",0,3M,1,1,0,filter material quality,1,2,0
+"""I am looking for a threeM filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",2,1
+"""I am looking for a threeM that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",3,1
+"""I am looking for a threeM to catch the particulates in the air, but isn't going to cost much""",0,3M,1,1,0,price,1,2,0
+"""I am looking for a threeM to get a smoke smell out of the air""",0,3M,1,1,0,NA,0,1,0
+"""I am looking for a threeM with lots of pleating that picks up pet hair""",0,3M,1,1,0,filter material quality,1,2,0
+"""I am looking for the inexpesive threeM air filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'appearance', u'customer star rating', u'price']","[1, 1, 1]",4,0
+"""I am looking for the inexpesive threeM air filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",3,0
+"""I am looking for the inexpesive threeM air filter to get a smoke smell out of the air""",0,3M,1,1,0,smoke odor filtering Ability,1,2,0
+"""I am looking for the inexpesive threeM air filter with allergen defense""",0,3M,1,1,0,allergen defense,1,2,0
+"""I am looking for the inexpesive threeM air filters for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",2,1
+"""I am looking for the inexpesive threeM air filters that are good for pollen""",0,3M,1,1,0,NA,0,2,1
+"""I am looking for the inexpesive threeM air filters to catch the particulates in the air, but aren't going to cost much""",0,3M,1,1,0,price,1,3,0
+"""I am looking for the inexpesive threeM air filters to get a smoke smell out of the air""",0,3M,1,1,0,NA,0,2,1
+"""I am looking for the inexpesive threeM air filters with allergen defense""",0,3M,1,1,0,NA,0,2,1
+"""I am looking for the inexpesive threeM air filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",3,0
+"""I am looking for the inexpesive threeM filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",4,0
+"""I am looking for the inexpesive threeM filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'lint and fiber filtering Ability', u'price']","[1, 1]",3,0
+"""I am looking for the inexpesive threeM filter that gets lint out of the air""",0,3M,1,1,0,lint and fiber filtering Ability,1,2,0
+"""I am looking for the inexpesive threeM filters that look good and have a good evaluation but are cheap, please""",1,3M,1,1,0,"[u'customer star rating', u'price']","[1, 1]",4,0
+"""I am looking for the inexpesive threeM filters that are good for pollen""",0,3M,1,1,0,NA,0,2,1
+"""I am looking for the inexpesive threeM filters that aren't too generic looking""",0,3M,1,1,0,NA,0,2,1
+"""I am looking for the inexpesive threeM filters that can help with dirt and have good performance""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",3,0
+"""I am looking for the inexpesive threeM filters to get a smoke smell out of the air""",0,3M,1,1,0,NA,0,2,1
+"""I am looking for the inexpesive threeM filters with allergen defense""",0,3M,1,1,0,NA,0,2,1
+"""I am looking for the most economic threeM air filter for cat dander""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""I am looking for the most economic threeM air filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""I am looking for the most economic threeM air filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""I am looking for the most economic threeM air filter to get a smoke smell out of the air""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""I am looking for the most economic threeM air filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""I am looking for the most economic threeM air filters that look good and have a good evaluation but are cheap, please""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price']","[1, 1, 1]",4,0
+"""I am looking for the most economic threeM air filters that aren't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I am looking for the most economic threeM air filters that can pick up viruses and mold""",1,3M,1,1,0,"[u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1]",3,1
+"""I am looking for the most economic threeM air filters to catch the particulates in the air, but aren't going to cost much""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""I am looking for the most economic threeM air filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""I am looking for the most economic threeM filter that gets lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I am looking for the most economic threeM filter that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""I am looking for the most economic threeM filter that's good for pollen""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""I am looking for the most economic threeM filter you have with a good rating that I don't have to replace too often""",0,3M,1,1,0,NA,0,3,0
+"""I am looking for the most economic threeM filters that can help with dirt and have good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""I am looking for the most economic threeM filters that get lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I am looking for the most economic threeM filters to get a smoke smell out of the air""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""I am looking for the most economic threeM filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I am looking for the most economic threeM filters you have with a good rating that I don't have to replace too often""",0,3M,1,1,0,NA,0,3,0
+"""I haven't been breathing well, so I need threeM filters for that and pollen in the air""",1,3M,1,1,0,"[u'allergen defense', u'pollen filtering ability']","[1, 1]",2,1
+"""I haven't been breathing well, so I need to get threeM air filters for that and pollen in the air""",0,3M,1,1,0,NA,0,2,1
+"""I haven't been breathing well, so I need to get a threeM air filter for that and pollen in the air""",0,3M,1,1,0,"[u'allergen defense', u'pollen filtering ability']","[1, 1]",2,1
+"""I haven't been breathing well, so I need to grab threeM air filters for that and pollen in the air""",0,3M,1,1,0,"[u'allergen defense', u'pollen filtering ability']","[1, 1]",2,1
+"""I haven't been breathing well, so I need to grab a threeM air filter for that and pollen in the air""",1,3M,1,1,0,"[u'allergen defense', u'pollen filtering ability']","[1, 1]",2,1
+"""I haven't been breathing well, so I want to invest in threeM filters for that and pollen in the air""",1,3M,1,1,0,"[u'allergen defense', u'pollen filtering ability']","[1, 1]",2,1
+"""I haven't been breathing well, so I'm here to shop for a threeM filter for that and pollen in the air""",1,3M,1,1,0,"[u'allergen defense', u'pollen filtering ability']","[1, 1]",2,1
+"""I haven't been breathing well, so I'm looking for threeM air filters for that and pollen in the air""",1,3M,1,1,0,"[u'allergen defense', u'pollen filtering ability']","[1, 1]",2,1
+"""I haven't been breathing well, so I'm looking for a threeM air filter for that and pollen in the air""",1,3M,1,1,0,"[u'allergen defense', u'pollen filtering ability']","[1, 1]",2,1
+"""I haven't been breathing well, so someone told me to try threeM filters for that and pollen in the air""",1,3M,1,1,0,"[u'allergen defense', u'pollen filtering ability']","[1, 1]",2,1
+"""I just got a new kitten and I'm experiencing asthma, so I need threeM filters to help me""",1,3M,1,1,0,"[u'pet dander filtering ability', u'allergen defense']","[1, 1]",2,1
+"""I just got a new kitten and I'm experiencing asthma, so I need a threeM filter to help me""",1,3M,1,1,0,"[u'pet dander filtering ability', u'allergen defense']","[1, 1]",2,1
+"""I just got a new kitten and I'm experiencing asthma, so I need to get a threeM filter to help me""",1,3M,1,1,0,"[u'pet dander filtering ability', u'allergen defense']","[1, 1]",2,1
+"""I just got a new kitten and I'm experiencing asthma, so I want to invest in threeM air filters to help me""",1,3M,1,1,0,"[u'pet dander filtering ability', u'allergen defense']","[1, 1]",2,1
+"""I just got a new kitten and I'm experiencing asthma, so I want to invest in a threeM filter to help me""",1,3M,1,1,0,"[u'pet dander filtering ability', u'allergen defense']","[1, 1]",2,1
+"""I just got a new kitten and I'm experiencing asthma, so I'd like to purchase a threeM air filter to help me""",1,3M,1,1,0,"[u'pet dander filtering ability', u'allergen defense']","[1, 1]",2,1
+"""I just got a new kitten and I'm experiencing asthma, so I'd like to purchase a threeM filter to help me""",1,3M,1,1,0,"[u'pet dander filtering ability', u'allergen defense']","[1, 1]",2,1
+"""I just got a new kitten and I'm experiencing asthma, so I'm here to shop for a threeM filter to help me""",1,3M,1,1,0,"[u'pet dander filtering ability', u'allergen defense']","[1, 1]",2,1
+"""I just got a new kitten and I'm experiencing asthma, so someone told me to try threeM filters to help me""",1,3M,1,1,0,"[u'pet dander filtering ability', u'allergen defense']","[1, 1]",2,1
+"""I just got a new kitten and I'm experiencing asthma, so someone told me to try a threeM filter to help me""",1,3M,1,1,0,"[u'pet dander filtering ability', u'allergen defense']","[1, 1]",2,1
+"""I like cheap threeM air filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""I like cheap threeM air filters that are good for pollen""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""I like cheap threeM air filters that can pick up viruses and mold""",1,3M,1,1,0,"[u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1]",3,1
+"""I like cheap threeM air filters that have good material and look expensive""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""I like cheap threeM air filters to get a smoke smell out of the air""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""I like cheap threeM air filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I like cheap threeM filters for the house that trap lint and are not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""I like cheap threeM filters that are good for pollen""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""I like cheap threeM filters to catch the particulates in the air, but aren't going to cost much""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""I like sturdy, cheap threeM air filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1, 1]",5,1
+"""I like sturdy, cheap threeM air filters that have good material and look expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""I like sturdy, cheap threeM air filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'MERV rating', u'replacement time']","[1, 1, 1, 1]",4,1
+"""I like sturdy, cheap threeM filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1, 1]",5,1
+"""I like sturdy, cheap threeM filters that look good and have a good evaluation but are cheap, please""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price']","[1, 1, 1, 1]",5,0
+"""I like sturdy, cheap threeM filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1, 1]",5,1
+"""I like sturdy, cheap threeM filters with allergen defense""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'allergen defense']","[1, 1, 1]",3,1
+"""I like threeM air filters for cat dander""",0,3M,1,1,0,NA,0,1,0
+"""I like threeM air filters that are good for pollen""",0,3M,1,1,0,NA,0,1,0
+"""I like threeM air filters that can help with dirt and have good performance""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",2,1
+"""I like threeM air filters that get lint out of the air""",0,3M,1,1,0,NA,0,1,0
+"""I like threeM air filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",2,1
+"""I like threeM filters for fungus, mold, and spores""",0,NA,0,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",3,1
+"""I like threeM filters that are good for pollen""",0,3M,1,1,0,NA,0,1,0
+"""I like threeM filters that aren't too generic looking""",0,3M,1,1,0,NA,0,1,0
+"""I like threeM filters that can pick up viruses and mold""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""I like threeM filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",2,1
+"""I like a cheap threeM air filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""I like a cheap threeM air filter with allergen defense""",1,3M,1,1,0,"[u'price', u'allergen defense']","[1, 1]",2,1
+"""I like a cheap threeM air filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""I like a cheap threeM filter for cat dander""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""I like a cheap threeM filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""I like a cheap threeM filter that gets lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I like a cheap threeM filter that isn't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I like a cheap threeM filter to get a smoke smell out of the air""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""I like a cheap threeM filter with lots of pleating that picks up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I like a sturdy, cheap threeM air filter for cat dander""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1, 1]",3,0
+"""I like a sturdy, cheap threeM air filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1, 1]",5,1
+"""I like a sturdy, cheap threeM air filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1, 1]",4,1
+"""I like a sturdy, cheap threeM air filter that has good material and looks expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""I like a sturdy, cheap threeM air filter that's good for pollen""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pollen filtering ability']","[1, 1, 1]",3,1
+"""I like a sturdy, cheap threeM air filter to get a smoke smell out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'smoke odor filtering Ability']","[1, 1, 1]",3,1
+"""I like a sturdy, cheap threeM air filter with allergen defense""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'allergen defense']","[1, 1, 1]",3,1
+"""I like a sturdy, cheap threeM filter for cat dander""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1, 1]",3,0
+"""I like a sturdy, cheap threeM filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1, 1]",4,1
+"""I like a sturdy, cheap threeM filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1, 1]",4,1
+"""I like a sturdy, cheap threeM filter that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1, 1]",5,1
+"""I like a sturdy, cheap threeM filter that has good material and looks expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""I like a sturdy, cheap threeM filter that's good for pollen""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pollen filtering ability']","[1, 1, 1]",3,1
+"""I like a threeM air filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",2,1
+"""I like a threeM filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",2,1
+"""I like a threeM filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""I like a threeM filter that isn't too generic looking""",0,3M,1,1,0,appearance,1,1,0
+"""I like a threeM filter that's good for pollen""",0,3M,1,1,0,NA,0,1,0
+"""I like a threeM filter with allergen defense""",0,3M,1,1,0,NA,0,1,0
+"""I like a threeM for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",1,0
+"""I like a threeM that gets lint out of the air""",0,3M,1,1,0,NA,0,1,0
+"""I like a threeM to get a smoke smell out of the air""",0,3M,1,1,0,NA,0,1,0
+"""I like a threeM with lots of pleating that picks up pet hair""",0,3M,1,1,0,filter material quality,1,2,0
+"""I like a threeM you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",2,1
+"""I like the inexpesive threeM air filter for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",2,1
+"""I like the inexpesive threeM air filter that gets lint out of the air""",0,3M,1,1,0,lint and fiber filtering Ability,1,2,0
+"""I like the inexpesive threeM air filter that's good for pollen""",0,3M,1,1,0,pollen filtering ability,1,2,0
+"""I like the inexpesive threeM air filter with allergen defense""",0,3M,1,1,0,allergen defense,1,2,0
+"""I like the inexpesive threeM air filters for the house that trap lint and are not too expensive""",0,3M,1,1,0,NA,0,3,0
+"""I like the inexpesive threeM air filters that aren't too generic looking""",0,3M,1,1,0,NA,0,2,1
+"""I like the inexpesive threeM air filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",4,0
+"""I like the inexpesive threeM air filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",3,0
+"""I like the inexpesive threeM filter for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",2,1
+"""I like the inexpesive threeM filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'appearance', u'customer star rating', u'price']","[1, 1, 1]",4,0
+"""I like the inexpesive threeM filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",3,0
+"""I like the inexpesive threeM filter that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",4,0
+"""I like the inexpesive threeM filter to get a smoke smell out of the air""",0,3M,1,1,0,smoke odor filtering Ability,1,2,0
+"""I like the inexpesive threeM filter with lots of pleating that picks up pet hair""",0,3M,1,1,0,filter material quality,1,3,0
+"""I like the inexpesive threeM filters for cat dander""",0,3M,1,1,0,NA,0,2,1
+"""I like the inexpesive threeM filters that are good for pollen""",0,3M,1,1,0,NA,0,2,1
+"""I like the inexpesive threeM filters that can help with dirt and have good performance""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",3,0
+"""I like the inexpesive threeM filters that can pick up viruses and mold""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",3,0
+"""I like the inexpesive threeM filters to catch the particulates in the air, but aren't going to cost much""",0,3M,1,1,0,price,1,3,0
+"""I like the inexpesive threeM filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",3,0
+"""I like the most economic threeM air filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""I like the most economic threeM air filter that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""I like the most economic threeM air filter that has good material and looks expensive""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""I like the most economic threeM air filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""I like the most economic threeM air filters that are good for pollen""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""I like the most economic threeM air filters that get lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I like the most economic threeM air filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""I like the most economic threeM air filters to get a smoke smell out of the air""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""I like the most economic threeM air filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I like the most economic threeM air filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""I like the most economic threeM filter that gets lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I like the most economic threeM filter to catch the particulates in the air, but isn't going to cost much""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""I like the most economic threeM filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""I like the most economic threeM filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""I like the most economic threeM filters that aren't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I like the most economic threeM filters that can pick up viruses and mold""",1,3M,1,1,0,"[u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1]",3,1
+"""I like the most economic threeM filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""I like the most economic threeM filters with allergen defense""",1,3M,1,1,0,"[u'price', u'allergen defense']","[1, 1]",2,1
+"""I like the most economic threeM filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I want cheap threeM air filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""I want cheap threeM air filters that aren't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I want cheap threeM air filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""I want cheap threeM filters for cat dander""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""I want cheap threeM filters that look good and have a good evaluation but are cheap, please""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price']","[1, 1, 1]",4,0
+"""I want cheap threeM filters that aren't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I want cheap threeM filters to catch the particulates in the air, but aren't going to cost much""",0,3M,1,1,0,NA,0,3,0
+"""I want sturdy, cheap threeM air filters for cat dander""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1, 1]",3,0
+"""I want sturdy, cheap threeM air filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1, 1]",5,1
+"""I want sturdy, cheap threeM air filters that look good and have a good evaluation but are cheap, please""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price']","[1, 1, 1, 1]",5,0
+"""I want sturdy, cheap threeM air filters that have good material and look expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""I want sturdy, cheap threeM air filters to catch the particulates in the air, but aren't going to cost much""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'price']","[1, 1, 1]",4,0
+"""I want sturdy, cheap threeM air filters to get a smoke smell out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'smoke odor filtering Ability']","[1, 1, 1]",3,1
+"""I want sturdy, cheap threeM air filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality']","[1, 1, 1]",4,0
+"""I want sturdy, cheap threeM filters for cat dander""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1, 1]",3,0
+"""I want sturdy, cheap threeM filters that aren't too generic looking""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'appearance']","[1, 1, 1]",3,1
+"""I want sturdy, cheap threeM filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1, 1]",5,1
+"""I want sturdy, cheap threeM filters that have good material and look expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""I want sturdy, cheap threeM filters to catch the particulates in the air, but aren't going to cost much""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'price']","[1, 1, 1]",4,0
+"""I want sturdy, cheap threeM filters with allergen defense""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'allergen defense']","[1, 1, 1]",3,1
+"""I want sturdy, cheap threeM filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality']","[1, 1, 1]",4,0
+"""I want threeM air filters for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",1,0
+"""I want threeM air filters for fungus, mold, and spores""",0,NA,0,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",3,1
+"""I want threeM air filters for the house that trap lint and are not too expensive""",0,3M,1,1,0,NA,0,2,1
+"""I want threeM air filters that are good for pollen""",0,3M,1,1,0,NA,0,1,0
+"""I want threeM air filters that can pick up viruses and mold""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""I want threeM air filters that get lint out of the air""",0,3M,1,1,0,lint and fiber filtering Ability,1,1,0
+"""I want threeM air filters that have good material and look expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",2,0
+"""I want threeM air filters to get a smoke smell out of the air""",0,3M,1,1,0,NA,0,1,0
+"""I want threeM air filters with allergen defense""",0,3M,1,1,0,NA,0,1,0
+"""I want threeM filters for cat dander""",0,NA,0,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",1,0
+"""I want threeM filters that are good for pollen""",0,3M,1,1,0,NA,0,1,0
+"""I want a cheap threeM air filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""I want a cheap threeM air filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1]",4,1
+"""I want a cheap threeM air filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""I want a cheap threeM air filter that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""I want a cheap threeM air filter that has good material and looks expensive""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""I want a cheap threeM air filter to get a smoke smell out of the air""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""I want a cheap threeM filter for cat dander""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""I want a cheap threeM filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""I want a cheap threeM filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1]",4,1
+"""I want a cheap threeM filter that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""I want a cheap threeM filter that has good material and looks expensive""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""I want a cheap threeM filter that's good for pollen""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""I want a cheap threeM filter with lots of pleating that picks up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I want a cheap threeM filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""I want a sturdy, cheap threeM air filter for cat dander""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1, 1]",3,0
+"""I want a sturdy, cheap threeM air filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1, 1]",4,1
+"""I want a sturdy, cheap threeM air filter that gets lint out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability']","[1, 1, 1]",3,1
+"""I want a sturdy, cheap threeM air filter with allergen defense""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'allergen defense']","[1, 1, 1]",3,1
+"""I want a sturdy, cheap threeM filter for cat dander""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1, 1]",3,0
+"""I want a sturdy, cheap threeM filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1, 1]",4,1
+"""I want a sturdy, cheap threeM filter that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1, 1]",5,1
+"""I want a sturdy, cheap threeM filter with lots of pleating that picks up pet hair""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality']","[1, 1, 1]",4,0
+"""I want a threeM air filter for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",1,0
+"""I want a threeM air filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",3,1
+"""I want a threeM air filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",2,1
+"""I want a threeM air filter that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",3,1
+"""I want a threeM air filter that has good material and looks expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",2,0
+"""I want a threeM air filter with lots of pleating that picks up pet hair""",0,3M,1,1,0,filter material quality,1,2,0
+"""I want a threeM air filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",2,1
+"""I want a threeM filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""I want a threeM filter to get a smoke smell out of the air""",0,3M,1,1,0,smoke odor filtering Ability,1,1,0
+"""I want a threeM for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",1,0
+"""I want a threeM that can pick up viruses and mold""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""I want a threeM that's good for pollen""",0,3M,1,1,0,NA,0,1,0
+"""I want the inexpesive threeM air filter for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",2,1
+"""I want the inexpesive threeM air filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'appearance', u'customer star rating', u'price']","[1, 1, 1]",4,0
+"""I want the inexpesive threeM air filter that has good material and looks expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",3,1
+"""I want the inexpesive threeM air filter to get a smoke smell out of the air""",0,3M,1,1,0,smoke odor filtering Ability,1,2,0
+"""I want the inexpesive threeM air filter with allergen defense""",0,3M,1,1,0,allergen defense,1,2,0
+"""I want the inexpesive threeM air filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",3,0
+"""I want the inexpesive threeM air filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",4,0
+"""I want the inexpesive threeM air filters that can pick up viruses and mold""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",3,0
+"""I want the inexpesive threeM air filters that get lint out of the air""",0,3M,1,1,0,lint and fiber filtering Ability,1,2,0
+"""I want the inexpesive threeM air filters that have good material and look expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",3,1
+"""I want the inexpesive threeM filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'lint and fiber filtering Ability', u'price']","[1, 1]",3,0
+"""I want the inexpesive threeM filter that gets lint out of the air""",0,3M,1,1,0,lint and fiber filtering Ability,1,2,0
+"""I want the inexpesive threeM filters that aren't too generic looking""",0,3M,1,1,0,appearance,1,2,0
+"""I want the inexpesive threeM filters that have good material and look expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",3,1
+"""I want the inexpesive threeM filters with allergen defense""",0,3M,1,1,0,allergen defense,1,2,0
+"""I want the most economic threeM air filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1]",4,1
+"""I want the most economic threeM air filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""I want the most economic threeM air filter that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""I want the most economic threeM air filter that has good material and looks expensive""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""I want the most economic threeM air filter to get a smoke smell out of the air""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""I want the most economic threeM air filter with allergen defense""",1,3M,1,1,0,"[u'price', u'allergen defense']","[1, 1]",2,1
+"""I want the most economic threeM air filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""I want the most economic threeM air filters to get a smoke smell out of the air""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""I want the most economic threeM filter for cat dander""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""I want the most economic threeM filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1]",3,1
+"""I want the most economic threeM filter that has good material and looks expensive""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""I want the most economic threeM filter to get a smoke smell out of the air""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""I want the most economic threeM filters that are good for pollen""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""I want the most economic threeM filters that aren't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I want the most economic threeM filters that can help with dirt and have good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""I want the most economic threeM filters that get lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I want the most economic threeM filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""I want the most economic threeM filters to catch the particulates in the air, but aren't going to cost much""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""I want the most economic threeM filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I'd like cheap threeM air filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""I'd like cheap threeM air filters that have good material and look expensive""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""I'd like cheap threeM air filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""I'd like cheap threeM filters for the house that trap lint and are not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""I'd like cheap threeM filters that look good and have a good evaluation but are cheap, please""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price']","[1, 1, 1]",4,0
+"""I'd like cheap threeM filters that aren't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I'd like cheap threeM filters that can pick up viruses and mold""",1,3M,1,1,0,"[u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1]",3,1
+"""I'd like cheap threeM filters that have good material and look expensive""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""I'd like cheap threeM filters with allergen defense""",1,3M,1,1,0,"[u'price', u'allergen defense']","[1, 1]",2,1
+"""I'd like cheap threeM filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I'd like cheap threeM filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""I'd like sturdy, cheap threeM air filters for cat dander""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1, 1]",3,0
+"""I'd like sturdy, cheap threeM air filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1, 1]",5,1
+"""I'd like sturdy, cheap threeM air filters that get lint out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability']","[1, 1, 1]",3,1
+"""I'd like sturdy, cheap threeM air filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1, 1]",5,1
+"""I'd like sturdy, cheap threeM air filters that have good material and look expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""I'd like sturdy, cheap threeM air filters to catch the particulates in the air, but aren't going to cost much""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'price']","[1, 1, 1]",4,0
+"""I'd like sturdy, cheap threeM air filters to get a smoke smell out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'smoke odor filtering Ability']","[1, 1, 1]",3,1
+"""I'd like sturdy, cheap threeM filters that are good for pollen""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pollen filtering ability']","[1, 1, 1]",3,1
+"""I'd like sturdy, cheap threeM filters that can pick up viruses and mold""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1, 1]",4,1
+"""I'd like sturdy, cheap threeM filters that have good material and look expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""I'd like sturdy, cheap threeM filters to get a smoke smell out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'smoke odor filtering Ability']","[1, 1, 1]",3,1
+"""I'd like threeM air filters for cat dander""",0,3M,1,1,0,NA,0,1,0
+"""I'd like threeM air filters that are good for pollen""",0,3M,1,1,0,NA,0,1,0
+"""I'd like threeM air filters that have good material and look expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",2,0
+"""I'd like threeM air filters to get a smoke smell out of the air""",0,3M,1,1,0,NA,0,1,0
+"""I'd like threeM air filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",2,1
+"""I'd like threeM filters that can help with dirt and have good performance""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",2,1
+"""I'd like threeM filters that can pick up viruses and mold""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""I'd like threeM filters that get lint out of the air""",0,3M,1,1,0,NA,0,1,0
+"""I'd like threeM filters that have good material and look expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",2,0
+"""I'd like threeM filters to catch the particulates in the air, but aren't going to cost much""",0,3M,1,1,0,price,1,2,0
+"""I'd like a cheap threeM air filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""I'd like a cheap threeM air filter that's good for pollen""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""I'd like a cheap threeM air filter with lots of pleating that picks up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I'd like a cheap threeM air filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""I'd like a cheap threeM filter for cat dander""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""I'd like a cheap threeM filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""I'd like a cheap threeM filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""I'd like a cheap threeM filter that's good for pollen""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""I'd like a cheap threeM filter to get a smoke smell out of the air""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""I'd like a cheap threeM filter with lots of pleating that picks up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I'd like a sturdy, cheap threeM air filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1, 1]",4,1
+"""I'd like a sturdy, cheap threeM air filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1, 1]",4,1
+"""I'd like a sturdy, cheap threeM air filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1, 1]",4,1
+"""I'd like a sturdy, cheap threeM air filter that gets lint out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability']","[1, 1, 1]",3,1
+"""I'd like a sturdy, cheap threeM air filter that's good for pollen""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pollen filtering ability']","[1, 1, 1]",3,1
+"""I'd like a sturdy, cheap threeM air filter to get a smoke smell out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'smoke odor filtering Ability']","[1, 1, 1]",3,1
+"""I'd like a sturdy, cheap threeM filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1, 1]",4,1
+"""I'd like a sturdy, cheap threeM filter that isn't too generic looking""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'appearance']","[1, 1, 1]",3,1
+"""I'd like a sturdy, cheap threeM filter with lots of pleating that picks up pet hair""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality']","[1, 1, 1]",4,0
+"""I'd like a threeM air filter for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",1,0
+"""I'd like a threeM air filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'appearance', u'customer star rating', u'price']","[1, 1, 1]",3,1
+"""I'd like a threeM air filter with lots of pleating that picks up pet hair""",0,3M,1,1,0,filter material quality,1,2,0
+"""I'd like a threeM air filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",2,1
+"""I'd like a threeM filter for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",1,0
+"""I'd like a threeM filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",3,1
+"""I'd like a threeM filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",2,1
+"""I'd like a threeM filter that gets lint out of the air""",0,3M,1,1,0,lint and fiber filtering Ability,1,1,0
+"""I'd like a threeM filter that has good material and looks expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",2,0
+"""I'd like a threeM filter to catch the particulates in the air, but isn't going to cost much""",0,3M,1,1,0,price,1,2,0
+"""I'd like a threeM filter to get a smoke smell out of the air""",0,3M,1,1,0,smoke odor filtering Ability,1,1,0
+"""I'd like a threeM filter with lots of pleating that picks up pet hair""",0,3M,1,1,0,filter material quality,1,2,0
+"""I'd like a threeM filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",2,1
+"""I'd like a threeM with lots of pleating that picks up pet hair""",0,3M,1,1,0,filter material quality,1,2,0
+"""I'd like the inexpesive threeM air filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'appearance', u'customer star rating', u'price']","[1, 1, 1]",4,0
+"""I'd like the inexpesive threeM air filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",3,0
+"""I'd like the inexpesive threeM air filter that isn't too generic looking""",0,3M,1,1,0,appearance,1,2,0
+"""I'd like the inexpesive threeM air filter that's good for pollen""",0,3M,1,1,0,pollen filtering ability,1,2,0
+"""I'd like the inexpesive threeM air filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",4,0
+"""I'd like the inexpesive threeM air filters that are good for pollen""",0,3M,1,1,0,NA,0,2,1
+"""I'd like the inexpesive threeM air filters that get lint out of the air""",0,3M,1,1,0,lint and fiber filtering Ability,1,2,0
+"""I'd like the inexpesive threeM air filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",4,0
+"""I'd like the inexpesive threeM air filters with allergen defense""",0,3M,1,1,0,NA,0,2,1
+"""I'd like the inexpesive threeM filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",4,0
+"""I'd like the inexpesive threeM filter that has good material and looks expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",3,1
+"""I'd like the inexpesive threeM filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",3,0
+"""I'd like the inexpesive threeM filters that aren't too generic looking""",0,3M,1,1,0,NA,0,2,1
+"""I'd like the inexpesive threeM filters that get lint out of the air""",0,3M,1,1,0,lint and fiber filtering Ability,1,2,0
+"""I'd like the inexpesive threeM filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",4,0
+"""I'd like the inexpesive threeM filters that have good material and look expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",3,1
+"""I'd like the inexpesive threeM filters with lots of pleating that pick up pet hair""",0,3M,1,1,0,filter material quality,1,3,0
+"""I'd like the most economic threeM air filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""I'd like the most economic threeM air filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""I'd like the most economic threeM air filter that has good material and looks expensive""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""I'd like the most economic threeM air filter that's good for pollen""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""I'd like the most economic threeM air filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""I'd like the most economic threeM air filters that look good and have a good evaluation but are cheap, please""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price']","[1, 1, 1]",4,0
+"""I'd like the most economic threeM air filters that are good for pollen""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""I'd like the most economic threeM air filters that aren't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I'd like the most economic threeM air filters that can help with dirt and have good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""I'd like the most economic threeM air filters that have good material and look expensive""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""I'd like the most economic threeM air filters to catch the particulates in the air, but aren't going to cost much""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""I'd like the most economic threeM air filters with allergen defense""",1,3M,1,1,0,"[u'price', u'allergen defense']","[1, 1]",2,1
+"""I'd like the most economic threeM air filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I'd like the most economic threeM air filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""I'd like the most economic threeM filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""I'd like the most economic threeM filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1]",3,1
+"""I'd like the most economic threeM filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""I'd like the most economic threeM filters that can help with dirt and have good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""I'd like the most economic threeM filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I'm here to pick up cheap threeM air filters that can help with dirt and have good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""I'm here to pick up cheap threeM air filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""I'm here to pick up cheap threeM filters for cat dander""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""I'm here to pick up cheap threeM filters that get lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I'm here to pick up cheap threeM filters that have good material and look expensive""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""I'm here to pick up sturdy, cheap threeM air filters to catch the particulates in the air, but aren't going to cost much""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'price']","[1, 1, 1]",4,0
+"""I'm here to pick up sturdy, cheap threeM air filters to get a smoke smell out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'smoke odor filtering Ability']","[1, 1, 1]",3,1
+"""I'm here to pick up sturdy, cheap threeM filters that look good and have a good evaluation but are cheap, please""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price']","[1, 1, 1, 1]",5,0
+"""I'm here to pick up sturdy, cheap threeM filters that are good for pollen""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pollen filtering ability']","[1, 1, 1]",3,1
+"""I'm here to pick up sturdy, cheap threeM filters that have good material and look expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""I'm here to pick up sturdy, cheap threeM filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality']","[1, 1, 1]",4,0
+"""I'm here to pick up threeM air filters for the house that trap lint and are not too expensive""",0,3M,1,1,0,NA,0,2,1
+"""I'm here to pick up threeM air filters that can pick up viruses and mold""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""I'm here to pick up threeM air filters with allergen defense""",0,3M,1,1,0,NA,0,1,0
+"""I'm here to pick up threeM air filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",2,1
+"""I'm here to pick up threeM filters that get lint out of the air""",0,3M,1,1,0,NA,0,1,0
+"""I'm here to pick up threeM filters to catch the particulates in the air, but aren't going to cost much""",0,3M,1,1,0,price,1,2,0
+"""I'm here to pick up a cheap threeM air filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1]",4,1
+"""I'm here to pick up a cheap threeM air filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""I'm here to pick up a cheap threeM air filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1]",3,1
+"""I'm here to pick up a cheap threeM air filter that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""I'm here to pick up a cheap threeM air filter that isn't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I'm here to pick up a cheap threeM air filter that's good for pollen""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""I'm here to pick up a cheap threeM air filter to catch the particulates in the air, but isn't going to cost much""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""I'm here to pick up a cheap threeM air filter to get a smoke smell out of the air""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""I'm here to pick up a cheap threeM air filter with lots of pleating that picks up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I'm here to pick up a cheap threeM filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""I'm here to pick up a cheap threeM filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""I'm here to pick up a cheap threeM filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1]",3,1
+"""I'm here to pick up a cheap threeM filter that gets lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I'm here to pick up a cheap threeM filter that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""I'm here to pick up a cheap threeM filter that has good material and looks expensive""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""I'm here to pick up a cheap threeM filter that isn't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I'm here to pick up a cheap threeM filter with lots of pleating that picks up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I'm here to pick up a sturdy, cheap threeM air filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1, 1]",5,1
+"""I'm here to pick up a sturdy, cheap threeM air filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1, 1]",4,1
+"""I'm here to pick up a sturdy, cheap threeM air filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1, 1]",5,1
+"""I'm here to pick up a sturdy, cheap threeM air filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1, 1]",4,1
+"""I'm here to pick up a sturdy, cheap threeM air filter that isn't too generic looking""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'appearance']","[1, 1, 1]",3,1
+"""I'm here to pick up a sturdy, cheap threeM air filter that's good for pollen""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pollen filtering ability']","[1, 1, 1]",3,1
+"""I'm here to pick up a sturdy, cheap threeM filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1, 1]",4,1
+"""I'm here to pick up a sturdy, cheap threeM filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1, 1]",5,1
+"""I'm here to pick up a sturdy, cheap threeM filter that isn't too generic looking""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'appearance']","[1, 1, 1]",3,1
+"""I'm here to pick up a sturdy, cheap threeM filter to catch the particulates in the air, but isn't going to cost much""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'price']","[1, 1, 1]",4,0
+"""I'm here to pick up a sturdy, cheap threeM filter with allergen defense""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'allergen defense']","[1, 1, 1]",3,1
+"""I'm here to pick up a sturdy, cheap threeM filter with lots of pleating that picks up pet hair""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality']","[1, 1, 1]",4,0
+"""I'm here to pick up a sturdy, cheap threeM filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'MERV rating', u'replacement time']","[1, 1, 1, 1]",4,1
+"""I'm here to pick up a threeM air filter that has good material and looks expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",2,0
+"""I'm here to pick up a threeM air filter with lots of pleating that picks up pet hair""",0,3M,1,1,0,filter material quality,1,2,0
+"""I'm here to pick up a threeM air filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",2,1
+"""I'm here to pick up a threeM filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'lint and fiber filtering Ability', u'price']","[1, 1]",2,1
+"""I'm here to pick up a threeM filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'appearance', u'customer star rating', u'price']","[1, 1, 1]",3,1
+"""I'm here to pick up a threeM filter that has good material and looks expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",2,0
+"""I'm here to pick up a threeM filter that's good for pollen""",0,3M,1,1,0,NA,0,1,0
+"""I'm here to pick up a threeM filter to catch the particulates in the air, but isn't going to cost much""",0,3M,1,1,0,price,1,2,0
+"""I'm here to pick up a threeM filter with allergen defense""",0,3M,1,1,0,NA,0,1,0
+"""I'm here to pick up a threeM for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",1,0
+"""I'm here to pick up a threeM for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'lint and fiber filtering Ability', u'price']","[1, 1]",2,1
+"""I'm here to pick up a threeM that gets lint out of the air""",0,3M,1,1,0,lint and fiber filtering Ability,1,1,0
+"""I'm here to pick up a threeM that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",3,1
+"""I'm here to pick up a threeM to catch the particulates in the air, but isn't going to cost much""",0,3M,1,1,0,price,1,2,0
+"""I'm here to pick up a threeM to get a smoke smell out of the air""",0,3M,1,1,0,NA,0,1,0
+"""I'm here to pick up a threeM you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",2,1
+"""I'm here to pick up the inexpesive threeM air filter for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",2,1
+"""I'm here to pick up the inexpesive threeM air filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'lint and fiber filtering Ability', u'price']","[1, 1]",3,0
+"""I'm here to pick up the inexpesive threeM air filter that has good material and looks expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",3,1
+"""I'm here to pick up the inexpesive threeM air filter to get a smoke smell out of the air""",0,3M,1,1,0,smoke odor filtering Ability,1,2,0
+"""I'm here to pick up the inexpesive threeM air filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",4,0
+"""I'm here to pick up the inexpesive threeM air filters that aren't too generic looking""",0,3M,1,1,0,appearance,1,2,0
+"""I'm here to pick up the inexpesive threeM air filters with allergen defense""",0,3M,1,1,0,NA,0,2,1
+"""I'm here to pick up the inexpesive threeM air filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",3,0
+"""I'm here to pick up the inexpesive threeM filter for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",2,1
+"""I'm here to pick up the inexpesive threeM filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'lint and fiber filtering Ability', u'price']","[1, 1]",3,0
+"""I'm here to pick up the inexpesive threeM filter that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",4,0
+"""I'm here to pick up the inexpesive threeM filter that has good material and looks expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",3,1
+"""I'm here to pick up the inexpesive threeM filter with allergen defense""",0,3M,1,1,0,allergen defense,1,2,0
+"""I'm here to pick up the inexpesive threeM filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",4,0
+"""I'm here to pick up the inexpesive threeM filters for the house that trap lint and are not too expensive""",1,3M,1,1,0,"[u'lint and fiber filtering Ability', u'price']","[1, 1]",3,0
+"""I'm here to pick up the inexpesive threeM filters that are good for pollen""",0,3M,1,1,0,NA,0,2,1
+"""I'm here to pick up the inexpesive threeM filters that can help with dirt and have good performance""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",3,0
+"""I'm here to pick up the inexpesive threeM filters that get lint out of the air""",0,3M,1,1,0,lint and fiber filtering Ability,1,2,0
+"""I'm here to pick up the inexpesive threeM filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",4,0
+"""I'm here to pick up the most economic threeM air filter for cat dander""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""I'm here to pick up the most economic threeM air filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""I'm here to pick up the most economic threeM air filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""I'm here to pick up the most economic threeM air filter that isn't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I'm here to pick up the most economic threeM air filter that's good for pollen""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""I'm here to pick up the most economic threeM air filter with allergen defense""",1,3M,1,1,0,"[u'price', u'allergen defense']","[1, 1]",2,1
+"""I'm here to pick up the most economic threeM air filters that are good for pollen""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""I'm here to pick up the most economic threeM air filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""I'm here to pick up the most economic threeM air filters to catch the particulates in the air, but aren't going to cost much""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""I'm here to pick up the most economic threeM air filters with allergen defense""",1,3M,1,1,0,"[u'price', u'allergen defense']","[1, 1]",2,1
+"""I'm here to pick up the most economic threeM filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1]",3,1
+"""I'm here to pick up the most economic threeM filter that gets lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I'm here to pick up the most economic threeM filters for cat dander""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""I'm here to pick up the most economic threeM filters for the house that trap lint and are not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""I'm here to pick up the most economic threeM filters that can help with dirt and have good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""I'm here to pick up the most economic threeM filters that get lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I'm here to pick up the most economic threeM filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""I'm here to pick up the most economic threeM filters to catch the particulates in the air, but aren't going to cost much""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""I'm here to pick up the most economic threeM filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I'm looking for cheap threeM air filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""I'm looking for cheap threeM air filters for the house that trap lint and are not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""I'm looking for cheap threeM air filters that look good and have a good evaluation but are cheap, please""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price']","[1, 1, 1]",4,0
+"""I'm looking for cheap threeM air filters that get lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I'm looking for cheap threeM air filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I'm looking for cheap threeM filters for cat dander""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""I'm looking for cheap threeM filters for the house that trap lint and are not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""I'm looking for cheap threeM filters that aren't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I'm looking for cheap threeM filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I'm looking for cheap threeM filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""I'm looking for sturdy, cheap threeM air filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1, 1]",5,1
+"""I'm looking for sturdy, cheap threeM air filters that can pick up viruses and mold""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1, 1]",4,1
+"""I'm looking for sturdy, cheap threeM filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1, 1]",5,1
+"""I'm looking for sturdy, cheap threeM filters that look good and have a good evaluation but are cheap, please""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price']","[1, 1, 1, 1]",5,0
+"""I'm looking for sturdy, cheap threeM filters that can help with dirt and have good performance""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1, 1]",4,1
+"""I'm looking for sturdy, cheap threeM filters that have a good customer rating, are not too expensive and seem durable""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1, 1]",5,1
+"""I'm looking for sturdy, cheap threeM filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'MERV rating', u'replacement time']","[1, 1, 1, 1]",4,1
+"""I'm looking for threeM air filters for cat dander""",0,3M,1,1,0,NA,0,1,0
+"""I'm looking for threeM air filters that look good and have a good evaluation but are cheap, please""",0,3M,1,1,0,NA,0,3,0
+"""I'm looking for threeM air filters that are good for pollen""",0,3M,1,1,0,NA,0,1,0
+"""I'm looking for threeM air filters that can help with dirt and have good performance""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",2,1
+"""I'm looking for threeM air filters with allergen defense""",0,3M,1,1,0,NA,0,1,0
+"""I'm looking for threeM filters that can pick up viruses and mold""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""I'm looking for threeM filters that get lint out of the air""",0,3M,1,1,0,NA,0,1,0
+"""I'm looking for threeM filters with lots of pleating that pick up pet hair""",0,3M,1,1,0,filter material quality,1,2,0
+"""I'm looking for a cheap threeM air filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""I'm looking for a cheap threeM air filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""I'm looking for a cheap threeM air filter that has good material and looks expensive""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""I'm looking for a cheap threeM air filter that isn't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I'm looking for a cheap threeM air filter that's good for pollen""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""I'm looking for a cheap threeM air filter with allergen defense""",1,3M,1,1,0,"[u'price', u'allergen defense']","[1, 1]",2,1
+"""I'm looking for a cheap threeM air filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""I'm looking for a cheap threeM filter for cat dander""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""I'm looking for a cheap threeM filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1]",4,1
+"""I'm looking for a cheap threeM filter that gets lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I'm looking for a cheap threeM filter that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1]",4,1
+"""I'm looking for a cheap threeM filter that isn't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I'm looking for a cheap threeM filter to get a smoke smell out of the air""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""I'm looking for a sturdy, cheap threeM air filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1, 1]",5,1
+"""I'm looking for a sturdy, cheap threeM air filter that has good material and looks expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""I'm looking for a sturdy, cheap threeM air filter with allergen defense""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'allergen defense']","[1, 1, 1]",3,1
+"""I'm looking for a sturdy, cheap threeM air filter with lots of pleating that picks up pet hair""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality']","[1, 1, 1]",4,0
+"""I'm looking for a sturdy, cheap threeM air filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'MERV rating', u'replacement time']","[1, 1, 1, 1]",4,1
+"""I'm looking for a sturdy, cheap threeM filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1, 1]",5,1
+"""I'm looking for a sturdy, cheap threeM filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1, 1]",4,1
+"""I'm looking for a sturdy, cheap threeM filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1, 1]",5,1
+"""I'm looking for a sturdy, cheap threeM filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1, 1]",4,1
+"""I'm looking for a sturdy, cheap threeM filter that gets lint out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability']","[1, 1, 1]",3,1
+"""I'm looking for a sturdy, cheap threeM filter that's good for pollen""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pollen filtering ability']","[1, 1, 1]",3,1
+"""I'm looking for a threeM air filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",2,1
+"""I'm looking for a threeM air filter to catch the particulates in the air, but isn't going to cost much""",0,3M,1,1,0,price,1,2,0
+"""I'm looking for a threeM filter for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",1,0
+"""I'm looking for a threeM filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'lint and fiber filtering Ability', u'price']","[1, 1]",2,1
+"""I'm looking for a threeM filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'appearance', u'customer star rating', u'price']","[1, 1, 1]",3,1
+"""I'm looking for a threeM filter that isn't too generic looking""",0,3M,1,1,0,appearance,1,1,0
+"""I'm looking for a threeM filter that's good for pollen""",0,3M,1,1,0,NA,0,1,0
+"""I'm looking for a threeM filter to get a smoke smell out of the air""",0,3M,1,1,0,NA,0,1,0
+"""I'm looking for a threeM filter with allergen defense""",0,3M,1,1,0,NA,0,1,0
+"""I'm looking for a threeM filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",2,1
+"""I'm looking for a threeM for the house that traps lint and is not too expensive""",0,3M,1,1,0,NA,0,2,1
+"""I'm looking for a threeM that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'appearance', u'customer star rating', u'price']","[1, 1, 1]",3,1
+"""I'm looking for a threeM that gets lint out of the air""",0,3M,1,1,0,NA,0,1,0
+"""I'm looking for a threeM that isn't too generic looking""",0,3M,1,1,0,NA,0,1,0
+"""I'm looking for the inexpesive threeM air filter for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",2,1
+"""I'm looking for the inexpesive threeM air filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",4,0
+"""I'm looking for the inexpesive threeM air filter that has good material and looks expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",3,1
+"""I'm looking for the inexpesive threeM air filters that aren't too generic looking""",0,3M,1,1,0,NA,0,2,1
+"""I'm looking for the inexpesive threeM air filters that can pick up viruses and mold""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",3,0
+"""I'm looking for the inexpesive threeM air filters that get lint out of the air""",0,3M,1,1,0,NA,0,2,1
+"""I'm looking for the inexpesive threeM air filters to catch the particulates in the air, but aren't going to cost much""",0,3M,1,1,0,price,1,3,0
+"""I'm looking for the inexpesive threeM air filters to get a smoke smell out of the air""",0,3M,1,1,0,NA,0,2,1
+"""I'm looking for the inexpesive threeM air filters with allergen defense""",0,3M,1,1,0,NA,0,2,1
+"""I'm looking for the inexpesive threeM air filters with lots of pleating that pick up pet hair""",0,3M,1,1,0,filter material quality,1,3,0
+"""I'm looking for the inexpesive threeM filter for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",2,1
+"""I'm looking for the inexpesive threeM filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",4,0
+"""I'm looking for the inexpesive threeM filter that isn't too generic looking""",0,3M,1,1,0,appearance,1,2,0
+"""I'm looking for the inexpesive threeM filter with lots of pleating that picks up pet hair""",0,3M,1,1,0,filter material quality,1,3,0
+"""I'm looking for the inexpesive threeM filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",3,0
+"""I'm looking for the inexpesive threeM filters for the house that trap lint and are not too expensive""",0,3M,1,1,0,NA,0,3,0
+"""I'm looking for the inexpesive threeM filters that have good material and look expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",3,1
+"""I'm looking for the inexpesive threeM filters to get a smoke smell out of the air""",0,3M,1,1,0,NA,0,2,1
+"""I'm looking for the most economic threeM air filter for cat dander""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""I'm looking for the most economic threeM air filter that gets lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I'm looking for the most economic threeM air filter that isn't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I'm looking for the most economic threeM air filter to get a smoke smell out of the air""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""I'm looking for the most economic threeM air filter with allergen defense""",1,3M,1,1,0,"[u'price', u'allergen defense']","[1, 1]",2,1
+"""I'm looking for the most economic threeM air filter with lots of pleating that picks up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I'm looking for the most economic threeM air filters that look good and have a good evaluation but are cheap, please""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price']","[1, 1, 1]",4,0
+"""I'm looking for the most economic threeM air filters that aren't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""I'm looking for the most economic threeM air filters that get lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I'm looking for the most economic threeM air filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I'm looking for the most economic threeM air filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""I'm looking for the most economic threeM filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""I'm looking for the most economic threeM filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""I'm looking for the most economic threeM filter that gets lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""I'm looking for the most economic threeM filter that has good material and looks expensive""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""I'm looking for the most economic threeM filter with allergen defense""",1,3M,1,1,0,"[u'price', u'allergen defense']","[1, 1]",2,1
+"""I'm looking for the most economic threeM filter with lots of pleating that picks up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""I'm looking for the most economic threeM filters for cat dander""",1,3M,1,1,0,"[u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1]",2,0
+"""I'm looking for the most economic threeM filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""I'm looking for the most economic threeM filters for the house that trap lint and are not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""I'm looking for the most economic threeM filters to get a smoke smell out of the air""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""There's lots of pollen and mold in the air, so I need to get a threeM filter for that""",1,3M,1,1,0,"[u'pollen filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""There's lots of pollen and mold in the air, so I need to grab threeM air filters for that""",1,3M,1,1,0,"[u'pollen filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""There's lots of pollen and mold in the air, so I need to grab threeM filters for that""",1,3M,1,1,0,"[u'pollen filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""There's lots of pollen and mold in the air, so I want to invest in threeM filters for that""",1,3M,1,1,0,"[u'pollen filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""There's lots of pollen and mold in the air, so I want to invest in a threeM filter for that""",1,3M,1,1,0,"[u'pollen filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""There's lots of pollen and mold in the air, so I'm here to shop for a threeM filter for that""",1,3M,1,1,0,"[u'pollen filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""There's lots of pollen and mold in the air, so I'm looking for threeM filters for that""",1,3M,1,1,0,"[u'pollen filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""There's lots of pollen and mold in the air, so I'm looking for a threeM air filter for that""",1,3M,1,1,0,"[u'pollen filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""There's lots of pollen and mold in the air, so I'm looking for a threeM filter for that""",1,3M,1,1,0,"[u'pollen filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""There's lots of pollen and mold in the air, so someone told me to try a threeM air filter for that""",1,3M,1,1,0,"[u'pollen filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""While I'm here, I need cheap threeM air filters that look good and have a good evaluation but are cheap, please""",1,3M,1,1,0,"[u'price', u'customer star rating', u'price']","[1, 1, 1]",4,0
+"""While I'm here, I need cheap threeM air filters that are good for pollen""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""While I'm here, I need cheap threeM air filters that aren't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""While I'm here, I need cheap threeM air filters that can help with dirt and have good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""While I'm here, I need cheap threeM air filters that get lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""While I'm here, I need cheap threeM air filters with lots of pleating that pick up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""While I'm here, I need cheap threeM air filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""While I'm here, I need cheap threeM filters for the house that trap lint and are not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""While I'm here, I need cheap threeM filters that can help with dirt and have good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""While I'm here, I need cheap threeM filters to catch the particulates in the air, but aren't going to cost much""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""While I'm here, I need cheap threeM filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""While I'm here, I need sturdy, cheap threeM air filters that look good and have a good evaluation but are cheap, please""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price']","[1, 1, 1, 1]",5,0
+"""While I'm here, I need sturdy, cheap threeM air filters that get lint out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability']","[1, 1, 1]",3,1
+"""While I'm here, I need sturdy, cheap threeM air filters that have good material and look expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""While I'm here, I need sturdy, cheap threeM air filters you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'MERV rating', u'replacement time']","[1, 1, 1, 1]",4,1
+"""While I'm here, I need sturdy, cheap threeM filters for the house that trap lint and are not too expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1, 1]",4,1
+"""While I'm here, I need sturdy, cheap threeM filters that get lint out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability']","[1, 1, 1]",3,1
+"""While I'm here, I need sturdy, cheap threeM filters that have good material and look expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""While I'm here, I need threeM air filters that look good and have a good evaluation but are cheap, please""",1,3M,1,1,0,"[u'customer star rating', u'price']","[1, 1]",3,0
+"""While I'm here, I need threeM air filters that can pick up viruses and mold""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""While I'm here, I need threeM filters with lots of pleating that pick up pet hair""",0,3M,1,1,0,filter material quality,1,2,0
+"""While I'm here, I need a cheap threeM air filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""While I'm here, I need a cheap threeM air filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""While I'm here, I need a cheap threeM air filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1]",4,1
+"""While I'm here, I need a cheap threeM air filter that gets lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""While I'm here, I need a cheap threeM filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""While I'm here, I need a cheap threeM filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1]",4,1
+"""While I'm here, I need a cheap threeM filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""While I'm here, I need a cheap threeM filter that has good material and looks expensive""",1,3M,1,1,0,"[u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1]",3,0
+"""While I'm here, I need a cheap threeM filter with allergen defense""",1,3M,1,1,0,"[u'price', u'allergen defense']","[1, 1]",2,1
+"""While I'm here, I need a cheap threeM filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""While I'm here, I need a sturdy, cheap threeM air filter for cat dander""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1, 1, 1]",3,0
+"""While I'm here, I need a sturdy, cheap threeM air filter for the house that traps lint and is not too expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1, 1]",4,1
+"""While I'm here, I need a sturdy, cheap threeM air filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1, 1]",5,1
+"""While I'm here, I need a sturdy, cheap threeM air filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1, 1]",4,1
+"""While I'm here, I need a sturdy, cheap threeM air filter that gets lint out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'lint and fiber filtering Ability']","[1, 1, 1]",3,1
+"""While I'm here, I need a sturdy, cheap threeM air filter that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1, 1]",5,1
+"""While I'm here, I need a sturdy, cheap threeM air filter that has good material and looks expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""While I'm here, I need a sturdy, cheap threeM air filter to catch the particulates in the air, but isn't going to cost much""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'price']","[1, 1, 1]",4,0
+"""While I'm here, I need a sturdy, cheap threeM air filter to get a smoke smell out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'smoke odor filtering Ability']","[1, 1, 1]",3,1
+"""While I'm here, I need a sturdy, cheap threeM air filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'MERV rating', u'replacement time']","[1, 1, 1, 1]",4,1
+"""While I'm here, I need a sturdy, cheap threeM filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1, 1]",5,1
+"""While I'm here, I need a sturdy, cheap threeM filter that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1, 1, 1]",5,1
+"""While I'm here, I need a sturdy, cheap threeM filter that has good material and looks expensive""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'filter material quality', u'appearance', u'price']","[1, 1, 1, 1, 1]",4,0
+"""While I'm here, I need a sturdy, cheap threeM filter that isn't too generic looking""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'appearance']","[1, 1, 1]",3,1
+"""While I'm here, I need a sturdy, cheap threeM filter to get a smoke smell out of the air""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'smoke odor filtering Ability']","[1, 1, 1]",3,1
+"""While I'm here, I need a sturdy, cheap threeM filter with allergen defense""",1,3M,1,1,0,"[u'sturdiness or durability', u'price', u'allergen defense']","[1, 1, 1]",3,1
+"""While I'm here, I need a threeM air filter for cat dander""",0,3M,1,1,0,"[u'pet dander filtering ability', u'pet dander filtering ability']","[1, 1]",1,0
+"""While I'm here, I need a threeM air filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'appearance', u'customer star rating', u'price']","[1, 1, 1]",3,1
+"""While I'm here, I need a threeM air filter that can pick up viruses and mold""",1,3M,1,1,0,"[u'bacteria filtering ability', u'mold filtering ability']","[1, 1]",2,1
+"""While I'm here, I need a threeM air filter that gets lint out of the air""",0,3M,1,1,0,lint and fiber filtering Ability,1,1,0
+"""While I'm here, I need a threeM air filter that isn't too generic looking""",0,3M,1,1,0,appearance,1,1,0
+"""While I'm here, I need a threeM air filter with lots of pleating that picks up pet hair""",0,3M,1,1,0,filter material quality,1,2,0
+"""While I'm here, I need a threeM filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",3,1
+"""While I'm here, I need a threeM filter that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",3,1
+"""While I'm here, I need a threeM filter that's good for pollen""",0,3M,1,1,0,NA,0,1,0
+"""While I'm here, I need a threeM filter to catch the particulates in the air, but isn't going to cost much""",0,3M,1,1,0,price,1,2,0
+"""While I'm here, I need a threeM filter with lots of pleating that picks up pet hair""",0,3M,1,1,0,filter material quality,1,2,0
+"""While I'm here, I need a threeM that has a good customer rating, is not too expensive and seems durable""",1,3M,1,1,0,"[u'customer star rating', u'price', u'sturdiness or durability']","[1, 1, 1]",3,1
+"""While I'm here, I need a threeM that has good material and looks expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",2,0
+"""While I'm here, I need a threeM you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'MERV rating', u'replacement time']","[1, 1]",2,1
+"""While I'm here, I need the inexpesive threeM air filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",4,0
+"""While I'm here, I need the inexpesive threeM air filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",3,0
+"""While I'm here, I need the inexpesive threeM air filter that gets lint out of the air""",0,3M,1,1,0,lint and fiber filtering Ability,1,2,0
+"""While I'm here, I need the inexpesive threeM air filter that has good material and looks expensive""",1,3M,1,1,0,"[u'filter material quality', u'appearance', u'price']","[1, 1, 1]",3,1
+"""While I'm here, I need the inexpesive threeM air filter that's good for pollen""",0,3M,1,1,0,NA,0,2,1
+"""While I'm here, I need the inexpesive threeM air filters for cat dander""",0,3M,1,1,0,NA,0,2,1
+"""While I'm here, I need the inexpesive threeM air filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",4,0
+"""While I'm here, I need the inexpesive threeM air filters that get lint out of the air""",0,3M,1,1,0,NA,0,2,1
+"""While I'm here, I need the inexpesive threeM air filters with allergen defense""",0,3M,1,1,0,NA,0,2,1
+"""While I'm here, I need the inexpesive threeM air filters with lots of pleating that pick up pet hair""",0,3M,1,1,0,filter material quality,1,3,0
+"""While I'm here, I need the inexpesive threeM filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1]",3,0
+"""While I'm here, I need the inexpesive threeM filter that isn't too generic looking""",0,3M,1,1,0,appearance,1,2,0
+"""While I'm here, I need the inexpesive threeM filter to catch the particulates in the air, but isn't going to cost much""",0,3M,1,1,0,price,1,3,0
+"""While I'm here, I need the inexpesive threeM filter with lots of pleating that picks up pet hair""",0,3M,1,1,0,filter material quality,1,3,0
+"""While I'm here, I need the inexpesive threeM filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1]",4,0
+"""While I'm here, I need the inexpesive threeM filters that are good for pollen""",0,3M,1,1,0,NA,0,2,1
+"""While I'm here, I need the inexpesive threeM filters that aren't too generic looking""",0,3M,1,1,0,NA,0,2,1
+"""While I'm here, I need the inexpesive threeM filters with allergen defense""",0,3M,1,1,0,NA,0,2,1
+"""While I'm here, I need the inexpesive threeM filters with lots of pleating that pick up pet hair""",0,3M,1,1,0,filter material quality,1,3,0
+"""While I'm here, I need the most economic threeM air filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""While I'm here, I need the most economic threeM air filter that looks good and has a good evaluation but is cheap, please""",1,3M,1,1,0,"[u'price', u'appearance', u'customer star rating', u'price']","[1, 1, 1, 1]",4,1
+"""While I'm here, I need the most economic threeM air filter to get a smoke smell out of the air""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""While I'm here, I need the most economic threeM air filter with allergen defense""",1,3M,1,1,0,"[u'price', u'allergen defense']","[1, 1]",2,1
+"""While I'm here, I need the most economic threeM air filter you have with a good rating that I don't have to replace too often""",1,3M,1,1,0,"[u'price', u'MERV rating', u'replacement time']","[1, 1, 1]",3,1
+"""While I'm here, I need the most economic threeM air filters that aren't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""While I'm here, I need the most economic threeM air filters that get lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""While I'm here, I need the most economic threeM air filters to catch the particulates in the air, but aren't going to cost much""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""While I'm here, I need the most economic threeM air filters with allergen defense""",1,3M,1,1,0,"[u'price', u'allergen defense']","[1, 1]",2,1
+"""While I'm here, I need the most economic threeM filter for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""While I'm here, I need the most economic threeM filter that can help with dirt and has good performance""",1,3M,1,1,0,"[u'price', u'dust filtering ability', u'overall air filtering effectiveness']","[1, 1, 1]",3,1
+"""While I'm here, I need the most economic threeM filter that gets lint out of the air""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability']","[1, 1]",2,1
+"""While I'm here, I need the most economic threeM filter that isn't too generic looking""",1,3M,1,1,0,"[u'price', u'appearance']","[1, 1]",2,1
+"""While I'm here, I need the most economic threeM filter that's good for pollen""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""While I'm here, I need the most economic threeM filter to catch the particulates in the air, but isn't going to cost much""",0,3M,1,1,0,"[u'price', u'price']","[1, 1]",3,0
+"""While I'm here, I need the most economic threeM filter to get a smoke smell out of the air""",1,3M,1,1,0,"[u'price', u'smoke odor filtering Ability']","[1, 1]",2,1
+"""While I'm here, I need the most economic threeM filter with lots of pleating that picks up pet hair""",1,3M,1,1,0,"[u'price', u'filter material quality']","[1, 1]",3,0
+"""While I'm here, I need the most economic threeM filters for fungus, mold, and spores""",1,3M,1,1,0,"[u'price', u'mold filtering ability', u'mold filtering ability', u'spore filtering Ability']","[1, 1, 1, 1]",4,1
+"""While I'm here, I need the most economic threeM filters for the house that trap lint and are not too expensive""",1,3M,1,1,0,"[u'price', u'lint and fiber filtering Ability', u'price']","[1, 1, 1]",3,1
+"""While I'm here, I need the most economic threeM filters that are good for pollen""",1,3M,1,1,0,"[u'price', u'pollen filtering ability']","[1, 1]",2,1
+"""While I'm here, I need the most economic threeM filters that can pick up viruses and mold""",1,3M,1,1,0,"[u'price', u'bacteria filtering ability', u'mold filtering ability']","[1, 1, 1]",3,1

@@ -1,92 +1,93 @@
-"""Can I buy threeM filters or Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Can I buy threeM or Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Can I buy threeM, Honeywell, or Nordic Pure filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""Can I buy a threeM filter or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Can you help me with threeM and Nordic Pure air filter while I'm here?""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Can you help me with a threeM air filter or Nordic Pure air filter""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Can you help me with a threeM filter or Nordic Pure filte while I'm here?""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Can you help me with a threeM or Nordic Pure air filte while I'm here?""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Can you help me with a threeM or Nordic Pure air filter""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Can you help me with a threeM or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Can you help me with a threeM, Honeywell, or Nordic Pure filte while I'm here?""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""Do you have threeM air filters or Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Do you have threeM and Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Do you have threeM, Honeywell, or Nordic Pure filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""Do you have a threeM filter or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Here to pick up threeM and Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Here to pick up a threeM or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Here to pick up a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I am here to buy threeM or Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I am here to buy threeM, Honeywell, or Nordic Pure air filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I am here to buy a threeM or Nordic Pure air filter""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I am here to buy a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I don't know what I like yet, but it's between a Nordic Pure or Honeywell air filter""",1,"[u'Nordic Pure', u'Honeywell']","[0, 0]",2,1
-"""I don't know what I like yet, but it's between a Nordic Pure or Honeywell filter""",1,"[u'Nordic Pure', u'Honeywell']","[0, 0]",2,1
-"""I don't know what I need to get yet, but it's between a Nordic Pure or Honeywell air filter""",1,"[u'Nordic Pure', u'Honeywell']","[0, 0]",2,1
-"""I don't know what I need to get yet, but it's between a Nordic Pure or Honeywell filter""",1,"[u'Nordic Pure', u'Honeywell']","[0, 0]",2,1
-"""I don't know what I need yet, but it's between a Nordic Pure or Honeywell air filter""",1,"[u'Nordic Pure', u'Honeywell']","[0, 0]",2,1
-"""I don't know what I want to invest in yet, but it's between a Nordic Pure or Honeywell air filter""",1,"[u'Nordic Pure', u'Honeywell']","[0, 0]",2,1
-"""I don't know what I'd like to purchase yet, but it's between Nordic Pure or Honeywell filters""",1,"[u'Nordic Pure', u'Honeywell']","[0, 0]",2,1
-"""I don't know what I'm here to shop for yet, but it's between a Nordic Pure or Honeywell air filter""",1,"[u'Nordic Pure', u'Honeywell']","[0, 0]",2,1
-"""I don't know what I'm looking for yet, but it's between a Nordic Pure or Honeywell air filter""",1,"[u'Nordic Pure', u'Honeywell']","[0, 0]",2,1
-"""I need threeM filters, but I also want to look at Nordic Pure and Honeywell as well.""",1,"[u'3M', u'Nordic Pure', u'Honeywell']","[1, 0, 0]",3,1
-"""I need an air filter that is either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I need either a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I need to get threeM air filters, but I also want to look at Nordic Pure and Honeywell as well.""",1,"[u'3M', u'Nordic Pure', u'Honeywell']","[1, 0, 0]",3,1
-"""I need to get threeM filters, but I also want to look at Nordic Pure and Honeywell as well.""",1,"[u'3M', u'Nordic Pure', u'Honeywell']","[1, 0, 0]",3,1
-"""I need to get either threeM, Honeywell, or Nordic Pure air filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I need to get either a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I need to grab threeM air filters, but I also want to look at Nordic Pure and Honeywell as well.""",1,"[u'3M', u'Nordic Pure', u'Honeywell']","[1, 0, 0]",3,1
-"""I need to grab a threeM filter, but I also want to look at Nordic Pure and Honeywell as well.""",1,"[u'3M', u'Nordic Pure', u'Honeywell']","[1, 0, 0]",3,1
-"""I need to grab either a threeM, Honeywell, or Nordic Pure filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I think I need threeM filters or Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I think I need threeM or Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I think I need threeM or Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I think I need a threeM filter or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I want to invest in an air filter that is either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I want to invest in either threeM, Honeywell, or Nordic Pure filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I want to invest in either a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I want to invest in filters that are either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I want to look at threeM or Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I want to look at threeM or Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I want to look at a threeM or Nordic Pure air filter""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I want to look at a threeM, Honeywell, or Nordic Pure filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I'd like to purchase threeM filters, but I also want to look at Nordic Pure and Honeywell as well.""",1,"[u'3M', u'Nordic Pure', u'Honeywell']","[1, 0, 0]",3,1
-"""I'd like to purchase either threeM, Honeywell, or Nordic Pure air filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I'd like to purchase either a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I'd like to purchase filters that are either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I'm here to shop for a threeM filter, but I also want to look at Nordic Pure and Honeywell as well.""",1,"[u'3M', u'Nordic Pure', u'Honeywell']","[1, 0, 0]",3,1
-"""I'm here to shop for an air filter that is either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I'm here to shop for either threeM, Honeywell, or Nordic Pure air filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I'm here to shop for either a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I'm interested in threeM air filters or Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I'm interested in a threeM filter or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I'm interested in a threeM or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I'm interested in a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I'm looking for threeM or Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I'm looking for threeM, Honeywell, or Nordic Pure air filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I'm looking for a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I'm looking for a threeM, Honeywell, or Nordic Pure filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I'm looking for a filter that is either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I'm looking for either threeM, Honeywell, or Nordic Pure air filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I'm looking for either a threeM, Honeywell, or Nordic Pure filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""I'm shopping for threeM and Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I'm shopping for threeM and Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I'm shopping for threeM filters or Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""I'm shopping for a threeM air filter or Nordic Pure air filter""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Looking to purchase threeM, Honeywell, or Nordic Pure air filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""Looking to purchase threeM, Honeywell, or Nordic Pure filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""Looking to purchase a threeM or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Looking to purchase a threeM, Honeywell, or Nordic Pure filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""While I'm here, I need to purchase threeM, Honeywell, or Nordic Pure filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""While I'm here, I need to purchase a threeM air filter or Nordic Pure air filter""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""While I'm here, I need to purchase a threeM filter or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""While I'm here, I need to purchase a threeM, Honeywell, or Nordic Pure filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""Would you mind telling me about threeM or Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Would you mind telling me about threeM or Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Would you mind telling me about a threeM or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""Would you mind telling me about a threeM, Honeywell, or Nordic Pure filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 0, 0]",3,1
-"""someone told me to try threeM filters, but I also want to look at Nordic Pure and Honeywell as well.""",1,"[u'3M', u'Nordic Pure', u'Honeywell']","[1, 0, 0]",3,1
-"""someone told me to try a filter that is either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""someone told me to try air filters that are either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
-"""someone told me to try an air filter that is either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 0]",2,1
+Query,Response Correct?,Brands detected,Brands found in query?,# of brands expected,Correct # of brands detected?
+"""Can I buy threeM filters or Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Can I buy threeM or Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Can I buy threeM, Honeywell, or Nordic Pure filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""Can I buy a threeM filter or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Can you help me with threeM and Nordic Pure air filter while I'm here?""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Can you help me with a threeM air filter or Nordic Pure air filter""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Can you help me with a threeM filter or Nordic Pure filte while I'm here?""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Can you help me with a threeM or Nordic Pure air filte while I'm here?""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Can you help me with a threeM or Nordic Pure air filter""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Can you help me with a threeM or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Can you help me with a threeM, Honeywell, or Nordic Pure filte while I'm here?""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""Do you have threeM air filters or Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Do you have threeM and Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Do you have threeM, Honeywell, or Nordic Pure filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""Do you have a threeM filter or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Here to pick up threeM and Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Here to pick up a threeM or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Here to pick up a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I am here to buy threeM or Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I am here to buy threeM, Honeywell, or Nordic Pure air filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I am here to buy a threeM or Nordic Pure air filter""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I am here to buy a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I don't know what I like yet, but it's between a Nordic Pure or Honeywell air filter""",1,"[u'Nordic Pure', u'Honeywell']","[1, 1]",2,1
+"""I don't know what I like yet, but it's between a Nordic Pure or Honeywell filter""",1,"[u'Nordic Pure', u'Honeywell']","[1, 1]",2,1
+"""I don't know what I need to get yet, but it's between a Nordic Pure or Honeywell air filter""",1,"[u'Nordic Pure', u'Honeywell']","[1, 1]",2,1
+"""I don't know what I need to get yet, but it's between a Nordic Pure or Honeywell filter""",1,"[u'Nordic Pure', u'Honeywell']","[1, 1]",2,1
+"""I don't know what I need yet, but it's between a Nordic Pure or Honeywell air filter""",1,"[u'Nordic Pure', u'Honeywell']","[1, 1]",2,1
+"""I don't know what I want to invest in yet, but it's between a Nordic Pure or Honeywell air filter""",1,"[u'Nordic Pure', u'Honeywell']","[1, 1]",2,1
+"""I don't know what I'd like to purchase yet, but it's between Nordic Pure or Honeywell filters""",1,"[u'Nordic Pure', u'Honeywell']","[1, 1]",2,1
+"""I don't know what I'm here to shop for yet, but it's between a Nordic Pure or Honeywell air filter""",1,"[u'Nordic Pure', u'Honeywell']","[1, 1]",2,1
+"""I don't know what I'm looking for yet, but it's between a Nordic Pure or Honeywell air filter""",1,"[u'Nordic Pure', u'Honeywell']","[1, 1]",2,1
+"""I need threeM filters, but I also want to look at Nordic Pure and Honeywell as well.""",1,"[u'3M', u'Nordic Pure', u'Honeywell']","[1, 1, 1]",3,1
+"""I need an air filter that is either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I need either a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I need to get threeM air filters, but I also want to look at Nordic Pure and Honeywell as well.""",1,"[u'3M', u'Nordic Pure', u'Honeywell']","[1, 1, 1]",3,1
+"""I need to get threeM filters, but I also want to look at Nordic Pure and Honeywell as well.""",1,"[u'3M', u'Nordic Pure', u'Honeywell']","[1, 1, 1]",3,1
+"""I need to get either threeM, Honeywell, or Nordic Pure air filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I need to get either a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I need to grab threeM air filters, but I also want to look at Nordic Pure and Honeywell as well.""",1,"[u'3M', u'Nordic Pure', u'Honeywell']","[1, 1, 1]",3,1
+"""I need to grab a threeM filter, but I also want to look at Nordic Pure and Honeywell as well.""",1,"[u'3M', u'Nordic Pure', u'Honeywell']","[1, 1, 1]",3,1
+"""I need to grab either a threeM, Honeywell, or Nordic Pure filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I think I need threeM filters or Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I think I need threeM or Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I think I need threeM or Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I think I need a threeM filter or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I want to invest in an air filter that is either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I want to invest in either threeM, Honeywell, or Nordic Pure filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I want to invest in either a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I want to invest in filters that are either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I want to look at threeM or Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I want to look at threeM or Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I want to look at a threeM or Nordic Pure air filter""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I want to look at a threeM, Honeywell, or Nordic Pure filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I'd like to purchase threeM filters, but I also want to look at Nordic Pure and Honeywell as well.""",1,"[u'3M', u'Nordic Pure', u'Honeywell']","[1, 1, 1]",3,1
+"""I'd like to purchase either threeM, Honeywell, or Nordic Pure air filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I'd like to purchase either a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I'd like to purchase filters that are either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I'm here to shop for a threeM filter, but I also want to look at Nordic Pure and Honeywell as well.""",1,"[u'3M', u'Nordic Pure', u'Honeywell']","[1, 1, 1]",3,1
+"""I'm here to shop for an air filter that is either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I'm here to shop for either threeM, Honeywell, or Nordic Pure air filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I'm here to shop for either a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I'm interested in threeM air filters or Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I'm interested in a threeM filter or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I'm interested in a threeM or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I'm interested in a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I'm looking for threeM or Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I'm looking for threeM, Honeywell, or Nordic Pure air filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I'm looking for a threeM, Honeywell, or Nordic Pure air filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I'm looking for a threeM, Honeywell, or Nordic Pure filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I'm looking for a filter that is either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I'm looking for either threeM, Honeywell, or Nordic Pure air filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I'm looking for either a threeM, Honeywell, or Nordic Pure filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""I'm shopping for threeM and Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I'm shopping for threeM and Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I'm shopping for threeM filters or Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""I'm shopping for a threeM air filter or Nordic Pure air filter""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Looking to purchase threeM, Honeywell, or Nordic Pure air filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""Looking to purchase threeM, Honeywell, or Nordic Pure filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""Looking to purchase a threeM or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Looking to purchase a threeM, Honeywell, or Nordic Pure filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""While I'm here, I need to purchase threeM, Honeywell, or Nordic Pure filters""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""While I'm here, I need to purchase a threeM air filter or Nordic Pure air filter""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""While I'm here, I need to purchase a threeM filter or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""While I'm here, I need to purchase a threeM, Honeywell, or Nordic Pure filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""Would you mind telling me about threeM or Nordic Pure air filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Would you mind telling me about threeM or Nordic Pure filters""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Would you mind telling me about a threeM or Nordic Pure filter""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""Would you mind telling me about a threeM, Honeywell, or Nordic Pure filter""",1,"[u'3M', u'Honeywell', u'Nordic Pure']","[1, 1, 1]",3,1
+"""someone told me to try threeM filters, but I also want to look at Nordic Pure and Honeywell as well.""",1,"[u'3M', u'Nordic Pure', u'Honeywell']","[1, 1, 1]",3,1
+"""someone told me to try a filter that is either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""someone told me to try air filters that are either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1
+"""someone told me to try an air filter that is either threeM or Nordic Pure, please""",1,"[u'3M', u'Nordic Pure']","[1, 1]",2,1

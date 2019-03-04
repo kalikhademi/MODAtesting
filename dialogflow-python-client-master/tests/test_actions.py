@@ -252,7 +252,7 @@ class TestActions(unittest.TestCase):
         #print(quantAttrDict)
 
         #for i in theRange:
-        for i in range(9,11):
+        for i in range(11,12):
 
             incorrectQueries = []
             allQueries = []
@@ -260,7 +260,7 @@ class TestActions(unittest.TestCase):
             fileTotal = 0
             print("Checking Case", i, ".txt")
 
-            filename = path + 'case' + str(i) + '_testing_withBrackets.txt'
+            filename = path + 'case' + str(i) + '_testing.txt'
             filepath = open(filename, 'r')
             file = filepath.readlines()
             filepath.close()
@@ -526,9 +526,10 @@ class TestActions(unittest.TestCase):
                     queryInfo.append(val)
                     queryInfo.append(cor)
                     
-                    val, cor = findAttribute(parameters, 'filterAttributes', query, filterAttrDict)
+                    val, cor = findAttribute(parameters, 'quantitativeAttr', query, quantAttrDict)
                     queryInfo.append(val)
                     queryInfo.append(cor)
+
 
                 allQueries.append(queryInfo)
 

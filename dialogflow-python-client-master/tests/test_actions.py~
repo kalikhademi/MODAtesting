@@ -222,21 +222,27 @@ class TestActions(unittest.TestCase):
         brandDict = {}
         for i in brandSynonym:
             brandDict[i['value']] = i['synonyms']
+            brandDict[i['value']].append(i['value'])
         criteriaDict = {}
         for i in criteriaSynonym:
             criteriaDict[i['value']] = i['synonyms']
+            criteriaDict[i['value']].append(i['value'])
         filterDict = {}
         for i in filterSynonym:
             filterDict[i['value']] = i['synonyms']
+            filterDict[i['value']].append(i['value'])
         filterAttrDict = {}
         for i in filterAttrSynonym:
             filterAttrDict[i['value']] = i['synonyms']
+            filterAttrDict[i['value']].append(i['value'])
         nonQuantAttrDict = {}
         for i in nonQuantAttrSynonym:
             nonQuantAttrDict[i['value']] = i['synonyms']
+            nonQuantAttrDict[i['value']].append(i['value'])
         quantAttrDict = {}
         for i in quantAttrSynonym:
             quantAttrDict[i['value']] = i['synonyms']
+            quantAttrDict[i['value']].append(i['value'])
 
         #print(brandDict)
         #print(criteriaDict)
@@ -450,7 +456,9 @@ class TestActions(unittest.TestCase):
                     queryInfo.append(cor)
                     # Make sure the correct number of attributes are returned
                     queryInfo.append(attributeCount[0])
-                    if (len(val) == attributeCount[0]):
+                    if (isinstance(val, list) and attributeCount[0] == len(val)):
+                        queryInfo.append(1)
+                    elif (not isinstance(val, list) and val != "NA" and attributeCount[0] == 1):
                         queryInfo.append(1)
                     else:
                         queryInfo.append(0)
@@ -460,7 +468,9 @@ class TestActions(unittest.TestCase):
                     queryInfo.append(val)
                     queryInfo.append(cor)
                     queryInfo.append(attributeCount[0])
-                    if (len(val) == attributeCount[0]):
+                    if (isinstance(val, list) and len(val) == attributeCount[0]):
+                        queryInfo.append(1)
+                    elif (not isinstance(val, list) and val != "NA" and attributeCount[0] == 1):
                         queryInfo.append(1)
                     else:
                         queryInfo.append(0)
@@ -469,7 +479,9 @@ class TestActions(unittest.TestCase):
                     queryInfo.append(val)
                     queryInfo.append(cor)
                     queryInfo.append(attributeCount[1])
-                    if (len(val) == attributeCount[1]):
+                    if (isinstance(val, list) and len(val) == attributeCount[1]):
+                        queryInfo.append(1)
+                    elif (not isinstance(val, list) and val != "NA" and attributeCount[1] == 1):
                         queryInfo.append(1)
                     else:
                         queryInfo.append(0)
@@ -479,7 +491,9 @@ class TestActions(unittest.TestCase):
                     queryInfo.append(val)
                     queryInfo.append(cor)
                     queryInfo.append(attributeCount[0])
-                    if (len(val) == attributeCount[0]):
+                    if (isinstance(val, list) and len(val) == attributeCount[0]):
+                        queryInfo.append(1)
+                    elif (not isinstance(val, list) and val != "NA" and attributeCount[0] == 1):
                         queryInfo.append(1)
                     else:
                         queryInfo.append(0)
@@ -488,7 +502,9 @@ class TestActions(unittest.TestCase):
                     queryInfo.append(val)
                     queryInfo.append(cor)
                     queryInfo.append(attributeCount[1])
-                    if (len(val) == attributeCount[1]):
+                    if (isinstance(val, list) and len(val) == attributeCount[1]):
+                        queryInfo.append(1)
+                    elif (not isinstance(val, list) and val != "NA" and attributeCount[1] == 1):
                         queryInfo.append(1)
                     else:
                         queryInfo.append(0)
@@ -498,7 +514,9 @@ class TestActions(unittest.TestCase):
                     queryInfo.append(val)
                     queryInfo.append(cor)
                     queryInfo.append(attributeCount[0])
-                    if (len(val) == attributeCount[0]):
+                    if (isinstance(val, list) and len(val) == attributeCount[0]):
+                        queryInfo.append(1)
+                    elif (not isinstance(val, list) and val != "NA" and attributeCount[0] == 1):
                         queryInfo.append(1)
                     else:
                         queryInfo.append(0)
